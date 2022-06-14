@@ -6,6 +6,7 @@ interface Action {
 interface IPage {
   id: string
   html: string
+  random?: boolean
   actions: Action[]
 }
 
