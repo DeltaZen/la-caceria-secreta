@@ -101,6 +101,32 @@ const pageArray: IPage[] = [
       },
     ],
   },
+  {
+    id: '01',
+    html: `<p class="h1alt">Cómo empieza todo</p>
+
+    <p>Junto con el resto de alumnos, has abandonado Koras hace pocos días, bajo la tutela de unos cuantos instructores de Uhdanfiún, para practicar las habilidades de supervivencia y exploración.</p>
+  
+    <p>Tras una larga marcha que os ha llevado hacia el este, llegáis agotados a una zona aislada y montañosa, cerca del desierto de Guiños y del bosque de Corocín, para hacer vivaque. La aldea más cercana, Banta, está a varios kilómetros de distancia. Os dividís por grupos para construir refugios y pasar la noche.</p>
+  
+    <p>Uno de los grupos destaca sobre el resto. Su cabecilla se llama Deilos, es hijo de una buena familia Ainari y cuenta con un grupo de moscones que lo adulan. Deilos es Ibtahán de sexto grado, pero su comportamiento prepotente no te acaba de convencer, por lo que ya has declinado en varias ocasiones su ofrecimiento para unirte a la camarilla que él lidera.</p>
+  
+    <p>Tus compañeros de grupo son un simpático Ritión llamado Zarenyo y Dahzor, perteneciente a la Horda Roja. Has podido observar que Deilos y los demás desprecian bastante a Zarenyo, al que no consideran merecedor de pertenecer a Uhdanfiún.</p>
+  
+    <p>Os disponíais a buscar alimento después de construir vuestros refugios, cuando os atacan súbitamente con proyectiles, principalmente rocas y pedruscos que parecen ser lanzados mediante hondas, aunque no acertáis a distinguir los agresores.</p>
+  
+    <p>En medio del caos producido por el ataque sorpresa, tienes que tomar tu primera decisión.</p>`,
+    actions: [
+      {
+        id: '199',
+        text: 'Decides protegerte y estar a la defensiva ante un posible ataque',
+      },
+      {
+        id: '165',
+        text: 'Intentas contraatacar',
+      },
+    ],
+  },
 ]
 
 export const pages: PageDict = pageArray.reduce(
