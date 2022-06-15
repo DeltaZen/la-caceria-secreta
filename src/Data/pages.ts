@@ -548,7 +548,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'Ir al principio',
       },
     ],
@@ -1038,7 +1038,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'Ir al principio',
       },
     ],
@@ -2109,7 +2109,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'Ir al principio',
       },
     ],
@@ -2183,7 +2183,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'Ir al principio',
       },
     ],
@@ -2215,7 +2215,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'Ir al principio',
       },
     ],
@@ -2615,7 +2615,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -2685,7 +2685,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'Ir al principio',
       },
     ],
@@ -2755,7 +2755,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'Ir al principio',
       },
     ],
@@ -3542,7 +3542,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3588,7 +3588,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3606,7 +3606,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3656,7 +3656,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3702,7 +3702,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3744,7 +3744,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3772,7 +3772,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3788,7 +3788,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3806,7 +3806,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3828,7 +3828,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3848,7 +3848,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -3888,7 +3888,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -4293,7 +4293,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -4395,7 +4395,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -4417,7 +4417,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -4495,7 +4495,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -4521,7 +4521,7 @@ const pageArray: IPage[] = [
     <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -4679,7 +4679,7 @@ const pageArray: IPage[] = [
     </table>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -4885,7 +4885,7 @@ const pageArray: IPage[] = [
     <p>Primer mes del año. Coincidiría más o menos con diciembre.</p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
@@ -4905,7 +4905,7 @@ const pageArray: IPage[] = [
     <p class="cubierta" id="img211"><img alt="imagen" src="../Images/211.jpg"/></p>`,
     actions: [
       {
-        id: 'inicio',
+        id: 'intro',
         text: 'ir al principio',
       },
     ],
