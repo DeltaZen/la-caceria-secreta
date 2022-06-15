@@ -2896,100 +2896,208 @@ const pageArray: IPage[] = [
   },
   {
     id: '141',
-    html: 'www',
+    html: '<p>Dudas un instante si deberías acercarte al encapuchado o si lo mejor es saltar la tapia y acercarse a la cabaña para saber qué se proponen Deilos y sus compinches. Tu sentido de la observación te dice que sabrás tomar la buena decisión después de sopesar estas dos opciones: «Bribonzuela» y «Curiosear».</p>',
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '21',
+        text: 'piensas que «Ecuación» es la respuesta correcta, te acercas a al encapuchado',
+      },
+      {
+        id: '118',
+        text: 'crees que «Reacción» es la respuesta correcta, saltas la tapia para seguir avanzando hasta la cabaña',
       },
     ],
   },
   {
     id: '142',
-    html: 'www',
+    html: `<p>Interpones tu brazo con firmeza y le haces bajar el arco, mientras le susurras enfadado:</p>
+
+    <p>—¿Estás loca? ¡Solo van a robar una gallinas, tampoco hay que matarles por eso!</p>
+  
+    <p>Te clava su mirada de acero azul apretando los dientes.</p>
+  
+    <p>—Eres más idiota de lo que imaginé. Van a matarlos a todos… o algo peor.</p>
+  
+    <p>La voz se la ha quebrado al terminar la frase.</p>
+  
+    <p>Durante una milésima de segundo te quedas paralizado. Tienes un extraño presentimiento que te obliga a tomar una decisión.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '18',
+        text: 'cargas tu arco para disparar',
+      },
+      {
+        id: '118',
+        text: 'no la crees y corres hacia el grupo',
       },
     ],
   },
   {
     id: '143',
-    html: 'www',
+    html: `<p>Inesperadamente, ves cómo el corueco retrocede borboteando mientras clava la vista en algo que tienes por encima de tu espalda. Un brillo azulado resplandece y se proyecta sobre el corueco que resopla irritado y agita los brazos, sin dejar de retroceder. Asombrado compruebas cómo se retira y se interna nuevamente en el bosque. Tan solo queda un pequeño rastro de sangre y el hedor infecto flotando en el aire.</p>
+
+    <p>Cuando te das la vuelta, te sorprende ver a un hombre muy alto y espigado, con rasgos aristados y una larga capa, que tiene una trenza de pelo blanco que descansa sobre su hombro. Su ojo derecho esta tapado por un oscuro parche. Admiras desconcertado como parece flotar sobre el suelo rodeado de un halo lumínico que decrece a medida que desciende lentamente y sus pies descalzos pisan suavemente la esponjosa hierba junto al arroyo. Sujeta con firmeza un bastón de madera que lleva tallada una incrustación en forma de serpiente enroscada a lo largo del báculo.</p>
+  
+    <p>Su ojo izquierdo te analiza con detenimiento.</p>
+  
+    <p>—¿Cómo se te ocurre jugarte la vida en el bosque de Corocín de noche?</p>
+  
+    <p>Le agradeces la ayuda y recuperas tu espada, preguntándole a quién le debes la vida.</p>
+  
+    <p>—Hace tanto tiempo que no me relaciono con la civilización que apenas recuerdo mi nombre. Pero creo que me puedes llamar Linar. ¿Qué se te ha perdido por aquí, muchacho?</p>
+  
+    <p>Le explicas que la muchacha que te acompañaba y tú habéis entrado en Corocín tras ser perseguidos por un grupo de canallas con malas intenciones, sabiendo que no faltas a la verdad. Te preocupa la muchacha, perdida en este laberíntico bosque.</p>
+  
+    <p>El mago te ofrece alojamiento para que te recuperes antes de continuar.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '41',
+        text: 'le pides a Linar que te lleve hasta los lindes del bosque',
+      },
+      {
+        id: '75',
+        text: 'aceptas su invitación',
       },
     ],
   },
   {
     id: '144',
-    html: 'www',
+    html: `<p>Apuntas con tu arco hacia el grupo sin tener muy claras tus intenciones.</p>
+
+    <p>Por una parte resuenan en tus oídos consejos y advertencias que te incitan a pensar que todos los avisos son ciertos, pero por otro lado te resulta impensable atacar, y aún menos matar a tus compañeros de academia.</p>
+  
+    <p>Intentas encontrar la solución para este gran embrollo.</p>
+  
+    <p>Por el rabillo del ojo ves cómo la niña apunta con determinación. La situación se está complicando cada vez más y preferirías evitar que alguien saliera dañado.</p>
+  
+    <p>—¿No sería mejor dar la alarma con tu cuerno? —susurras ladeando tu boca.</p>
+  
+    <p>—Luego; primero quiero matar al cabecilla. Es un asunto personal.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '159',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '145',
-    html: 'www',
+    html: `<p>Agarras a Dahzor, que se dispone a atrapar al niño que acabas de salvar, y lo desequilibras estirándolo hacia atrás con fuerza, interponiendo su cuerpo entre tú y Deilos cuando éste se disponía a propinarte una estocada mortal.</p>
+
+    <p>Sigues escuchando el sonido del cuerno de fondo, como apagado, y eso te propicia una leve ventaja, puesto que todos se sobresaltan… salvo Taifos, que imperturbablemente decapita al crío con un tajo limpio. El cuerpo todavía da unos pasos antes de desmoronarse.</p>
+  
+    <p>Ahora es Merkar quien profiere un grito en el exterior. Ya no hay nada que hacer y sales como una exhalación de aquel lugar infernal. A tu espalda escuchas la amenaza de Deilos:</p>
+  
+    <p>—¡Te arrepentirás de todo esto cuando nos veamos, maldito!</p>
+  
+    <p>Sigues corriendo velozmente y pasas junto a Merkar que ahora se retuerce de dolor con una flecha clavada en el muslo. Asciendes la ladera y saltas la tapia en un suspiro, agarrando a la chiquilla por la cintura y ascendiendo a toda velocidad hacia los lindes del bosque de Corocín con las últimas fuerzas que te proporciona la Protahitéi.</p>
+  
+    <p>A vuestras espaldas, los gritos de alarma provenientes de otras casas de la aldea se oyen por todo el valle. Parece que han descubierto la matanza y, afortunadamente para vosotros, solo se han fijado en el grupo que está huyendo hacia el desfiladero.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '68',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '146',
-    html: 'www',
+    html: `<p>En ese mismo instante Dahzor se asomaba para ver lo que está pasando fuera. Pone cara de asombro al reconocerte y aprovechas para propinarle un tremendo empujón que lo lanza hacia atrás, provocando su caída en el suelo… encharcado de sangre.</p>
+
+    <p>La escena es aterradora. Deilos y Taifos te miran, sorprendidos de verte aquí. Taifos está desclavando su espada de la espalda de una mujer, tendida en el suelo en una postura obscena. Dahzor te reconoce y balbucea tu nombre desde el suelo.</p>
+  
+    <p>Deilos sonríe cruelmente.</p>
+  
+    <p>—Llegas demasiado tarde. La Cacería ha terminado.</p>
+  
+    <p>Tienes tal nudo en la garganta que no reconoces tu propia voz:</p>
+  
+    <p>—¿Os habéis vuelto locos?</p>
+  
+    <p>El sonido de un cuerno os sobresalta a todos. El corpulento Taifos te señala con el dedo y exclama:</p>
+  
+    <p>—¡Este majara nos ha delatado!</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '97',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '147',
-    html: 'www',
+    html: `<p>Tú les sigues lentamente y te parapetas en la alameda sin perder de vista al grupo. Ahora avanzan cautelosamente, en fila y sin hacer ruido, con Deilos a la cabeza de la curiosa procesión. Los observas alejarse desde el bosque, antes de seguirles a campo abierto. Desde esta posición contemplas todo el valle, por lo que no necesitas pisarles los talones. Estás examinando el terreno con el fin de sopesar la mejor posición para seguir al grupo sin ser descubierto, cuando notas una presencia a tu espalda.</p>
+
+    <p>Te giras de repente, sin poder reprimir un sobresalto. Tríane está tu lado y apoya su mano en tu pecho. Te sonríe con la misma calma que la última vez que os visteis.</p>
+  
+    <p>—Te estás embarcando en una aventura con terribles consecuencias. ¿Sabrás distinguir entre aliados y enemigos? ¿Podrás controlar tu destino? Tendrás que descubrir lo que otros no alcanzan a ver…</p>
+  
+    <p>Su voz te perturba, a pesar de la calma que transmite su tono pausado y grave.</p>
+  
+    <p>—¿Siempre me vas a hablar por enigmas?</p>
+  
+    <p>—Y no dejes que se te escape ningún detalle…</p>
+  
+    <p>La advertencia de Tríane te pone en alerta y vuelves a mirar en dirección al grupo para cerciorarte de que siguen ahí. Te vuelves hacia Tríane, pero ya no está. Lo ha vuelto a hacer de nuevo.</p>
+  
+    <p>Te encoges de hombros al ser incapaz de saber dónde ha ido; reanudas la marcha con precaución y sin perder de vista al grupo.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '04',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '148',
-    html: 'www',
+    html: `<p class="asangre cursiva">Has solventado el enigma. Aunque la criatura diera 8 pasos por cada 5 pasos tuyos, esos 8 eran equivalentes a 3 1/5 de tus pasos. De ese modo tú conseguías recuperar 1 4/5 en cada paso tuyo frente a 5 pasos suyos. Esa ventaja de 27pasos queda reducida a 10 4/5 de tus pasos y solo necesitas 6 progresiones de 1 4/5 pasos para atraparlo, lo que es equivalente a 30 pasos para atrapar al fantástico ser que en ese instante habrá recorrido 75 pasos cuando tú le atrapes.</p>
+
+    <p>Rastreas el suelo con cuidado desde la última posición en la que lo viste. Efectivamente, no es muy grande y tampoco pesa demasiado. Los hierbajos apenas están aplastados a su paso. Te agazapas todavía más para evitar ser descubierto. A unos metros por delante, atisbas el tocón de un roble al que te podrías desplazar para ocultarte pero te das cuenta que el rastro que sigues se ha dirigido hacia el otro lado.</p>
+  
+    <p>En ese momento descubres su escondite. Está observando al grupo desde un desnivel de terreno apenas visible, en el que tú no podrías caber… pero él si. No puedes verlo, pero intuyes su presencia oculta en la sombra, totalmente invisible.</p>
+  
+    <p>Te mantienes oculto y esperas. Tarde o temprano tendrá que salir.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '98',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '149',
-    html: 'www',
+    html: `<p>Turpa avanza imperiosamente, lanzándote una mirada reprobadora.</p>
+
+    <p>—No me puedo creer lo que me acaban de contar tus compañeros de armas. ¿Cómo has osado encararte a ellos para defender a un grupo de apestosos campesinos que no nos respetan? Esperaba mucho más de un Ainari como tú. Apuntabas maneras para convertirte en un orgulloso guerrero de nuestro imperio. Me temo que la influencia del miserable Ritión Zarenyo te ha trastocado el entendimiento… De haberlo sabido, te hubiéramos dejado fuera de combate a ti también en la emboscada.</p>
+  
+    <p>Las palabras de Turpa te han dejado estupefacto. No solamente es el responsable de las masacres que se llevan a cabo durante las cacerías secretas, sino que además ha simulado la emboscada del campamento para sacarse de encima a tu compañero Zarenyo. Estás furioso y poco te importan las amenazas que te rodean. Recitas mentalmente la secuencia del Protahitéi, dispuesto a entrar en combate contra todos.</p>
+  
+    <p>—Pobre desgraciado… —continúa Turpa chasqueando los dedos, mientras percibes cómo Taifos levanta su brazo y se dispone a apuntarte con su arco—, no me dejas elecc…</p>
+  
+    <p>En ese mismo momento, otra flecha surge de la oscuridad y se clava en el muslo del corpulento Taifos, que suelta su arma desplomándose con un grito de dolor mientras se sujeta la pierna. Turpa se ha quedado estupefacto.</p>
+  
+    <p>Justo cuando acabas de recitar la secuencia y notas que tu cuerpo se contrae por los efectos de la aceleración, ves otra flecha que silba en el aire y se dirige hacia ti, proveniente del arco de Merkar, que se ocultaba detrás del maestro.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '187',
+        text: 'intentas huir',
+      },
+      {
+        id: '59',
+        text: 'intentas esquivar la flecha',
       },
     ],
   },
   {
     id: '150',
-    html: 'www',
+    html: `<p>Fingiendo un aparatoso bostezo, rechazas la generosa invitación disculpándote por estar muy cansado. Explicas que prefieres acostarte pronto para estar en forma al día siguiente.</p>
+
+    <p>Deilos se asombra de tu indiferencia y tuerce el gesto decepcionado. El grupo se despide y abandona sigilosamente el campamento. Cuando se alejaban, te ha parecido escuchar la gruesa voz del corpulento Taifos:</p>
+  
+    <p>—Es un nenaza.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '84',
         text: 'Continuar',
       },
     ],
