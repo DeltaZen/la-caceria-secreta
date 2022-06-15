@@ -1421,150 +1421,348 @@ const pageArray: IPage[] = [
   },
   {
     id: '71',
-    html: 'www',
+    html: `<p>Sueltas la flecha. Deilos la esquiva dando un salto hacia el lado… y entonces te reconoce.</p>
+
+    <p>—¡Tú! —exclama rabioso.</p>
+  
+    <p>Sin soltar el arco, te abalanzas sobre la muchacha y la agarras por la cintura como si fuera un pequeño fardo mientras ella profiere un breve resoplido. Corres ladera arriba, en dirección al bosque, hostigado de cerca por Deilos que ya se reincorporado y os persigue.</p>
+  
+    <p>Escuchas voces de alarma que provienen de las diferentes chozas, pero sabes que Deilos no cejará en su empeño tan fácilmente. El peso de la chiquilla que se debate con torpeza te ralentiza y lo tienes casi encima.</p>
+  
+    <p>Ya falta menos, apenas cien metros. Escuchas resoplar a Deilos a tu espalda… De pronto sueltas a la muchacha y te giras ejecutando un Yagartéi defensivo que sorprende a vuestro perseguidor. Cuando intenta reaccionar, le propinas una patada frontal en pleno tórax que le despide hacia atrás con ímpetu y le hace rodar cuesta abajo.</p>
+  
+    <p>La chiquilla se ha levantado y se ha quedado perpleja contemplando la escena. La sujetas de nuevo por el brazo y reemprendéis vuestra huida hacia el bosque. Deilos se yergue con dificultad mientras reniega encolerizado:</p>
+  
+    <p>—¡Te arrepentirás de esto, maldito!</p>
+  
+    <p>Llegáis a la imponente arboleda, apurando tu aceleración hasta los lindes. Tiene un aspecto amenazador. Avanzas hacia el bosque.</p>
+  
+    <p>—¿Seguro que es buena idea meternos aquí dentro? —te pregunta resoplando.</p>
+  
+    <p>—No tenemos otra opción.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '46',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '72',
-    html: 'www',
+    html: `<p>Te arrastras zigzagueando como una serpiente para envolver a tu presa y capturarla por detrás. Has logrado distinguir su perfil recortado en la noche por una fracción de segundo. Lleva una capa y una capucha que impide ver su rostro, a su espalda cuelga un arco corto con su aljaba. Por delante y a lo lejos, divisas al grupo que prosigue su avance silencioso.</p>
+
+    <p>Vuelves a fijar la atención en el extraño personaje que estás siguiendo… pero ya no lo ves. ¡No puede haber desaparecido!</p>
+  
+    <p>Irritado por haberte despistado tan tontamente, avanzas lo más velozmente que puedes sin delatar tu presencia y extremando las precauciones para no hacer ruido… pero sigues sin verlo.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '140',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '73',
-    html: 'www',
+    html: `<p>El silbido de tu flecha precede el de la chica, pero no alcanza tu objetivo. Deilos se sobresalta cuando escucha el silbido que le roza las piernas y ve cómo una flecha se clava en el prado a pocos metros de él. En ese mismo instante otra flecha se le clava en el hombro, arrancándole un grito de dolor agudo. Si no se hubiese movido, le hubiese atravesado el corazón.</p>
+
+    <p>Dahzor, que avanzaba por detrás de él, asustado por el ataque, da media vuelta y huye gritando:</p>
+  
+    <p>—¡Es otra emboscada! ¡Nos estaban esperando, huyamos!</p>
+  
+    <p>La chiquilla está sorprendida por lo ocurrido y te mira de reojo levantando un ceja con reprobación. Le coges rápidamente el cuerno del cinto aprovechando su confusión.</p>
+  
+    <p>—¡Rápido! ¡Hay que alertar a los campesinos!</p>
+  
+    <p>Y te pones a soplar el cuerno con todas tus fuerzas.</p>
+  
+    <p>Se empiezan a oír gritos en la cabaña y en las chozas de los alrededores, mientras observas cómo el grupo huye corriendo a toda velocidad. Deilos corre sujetándose el hombro con el otro brazo y gruñe de dolor en cada zancada que da.</p>
+  
+    <p>—Vamos —le susurras suavemente a tu misteriosa compañera—. ¿No querrás que nos sorprendan aquí, verdad?</p>
+  
+    <p>Corréis agazapados subiendo por la loma hasta los lindes del bosque de Corocín.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '85',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '74',
-    html: 'www',
+    html: `<p>El silbido de tu flecha y tu movimiento brusco han alertado a Deilos, que ha percibido tu sombra al levantarte y se mueve imperceptiblemente para descubrir de qué se trata. El proyectil pasa entre sus piernas y se clava a pocos metros de él, justo delante de Dahzor, que avanzaba por detrás.</p>
+
+    <p>La muchacha dispara un segundo más tarde, desconcertada ya que esperaba tu señal. Su flecha se clava en el hombro de Deilos, arrancándole un gañido de dolor agudo. Si no se hubiese movido, le hubiese atravesado el corazón.</p>
+  
+    <p>Taifos se ha quedado momentáneamente petrificado, al ver cómo Deilos cae de rodillas y se sujeta el hombro donde tiene clavado la flecha. Luego se lanza hacia él para ayudarle.</p>
+  
+    <p>En ese momento te llevas el cuerno de caza a los labios para soplar con todas tus fuerzas.</p>
+  
+    <p>Dahzor da media vuelta y huye gritando:</p>
+  
+    <p>—¡Es otra emboscada! ¡Nos estaban esperando, huyamos!</p>
+  
+    <p>Merkar, apostado más atrás carga su arco para proteger la retirada, intentando vislumbrar lo que hay detrás de Dahzor, que viene corriendo hacia él. Puede ver a Taifos cargando son Deilos a hombros y retirándose también, pero no consigue ver quién les está atacando…</p>
+  
+    <p>La chiquilla está confusa por lo sucedido; te mira de soslayo, alzando una ceja con desaprobación.</p>
+  
+    <p>Se encienden luces en algunas cabañas del pago y ya se oyen voces de alarma, gritos y llantos por los alrededores. El grupo está huyendo a toda velocidad por el mismo camino que han venido.</p>
+  
+    <p>Deilos va rezagado, corriendo mientras se sujeta el hombro con el otro brazo, y gruñe de dolor en cada zancada que da.</p>
+  
+    <p>—Será mejor que nos marchemos de aquí cuanto antes o tendremos problemas, musitas a tu enigmática compañera.</p>
+  
+    <p>No te contesta, pero adviertes que no parece del todo satisfecha por el reciente desenlace. La invitas a seguirte, sujetándola por un brazo.</p>
+  
+    <p>Corréis agazapados subiendo por la loma hasta los lindes del bosque de Corocín.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '33',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '75',
-    html: 'www',
+    html: `<p>—Vamos a cerciorarnos —te contesta Linar—. Sígueme.</p>
+
+    <p>Linar se desplaza raudo y con soltura por el frondoso bosque, obligándote a corretear para igualar sus grandes pasos. Avanzáis durante unos minutos hasta que se despeja la espesura y desembocáis de pronto sobre un prado que encara un cerro culminado por un amplio árbol moldeado por cuatro troncos que se unen en uno solo. Cuando os acercáis puedes ver una hendidura en la corteza que da paso a una entrada natural al interior de la casa del mago.</p>
+  
+    <p>Linar te proporciona comida y agua para que puedas reponer las fuerzas pérdidas en tus recientes enfrentamientos. Al rato compruebas que tu agarrotada musculatura recupera su vigor original, incluso las zonas más doloridas tras el escarceo con el corueco. Sigues a Linar mientras éste asciende por el tronco de su hogar y culmina la copa del ancho árbol que ha apodado el Gran Viejo. Allí se extiende una plataforma natural desde la cual Linar otea los aledaños, buscando a la chica que le has comentado.</p>
+  
+    <p>Poco después carraspea y te informa:</p>
+  
+    <p>—Tu amiga está sana y salva, fuera de Corocín. Es muy lista y ha sabido salir ilesa de este peligroso lugar. Normalmente no suelo interesarme por los problemas que me son ajenos pero tu osadía al enfrentarte a ese corueco, aunque no fuese adulto, merece una atención. Si lo deseas, puedo llevarte hasta los lindes de Corocín, para que puedas alcanzarla luego. Cuando acabes de comer, marcharemos. No te demores.</p>
+  
+    <p>Estás bajando por la plataforma cuando te percatas de que el mago aparta un velo de hojas que parece camuflar un curioso teclado; el mago empieza a pulsarlo y notas que en la madera del árbol se accionan una clavijas que provocan un sonido similar al de un órgano, liberando una música que se puede escuchar en todo el bosque. Es la música de Corocín, supones.</p>
+  
+    <p>El mago se da cuenta que lo estás contemplado y hace un gesto de complicidad con el hombro mientras sigue tocando.</p>
+  
+    <p>—Eso tranquilizará a tu amiga —te explica el Mago.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '57',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '76',
-    html: 'www',
+    html: `<p>Linar te invita a seguirle. Te colocas detrás de él y empezáis a serpentear por el bosque a través de los árboles sin que exista ningún sendero que os permita orientaros. El mago camina con decisión, dando grandes zancadas que te obligan a trotar para mantener la distancia. Al rato aparecéis en medio de un claro y ascendéis por un cerro coronado por un árbol de tamaño colosal, formado por cuatro troncos que se entrelazan en uno solo. El mago se cuela por una hendidura de la corteza y cuando le sigues descubres que se trata una puerta natural que brinda el acceso a la casa de Linar.</p>
+
+    <p>El peculiar personaje te invita a comer y te sirve un generoso vaso de agua fresca que sabe de maravilla. La pitanza que te ofrece te parece muy sabrosa, por lo que la devoras con apetito, notando cómo recuperas las fuerzas hasta el punto de no notar el agarrotamiento que tenías en los brazos como consecuencia de tu encuentro con el corueco.</p>
+  
+    <p>Linar asciende por el ancho tronco del árbol que ha bautizado como el Gran Viejo, para alcanzar una plataforma natural que se extiende sobre la copa. Desde allí puedes ver cómo indaga en los alrededores, buscando el grupo que le has descrito.</p>
+  
+    <p>—Ahem. Allí están. No han entrado en el bosque, aunque te puedo llevar hasta los límites de Corocín para que los alcances. Tengo el presentimiento de que no llevan buenas intenciones, por lo que te aconsejo que tengas cuidado. Sería una lástima que no salieras airoso de esta aventura después de haber sobrevivido al ataque de un corueco, aunque ese ejemplar no fuera adulto.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '113',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '77',
-    html: 'www',
+    html: `<p>—Acompáñame —te contesta Linar.</p>
+
+    <p>Linar avanza con pasos largos y decididos entre la espesura y tú a duras penas logras seguir su ritmo. Al rato llegáis a un camino que se abre paso en el bosque, desemboca sobre un prado y finalmente encara una loma, sobre la cual se erige un extraño árbol, formado por cuatro troncos fundidos en uno solo. Lo que parece una hendidura resulta ser una puerta natural que da acceso a la casa de Linar.</p>
+  
+    <p>El mago te ofrece bebida y alimento para recuperar fuerzas y notas de inmediato cómo tus entumecidos músculos recobran nuevamente la vitalidad, a pesar del reciente enfrentamiento con el corueco. Linar sube por su árbol, hasta llegar a la copa del Gran Viejo, donde se levanta una plataforma natural. Desde ella escudriña los alrededores.</p>
+  
+    <p>Al cabo de un minuto, carraspea y te dice:</p>
+  
+    <p>—El grupo que os ha atacado no está en el bosque. Están regresando a su cubil. No suelo mezclarme en asuntos mundanos pero el coraje y la destreza que has demostrado ante el corueco, merece una recompensa. Tuviste suerte que no fuera adulto, pero eso no deprecia en nada tu valor. Te llevaré hasta los lindes del bosque si lo deseas. Acaba de comer y partiremos luego.</p>
+  
+    <p>Mientras bajas de la plataforma, observas cómo el mago aparta un velo de hojas que oculta un extraño teclado. Cuando el mago lo presiona sientes como unas clavijas que forman parte de la madera del árbol se accionan y suena una música de órgano en todo el bosque.</p>
+  
+    <p>La música de Corocín.</p>
+  
+    <p>—Es en homenaje a tu amiga —te explica el Mago—. Para que descanse en paz.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '56',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '78',
-    html: 'www',
+    html: `<p>Estás enumerando la secuencia de números y letras de la fórmula secreta mientras te levantas para captar la atención de Deilos. Puedes ver cómo se sorprende y te encara de inmediato, pero en ese mismo instante sientes una terrible punzada en el estómago. Terminas la secuencia, por lo que te invade un repentino calor en todo el cuerpo al tiempo que se tensan tus riñones.</p>
+
+    <p>La flecha que te ha lanzado Merkar está clavada en tus tripas, pero consigues mantenerte en pie. Cometiste un terrible error al no tener en cuenta la presencia de Merkar con su arco preparado.</p>
+  
+    <p>Aparte de Deilos, todo se ha vuelto más lento a tu alrededor; la chiquilla grita… demasiado tiempo. El arco se te escurre entre los dedos e hincas la rodilla en el suelo, sujetándote la flecha. Tu otra mano agarra la empuñadura de tu espada. Te concentras. Tan solo Deilos se mueve a tu misma velocidad y puedes ver cómo salta por encima de la tapia para sacudirte un tajo de arriba hacia abajo. En ese instante su rostro refleja estupor al reconocerte. Ejecutas de manera impecable un Yagartéi, desenvainando tu espada a la vez que das un tajo ascendente de izquierda a derecha. Vuestras espadas chocan y el arma de Deilos sale volando por encima de tu cabeza.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '105',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '79',
-    html: 'www',
+    html: `<p>—Pues el que me ha salvado parecía estar en buena forma. Me dijo que se llamaba… —Intentas acordarte de su nombre pero…—. Vaya, no consigo recordarlo. ¿Y tú cómo has conseguido salir del bosque?</p>
+
+    <p>—No lo sé. Empecé a correr sin parar hasta que ya no pude más. Cuando estuve a punto de rendirme, descubrí este sendero y pude salir. Estaba tan angustiada que apenas podía respirar hasta que me apoyé contra este viejo árbol. Me pareció escuchar una extraña música y me quede sentada aquí hasta que me relajé. Dicen que esa música es del bosque y se oye a veces.</p>
+  
+    <p>Sonríes una segunda vez y prefieres no explicar de dónde procede.</p>
+  
+    <p>—¿Qué hacemos ahora? —te pregunta la muchacha.</p>
+  
+    <p>—Voy a explicar lo ocurrido a nuestros maestros. Reclamaremos justicia para los campesinos y castigo para los culpables.</p>
+  
+    <p>—¿Estás seguro de que es una buena idea?</p>
+  
+    <p>—Puedes venir conmigo y te presentaré como testigo.</p>
+  
+    <p>—Ni lo sueñes. No confío en ellos.</p>
+  
+    <p>—Entonces, ¿no me acompañas al campamento?</p>
+  
+    <p>—Solo un tramo del recorrido. Luego nos separaremos.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '104',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '80',
-    html: 'www',
+    html: `<p>Le quitas la daga a Bhratar, que todavía gimotea en el suelo y le lanzas con fuerza el puñal a Merkar que en ese momento se dispone a disparar.</p>
+
+    <p>La flecha y la daga se cruzan en el aire. Merkar profiere un aullido de dolor y se sujeta el muslo, con la daga clavada hasta la empuñadura.</p>
+  
+    <p>Te das la vuelta y corres hacia el bosque; buscas con la mirada a la chiquilla.</p>
+  
+    <p>Detrás de ti se empiezan a oír muchas voces, no solo del grupo, sino también de diferentes chozas de la aldea que gritan aterrados dando aviso de que están siendo atacados. Alcanzas a la muchacha cuando estás llegando prácticamente al bosque; está tumbada en el suelo con una flecha clavada en la espalda, la coges en brazos y os adentráis en la espesura.</p>
+  
+    <p>Notas que el cansancio se apodera de ti por el esfuerzo tras la aceleración, pero sigues corriendo.</p>
+  
+    <p>Escuchas el grito de Deilos al otro lado del bosque.</p>
+  
+    <p>—¡Pagarás por esto, cobarde!</p>
+  
+    <p>Estáis en un bosque cerrado y ya no escuchas ningún ruido. Te arrodillas junto a un olmo de tronco ancho y húmedo, tumbando con delicadeza a la chiquilla herida. Ves un hilo de sangre que se le escapa por la comisura de los labios…</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '174',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '81',
-    html: 'www',
+    html: `<p>Buscas algún rastro que te permita descubrir el camino que haya seguido el grupo. No consigues apreciar ninguna huella o indicio que te ayude a decidir. Antes de dejarlo al azar, decides resolver un problema mental que te aclare las ideas y te ayude a tomar la decisión correcta.</p>
+
+    <p>Recuerdas que en Uhdanfiún, un Tahedorán, maestro del Tahedo en la academia, empezaba sus clases con un ritual de saludos muy concretos. Todos los alumnos se inclinaban ante los demás alumnos, luego ante los Ibtahanes y finalmente ante el maestro. De igual forma, los Ibtahanes se inclinaban ante los demás ibtahanes, luego ante los alumnos y finalmente ante el maestro. Recuerdas igualmente que el número de alumnos duplicaba al de los Ibtahanes, por lo que el ritual precisaba un total de 900 reverencias. Con esa información deberías poder deducir cuantos Ibtahanes y alumnos había en la clase.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '151',
+        text: 'crees que habían 8 Ibtahanes y 16 alumnos, escoges el camino de a la izquierda y te adentras en el bosque',
+      },
+      {
+        id: '167',
+        text: 'crees que habían 10 Ibtahanes y 20 alumnos, escoges el camino de la derecha hacia el desfiladero',
       },
     ],
   },
   {
     id: '82',
-    html: 'www',
+    html: `<p>Antes de sucumbir definitivamente al encanto de las tres hermosas mujeres, intentas discernir qué extraña magia puede flotar en el ambiente. Puedes percibir que algo misterioso está sucediendo y confías en tu percepción para desentrañar lo que puede estar pasando.</p>
+
+    <p>Un recuerdo del pasado irrumpe en tu memoria: cuatro nombres de mujeres que conociste en el pasado. Las dos primeras se llamaban «Bhiko» y «Acefir». También recuerdas el nombre de las dos siguientes, aunque sospechas que solo una de ellas te traerá suerte…</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '06',
+        text: 'piensas que «Delquz» es el nombre que te inspirará',
+      },
+      {
+        id: '190',
+        text: 'crees que «Lorean» es el nombre correcto',
       },
     ],
   },
   {
     id: '83',
-    html: 'www',
+    html: `<p>Piensas que esta chiquilla tiene desvaríos de niña asustadiza y se cree todas las patrañas que le cuentan los campesinos supersticiosos.</p>
+
+    <p>—Lo que acabas de decir es totalmente imposible. Conozco a esos guerreros y son incapaces de cometer semejante atrocidad. Márchate antes de que los avise y te den un castigo por tus injurias.</p>
+  
+    <p>La muchacha te observa con más detenimiento y se percata que además de la espada, también llevas un brazalete con estrías azules. Con ojos como platos, empieza a retroceder, balbuceando.</p>
+  
+    <p>—Eres uno de ellos…</p>
+  
+    <p>—Vuelve a tu casa enana —le respondes irritado.</p>
+  
+    <p>Ves auténtico terror en sus ojos. Decides que lo mejor es que se vaya, para que puedas seguir al grupo sin distracciones inoportunas. Le das la espalda y sigues arrastrándote mientras observas las evoluciones del grupo.</p>
+  
+    <p>Siguen avanzando entre los cercados.</p>
+  
+    <p>«Bobadas», piensas enfadado. Esta cacería secreta te está resultando decepcionante. Al final va a resultar que Deilos y sus patéticos acompañantes van a robar un cerdo o unas gallinas a unos miserables campesinos. Vaya estupidez.</p>
+  
+    <p>Te vuelves a girar para ver si la chiquilla sigue ahí, pero ya no la ves por ningún lado.</p>
+  
+    <p>Te quieres convencer que es lo mejor, que es un alivio que se haya marchado.</p>
+  
+    <p>Pero no acabas de sentirte cómodo con tus sentimientos.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '214',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '84',
-    html: 'www',
+    html: '<p>Cuando te has quedado solo, te pica la curiosidad y te asaltan las dudas: ¿Qué sería lo mejor? ¿Seguir a hurtadillas el grupo de Deilos para averiguar en qué consiste la cacería secreta o acudir a la tienda del médico para ver cómo se encuentra Zarenyo?</p>',
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '08',
+        text: 'decides seguir al grupo',
+      },
+      {
+        id: '194',
+        text: 'vas a ver cómo se encuentra Zarenyo',
       },
     ],
   },
   {
     id: '85',
-    html: 'www',
+    html: `<p>Te desplazas sin hacer ruido, con la agilidad de un gato, tal y como te enseñaron en la academia…</p>
+
+    <p>Al llegar junto a un grueso fresno, hacéis una pausa para recuperar el aliento. Ella no deja de mirarte con insistencia y descubres que se está fijando en todos los detalles de tu indumentaria: la espada al cinto, la ropa de combate… hasta que se queda mirando fijamente tu brazalete con cinco estrías azules.</p>
+  
+    <p>—¿Qué representa ese brazalete con marcas que llevas en el brazo?</p>
+  
+    <p>Carraspeas antes de contestar.</p>
+  
+    <p>—Es una identificación que indica mi graduación.</p>
+  
+    <p>—¿<i>Tú</i> también eres un guerrero de Uhdanfiún como ellos, verdad?</p>
+  
+    <p>—Bueno sí, quiero decir no, es decir no exactamente.</p>
+  
+    <p>—No es la primera vez que veo un brazalete como éste… El que lo llevaba me salvó… cuando me iba a violar un grupo como ése.</p>
+  
+    <p>Señala a Deilos y los suyos que veis marchar a lo lejos, corriendo hacia el desfiladero.</p>
+  
+    <p>—Aunque, al igual que tú, también iba con ellos.</p>
+  
+    <p>No sabes qué contestarle. Solo la miras en silencio.</p>
+  
+    <p>Se acerca lentamente, muy cerca. Su aliento calienta tus mejillas. A pesar de su mirada dura y fría, ves cómo unas lágrimas brotan de sus ojos.</p>
+  
+    <p>—Dale recuerdos de mi parte cuando lo veas. —Te besa en los labios suavemente—. Se llama Derguín.</p>
+  
+    <p>Se separa de ti lentamente, dejando resbalar sus manos por tus mejillas. En las suyas, ves cómo resbalan las lágrimas. Se oculta el rostro con la capucha, da media vuelta y se aleja de ti.</p>
+  
+    <p>Cuando la pequeña figura se pierde entre los cerros, te pones en marcha para llegar cuanto antes al campamento, pensando en lo que te ha dicho.</p>
+  
+    <p>Te acuerdas muy bien de ese tal Derguín. Él y su amigo Mikhon Tiq fueron severamente castigados y luego expulsados de la academia, hace un año aproximadamente, por enfrentarse a sus propios compañeros. Sonríes al pensar que acabas de hacer algo parecido, mientras apuras el paso.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '34',
         text: 'Continuar',
       },
     ],
