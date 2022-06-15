@@ -2640,140 +2640,256 @@ const pageArray: IPage[] = [
   },
   {
     id: '127',
-    html: 'www',
+    html: `<p>No te ha dado tiempo a esquivar el rotundo golpe que te da en la cabeza con la empuñadura de su espada. Todo se oscurece de golpe y caes al suelo como un saco.</p>
+
+    <p>Te despiertan una, dos, tres bofetadas, a cuál más fuerte.</p>
+  
+    <p>Te despiertas viendo a la chiquilla, rodeada de diminutos lunazgos multicolores, que te está diciendo:</p>
+  
+    <p>—¡Tenemos que marcharnos de aquí! ¡YA!</p>
+  
+    <p>A tu alrededor suenan voces de alerta y ladridos de perros enloquecidos.</p>
+  
+    <p>Te has despejado de golpe. La muchacha te ayuda a levantarte y corréis hasta el linde del bosque de Corocín, para ocultaros en sus sombras.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '68',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '128',
-    html: 'www',
+    html: `<p>Escuchas a Deilos explicarle lo ocurrido. Turpa se lamenta con indignación.</p>
+
+    <p>—… vaya, jamás lo hubiera pensado de él. Un Ainari tan prometedor y resulta que tampoco tiene lo que hay que tener. Debimos haberle despachado junto con el inútil Zarenyo de Ritión en el momento que simulamos la emboscada al campamento. Si el bosque de Corocín no ha acabado con él y tiene la osadía de regresar aquí, lamentará no haber muerto. ¿Algún testigo?</p>
+  
+    <p>Escuchas la voz de Deilos, después de un leve carraspeo:</p>
+  
+    <p>—Ninguno, Maese Turpa. Pero no pudimos dar el escarmiento en el poblado como teníamos previsto. Se tendrá que realizar otra cacería secreta para que la aldea comprenda que no pueden retrasarse a la hora de pagar los impuestos.</p>
+  
+    <p>Te alejas de la tienda consternado a la par que rabioso.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '207',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '129',
-    html: 'www',
+    html: `<p>No alcanzas a levantarte; uno de los campesinos te golpea con un azadón en toda la cabeza. Empiezas a perder la conciencia a la vez que un tumulto te rodea, propinándote patadas, lazándote piedras, golpeándote…</p>
+
+    <p>No volverás a despertar. Te están lapidando.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'Ir al principio',
       },
     ],
   },
   {
     id: '130',
-    html: 'www',
+    html: `<p>Os alejáis todo lo rápido que podéis, mientras empezáis a escuchar aullidos, ladridos y un bramido estentóreo, como anticipo de un gran enfrentamiento. Ella todavía no se ha recuperado del todo y tenéis que reducir la marcha. Os da la impresión de que os habéis vuelto a perder en este despiadado, tupido y oscuro bosque.</p>
+
+    <p>Mientras ella descansa sentándose contra el tronco un fresno, tú buscas alguna pista que os pueda ayudar a salir de Corocín. Desesperado, te da la sensación que habéis regresado cerca de la confluencia del arroyo con el prado. «Maldito bosque», piensas. Es un horrible laberinto.</p>
+  
+    <p>Y de pronto, lo vuelves a oler. Esa hedionda emanación con efluvios metálicos.</p>
+  
+    <p>Imposible. No puede ser el mismo. Tiene que ser otro que os ha seguido el rastro.</p>
+  
+    <p>Te dispones a hacer frente al inminente peligro que se acerca.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '109',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '131',
-    html: 'www',
+    html: `<p>Estás reptando con cuidado para rodearlo y colocarte detrás suyo. Apenas logras distinguirle cuando se desplaza; no te extraña que Deilos y los otros, todavía más alejados, no consigan descubrirlo. En un momento dado puedes intuir mejor el perfil del pequeño bulto que te precede. Un personaje muy bajito, sin duda. Te parece que va encapuchado y te ha dado la sensación que llevaba algo a la espalda, probablemente un arco corto.</p>
+
+    <p>Sin perder a tu objetivo de vista, miras de refilón hacia la ladera opuesta. Únicamente Deilos gira discretamente la cabeza de vez en cuando, para localizar tu presencia.</p>
+  
+    <p>Te estás acercando cada vez más a él. Contienes la respiración para no hacer ni el más mínimo ruido. Estás a punto de alcanzarle y su sombra se perfila cada vez mejor. Confirmado, es muy pequeño. Ya casi lo tienes. Te deslizas pegado al suelo con tanto sigilo que estás persuadido que el grupo tampoco te puede ver. Vas a cazarlo en cinco, cuatro, tres, dos… ahora.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '67',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '132',
-    html: 'www',
+    html: `<p>Estás realizando la ronda con todos tus sentidos en alerta para anticipar otro posible ataque. Puesto que sospechas que pueden ser algo más que simples campesinos descontentos, escudriñas las sombras entre la espesura, vigilante ante cualquier movimiento o sonido que se produzca. Cuando alcanzas la parte más alejada del campamento, te sobresalta un «<i>u-úh</i>» lastimero y melódico. Levantas la vista y consigues vislumbrar la pequeña y compacta figura de un mochuelo sobre la rama de un viejo fresno. Sus grandes ojos amarillos te observan con curiosidad y puedes distinguir su característico plumaje marrón con lunares blancos. Al rato gira su cabeza, como si fuera la rosca de un engrasado mecanismo. Al desviar tu mirada hacia el punto que está fijando la rapaz, vuelves a sobresaltarte, pero esta vez con más razón: una muchacha te observa en silencio y totalmente inmóvil. Tiene el cabello muy negro, un rostro sereno y unos ojos rasgados que te miran fijamente, como si te atravesaran.</p>
+
+    <p>No hay nadie más, solo ella. Te parece absurdo dar la alarma por la extraña presencia de una joven que no parece tener veinte años, aunque por otra parte, todo esto resulta muy extraño…</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '25',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '133',
-    html: 'www',
+    html: `<p>Escuchas a Deilos explicarle lo ocurrido.</p>
+
+    <p>—… vaya, jamás lo hubiera pensado de él —contesta Turpa—. Un Ainari tan prometedor y resulta que tampoco tiene lo que hay que tener. Debimos haberle despachado junto con el inútil Zarenyo de Ritión cuando simulamos la emboscada al campamento. Si los campesinos no han acabado con él y tiene la osadía de regresar aquí, lamentará no haber muerto. ¿Algún testigo?</p>
+  
+    <p>Escuchas la voz de Deilos, después de un leve carraspeo:</p>
+  
+    <p>—Ninguno, Maese Turpa. Los matamos a todos. Seguro que tomarán nota en la aldea y ya no se retrasarán más a la hora de pagar los impuestos.</p>
+  
+    <p>Te alejas de la tienda consternado a la par que rabioso. Tríane te coge de la mano mientras te habla, y te dejas llevar a las afueras del campamento, donde la viste por primera vez.</p>
+  
+    <p>—No te queda otra alternativa que convertirte en fugitivo. Se avecinan tiempos revueltos y tendrás que ser mucho más prudente si quieres sobrevivir. Y si deseas seguir conociendo los secretos del Tahedo, ten paciencia y busca a un guerrero llamado Kratos May.</p>
+  
+    <p>Notas cómo sus dedos sueltan tu mano y te rozan la punta de los dedos. Quieres mirarla a los ojos una vez más… pero ya no está.</p>
+  
+    <p>Miras a tu alrededor. Decides que vas a ocultarte un tiempo en Ritión. Zarenyo te contó que habían lugares fantásticos allí.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'Ir al principio',
       },
     ],
   },
   {
     id: '134',
-    html: 'www',
+    html: `<p class="asangre">De pronto, el corueco borbotea retrocediendo y fijando su mirada ocre algo más arriba, a tu espalda. Una extraño brillo azulado se proyecta sobre su tórax y el corueco bufa exasperado, agitando los brazos, pero continúa retrocediendo, internándose de nuevo en la espesura y dejando tras de si un olor fétido, así como un pequeño reguero de sangre.</p>
+
+    <p>Te giras con mucho cuidado para afrontar lo que tienes a tu espalda. Ves a un hombre muy alto y delgado, de rasgos angulosos, cuya trenza blanca reposa sobre su larga capa. En su mano sostiene un bastón de madera con una serpiente tallada que se enrosca alrededor. Percibes que parece flotar sobre el suelo y que posee una aura luminosa que va decreciendo a medida que sus pies descalzos van tomando contacto sobre la hierba húmeda. Observas que te mira sorprendido con su único ojo izquierdo, puesto que el derecho está tapado por un parche oscuro.</p>
+  
+    <p>—¿Qué extraña locura suicida te ha traído hasta el bosque de Corocín en plena noche?</p>
+  
+    <p>Mientras recoges tu espada, contestas que crees haberte perdido y le preguntas su nombre, para poder recordar quién te salvó esta noche.</p>
+  
+    <p>—Aquellos que me conocen me llaman Linar, por lo que deberás abstenerte de pronunciar mi nombre. ¿Adónde te diriges muchacho?</p>
+  
+    <p>Al ser incapaz de dar una respuesta concreta, le cuentas que una chiquilla que te acompañaba y tú os habéis adentrado en el bosque huyendo del grupo de Deilos. La hirieron de muerte y tuviste que enterrarla junto al arroyo.</p>
+  
+    <p>El extraño personaje se acerca a la sepultura y apoya la mano contra la tierra húmeda. Parece meditar y cierra su único ojo sin decir una palabra. El mago te brinda hospedaje para que te puedas recuperar antes de continuar.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '40',
+        text: 'le pides a Linar que te lleve hasta los lindes del bosque',
+      },
+      {
+        id: '77',
+        text: 'aceptas su invitación',
       },
     ],
   },
   {
     id: '135',
-    html: 'www',
+    html: `<p>Apoyas la mano en el hombro de tu misteriosa compañera para que se agache aún más; sabes que Deilos y los otros están escudriñando los alrededores. Tú también te agachas lentamente vigilando lo que hace el grupo en todo momento.</p>
+
+    <p>Te da la sensación de que Bhratar, que iba el último, ha vuelto sobre sus pasos para buscarte. Al rato regresa y le hace un gesto de impotencia a Deilos, que parece impaciente. Tras dudar un instante, le hace una señal a Bhratar para que se una al grupo.</p>
+  
+    <p>Escuchas el leve roce de una flecha frotando la cuerda del arco. Agachas la mirada y ves a la muchacha preparándose para disparar. La sujetas por el brazo, para frenar sus intenciones.</p>
+  
+    <p>—¿Cuál es tu plan? —le preguntas.</p>
+  
+    <p>—No pienso esperar a que entren en esa cabaña y masacren a una familia entera. Voy a cargarme al cabecilla de esos asesinos y luego daré la alarma con el cuerno.</p>
+  
+    <p>La perspectiva de atacar a tus compañeros de academia no te resulta cómoda. Matarlos se te antoja impensable y preferirías que los maestros impartieran justicia y castigo como es debido.</p>
+  
+    <p>—Pásame el cuerno —murmuras—, espero que sepas usar ese arco. Dame dos segundos para que me sitúe al otro lado de la cerca y te haga una señal para que podamos pillarles con un fuego cruzado.</p>
+  
+    <p>Mientras reptas por el suelo alejándote, elaboras un plan precipitadamente…</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '70',
+        text: 'vas a soplar el cuerno y dar la alarma',
+      },
+      {
+        id: '195',
+        text: 'te anticipas a la chiquilla y vas a disparar primero',
       },
     ],
   },
   {
     id: '136',
-    html: 'www',
+    html: `<p>Calculas que en cuarenta pasos deberías alcanzarle y sigues progresando.</p>
+
+    <p>Avanzas varios metros arrastrándote con sigilo entre hierbajos y arbustos, buscando algún lugar donde poder acomodarte para seguir vigilando. Según tus cálculos, debería estar aproximadamente a unos diez pasos por delante. Cuando te dispones a resbalar para colocarte detrás del tocón de un roble, escuchas detrás de ti un leve chasquido que reconoces al instante: es el crujido de la cuerda de un arco al tensarse.</p>
+  
+    <p>Un cuchicheo te llega desde ese lugar, perfectamente audible:</p>
+  
+    <p>—No te muevas —y pregunta—: ¿Me estás siguiendo a mí o a ellos?</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '62',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '137',
-    html: 'www',
+    html: `<p>A pesar del pánico que inspiran estas criaturas, hay algo que no te encaja en esta situación. Intentas atisbar el más mínimo detalle para poder descubrir lo que puede no cuadrar. En ese momento, el jefe de la manada avanza, acercándose a ti. Su pezuña es casi del tamaño de tu cabeza. Un extraño aleteo te distrae por un momento y levantas la vista…</p>
+
+    <p>«Vislumbrando murciélagos».</p>
+  
+    <p>La respuesta adecuada a este enigma te mostrará cual es la decisión correcta.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '89',
+        text: 'piensas que la solución acertada es «Tirabuzón»',
+      },
+      {
+        id: '14',
+        text: 'crees que es «Saltimbanqui»',
       },
     ],
   },
   {
     id: '138',
-    html: 'www',
+    html: `<p>Cuando el grupo agazapado está llegando a tu altura, te incorporas y ayudas a la chiquilla a levantarse, colocándola a tu espalda.</p>
+
+    <p>—Confía en mí —le murmuras.</p>
+  
+    <p>Deilos también se incorpora, observando con interés lo que ocultas. Los demás también le imitan.</p>
+  
+    <p>—Vaya, parece que nuestro amigo ha cazado a la mejor presa en esta cacería secreta.</p>
+  
+    <p>La muchacha se oculta aún más a tu espalda; notas que una de sus manos se agarra por detrás a tu cintura y notas cómo te clava las uñas fuertemente en los riñones.</p>
+  
+    <p>—No te muevas Deilos. Vamos a dejarla que se marche y regresar al campamento.</p>
+  
+    <p>—¿Me tomas por idiota? ¿O acaso la quieres para divertirte tú solito?</p>
+  
+    <p>Las uñas se clavan aún más en tu carne, pero aparentas no sentir nada. Deilos te examina con recelo. Vuestras miradas se cruzan, desafiantes. Cruzas tu brazo y colocas con naturalidad tu mano sobre la empuñadura de la espada.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '208',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '139',
-    html: 'www',
+    html: '<p>Buscas opciones que te permitan seguir avanzando. Otra piedra impacta en tu roble. Te dispones a entrar en Protahitéi (segunda aceleración) para sorprender a tus atacantes. Te concentras para enumerar la secuencia de letras y números secreta.</p>',
     actions: [
       {
-        id: 'xx',
+        id: '198',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '140',
-    html: 'www',
+    html: `<p>No entiendes cómo se te ha podido escabullir. Miras en todas direcciones: a tu izquierda la ladera sigue ascendiendo hasta el amenazador bosque. No ves ningún movimiento en esa dirección. Mucho más adelante, a tu derecha y al otro lado de la ladera, puedes ver cómo avanza el grupo de Deilos, que sigue infiltrándose entre los huertos y chozas de la aldea de campesinos. Tampoco parece que nada se mueva entre tú y ellos. Al frente tampoco se divisa nada; cercados y huertos, senderos que ascienden hacia el bosque, vallados y tapias que delimitan los terrenos de algunos campesinos, malezas y algún árbol aislado… pero ninguna evidencia del extraño personaje que estabas siguiendo hace un instante.</p>
+
+    <p>Sigues avanzando con cautela, buscando a la criatura fantástica mientras vigilas a Deilos y los suyos.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '163',
         text: 'Continuar',
       },
     ],
