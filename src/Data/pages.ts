@@ -1769,160 +1769,331 @@ const pageArray: IPage[] = [
   },
   {
     id: '86',
-    html: 'www',
+    html: `<p>Al llegar al vivaque, te encuentras a los instructores con sus espadas desenvainadas, desgañitándose para averiguar si alguien ha resultado herido. Te enteras entonces que el único herido es Zarenyo, que ha recibido dos impactos: el primero le ha fracturado el húmero y el segundo le ha impactado en la cabeza, dejándolo inconsciente. Turpa, máximo responsable de estas maniobras, solicita que se lo lleven de inmediato a la tienda del médico, maese Lartetos, y que después de examinarlo y determinar la gravedad de sus heridas, preparen su traslado a Koras para mañana mismo a primera hora.</p>
+
+    <p>El maestro Turpa parece furioso y ha convocado al resto de alumnos. Os informa que el pérfido ataque ha sido cometido por una docena de campesinos rebeldes que deben vivir en los alrededores. Los han visto huir, pero no han conseguido reconocerles debido a la oscuridad de la noche. Está convencido que se trata de unos insurrectos que albergan resentimiento y envidia hacia los guerreros de Uhdanfiún y de la gloria del imperio Ainar.</p>
+  
+    <p>El tono firme y autoritario del Maestro Turpa no deja lugar a dudas. Escuchas en silencio, como el resto de alumnos… pero no compartes demasiado su versión de los hechos, sobre todo después de lo que has visto allá arriba.</p>
+  
+    <p>Turpa interrumpe tu reflexión. Para asegurar toda la zona de acampada, se van a realizar guardias por turnos para controlar la zona exterior y el perímetro interior. Te designa como responsable de la primera guardia para vigilar la franja externa.</p>
+  
+    <p>Te interesas por la salud de Zarenyo y te informan que permanece inconsciente de momento. Te equipas para la vigilancia ciñéndote la espada al cinto y decides comer algo rápidamente antes de iniciar tu ronda.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '132',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '87',
-    html: 'www',
+    html: `<p>Le acaricias el pelo; ella suspira y te sonríe con picardía.</p>
+
+    <p>—No hay mejor sitio que éste; nosotras te cuidaremos.</p>
+  
+    <p>Las palabras que te ha susurrado la rubia te resultan muy tentadoras. Sus delicadas manos acarician tu cabellera. En ese mismo momento, notas cómo un agradable escalofrío recorre tu espalda.</p>
+  
+    <p>—Vente a nadar con nosotras.</p>
+  
+    <p>La pelirroja tiene una voz suave y sus palabras te han encandilado. Baila lentamente a tu lado. Los bucles de su pelo rojizo vuelan al viento como extrañas llamaradas de un fuego mágico, resbalando sobre su espalda pecosa.</p>
+  
+    <p>Al rato, las tres te alzan del suelo para abrazarte, cogiendo tus manos mientras se acercan al agua reluciente y cristalina. Del fondo emanan brillos misteriosos que parecen provenir de joyas preciosas que reposan en el fondo. El murmullo de las aguas y el canturreo que se puede escuchar entre las ramas invitan a sumergirse. No puedes resistir la atracción que reina en ese mágico lugar y te dejas llevar por esas atractivas mujeres.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '51',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '88',
-    html: 'www',
+    html: `<p class="asangre cursiva">Has solventado el enigma. «Ag, el lobo llega» es un palíndromo (palabra o frase que se lee igual hacia delante que hacia atrás). Al contestar con otro palíndromo («Solos»), has descubierto la solución (o has tenido mucha suerte).</p>
+
+    <p>De repente, comprendes lo que está sucediendo. Los lobos no se muestran agresivos, salvo cuando se han sentido amenazados. Se han acercado lentamente y aunque os estén rodeando, no se muestran belicosos sino todo lo contrario: se muestran precavidos y hasta conciliadores. De un modo inexplicable, has asociado su presencia a Tríane y estás convencido de que los ha enviado ella para ayudaros a salir del bosque.</p>
+  
+    <p>—No dispares. Guarda la flecha. Son amigos.</p>
+  
+    <p>—¿Qué dices? ¿Te has vuelto loco? ¿Estás seguro?</p>
+  
+    <p>—Hazme caso.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '119',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '89',
-    html: 'www',
+    html: `<p class="asangre cursiva">Has solventado el enigma. «Vislumbrando murciélagos» son dos palabras (bastante largas) cuyas letras no se repiten. Al contestar «tirabuzón» has descubierto la otra palabra con esas mismas características (o has tenido mucha suerte).</p>
+
+    <p>De pronto, entiendes lo que está ocurriendo. Esos lobos no parecen hambrientos; tampoco se muestran muy combativos. Interpretas por lo tanto que podrían ser aliados y probablemente acudan a tu presencia como «mensajeros» de Tríane.</p>
+  
+    <p>Como tampoco estás muy convencido que tu presentimiento sea acertado, te mantienes a la defensiva intentando no mostrarte agresivo.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '120',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '90',
-    html: 'www',
+    html: '<p>Avanzas con cuidado por el resbaladizo suelo que bordea el riachuelo, con la esperanza de que te guíe fuera de este fantasmagórico bosque. Caminas en silencio, con todos los sentidos en alerta. Cuando llevas apenas cinco minutos, ves que el arroyuelo hace un recodo y desemboca en una especia de charca oscura, rodeada de grandes rocas de diferentes tamaños. Sobre las negras aguas flotan algas y cañas podridas. Piensas que tendrás que dar media vuelta, a la vez que experimentas un ligero sopor. Bostezas una y otra vez. Súbitamente, te das cuenta de que estás muy agotado y decides descansar un segundo sobre una de las rocas. Te frotas la cara, quieres despejarte, pero continúas amodorrado. Te vence la somnolencia y al rato, te quedas dormido…</p>',
     actions: [
       {
-        id: 'xx',
+        id: '168',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '91',
-    html: 'www',
+    html: `<p>El tirón que te pega el mago te sobresalta.</p>
+
+    <p>—¡Te dije que no te detuvieras y no miraras!</p>
+  
+    <p>El susto parece haberte sacado del atontamiento que estabas padeciendo y vuelves a trotar detrás del incansable mago. A pesar de que parezca una persona mayor, constatas que tiene una resistencia asombrosa.</p>
+  
+    <p>De pronto Linar se detiene en seco y tú te das de bruces en su espalda. Te señala un pequeño resquicio que se abre entre dos anchos robles. Reconoces el término del camino que empezaba en un desfiladero y observas cómo al final del monte se adivinan unos pequeños pagos, rodeados por huertos.</p>
+  
+    <p>Linar se acerca hasta situarse entre los dos robles. Te señala la cabaña más apartada del pago, situada sobre una pequeña loma.</p>
+  
+    <p>—Están allí… ¿Los ves?</p>
+  
+    <p>Puedes distinguir varias unas sombras acercándose a la casa, ascendiendo una leve pendiente. Tú puedes acceder a la cabaña por otro camino desde arriba. Los seis perfiles de tus compañeros se van camuflando por los cercados mientras siguen avanzando hacia la casa.</p>
+  
+    <p>—Nuestros caminos se separan aquí —te dice Linar con voz grave—. Yo regreso a mi santuario. Espero que puedas afrontar esta situación con la misma sabiduría y coraje que tuviste frente al corueco, en el bosque de Corocín. Y te deseo la misma suerte. Adiós muchacho.</p>
+  
+    <p>Linar vuelve a internarse en la espesura hasta que desaparece en la tupida arboleda.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '160',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '92',
-    html: 'www',
+    html: `<p>Durante más de media hora estáis descendiendo por angostos breñales, hasta llegar a un pequeño desfiladero. Observas que la comitiva avanza muy relajadamente por el terreno, lo cual no deja de sorprenderte teniendo en cuenta el ataque que se ha producido hace apenas unas horas en el campamento. Los odres de vino van pasando de mano en mano y el propio Deilos, guía de la peculiar cuadrilla, parece más amigable que de costumbre. Dahzor está muy animado y el resto de compañeros tienen que frenarle para que no beba en exceso, se comporte y se mueva con algo más de sigilo. Tú prefieres mantenerte sereno y solo simulas beber, mojando apenas los labios en la boquilla cuando te pasan el cuero.</p>
+
+    <p>Juzgas más oportuno mantenerte sobrio para lo que se pueda avecinar, ya sea un combate, una caza… o un nuevo encuentro con Tríane.</p>
+  
+    <p>Tras el paso por el desfiladero os encontráis con una loma guarnecida por frondosos álamos de ramas robustas y ancha copa. Los esbeltos y elegantes árboles forman un soto peculiar desde el cual se puede contemplar el resto del paisaje. Su aspecto majestuoso y sus hojas en forma de corazón te evocan los emplazamientos funerarios de tu infancia y las explanadas donde se realizan las ofrendas a los dioses. Desde este sugestivo lugar, y gracias a la refulgencia de las lunas de Tramórea, puedes ver cómo el terreno vuelve a descender muy suavemente por una vega sembrada con huertos. Divisas pequeños senderos que rodean los cercados. Al otro extremo del estrecho valle, la ladera vuelve a ascender y el horizonte queda recortado por un denso bosque que parece tan impenetrable como los muros de un castillo. Deilos se detiene y requiere con un dramático movimiento la atención de todo el grupo.</p>
+  
+    <p>—A partir de ahora, silencio absoluto. No queremos que nuestra presa nos descubra antes de tiempo.</p>
+  
+    <p>Bhratar y Tauldos intentan sofocar una risotada cubriéndose la boca con las manos. Dahzor decide tomar un último trago; Taifos pide permiso para orinar antes de entrar en acción y se adentra en el bosquecillo. El comportamiento de tus compañeros de aventura te parece bastante ridículo.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '155',
+        text: 'decides observar detalladamente el paisaje y los alrededores',
+      },
+      {
+        id: '36',
+        text: 'te excusas para aliviarte como Taifos y entras en el bosquecillo',
       },
     ],
   },
   {
     id: '93',
-    html: 'www',
+    html: `<p>Mientras espías la progresión del grupo, ratificas tu primera impresión; la cuadrilla avanza distendidamente por el terreno sin tomar ninguna precaución a pesar de lo ocurrido en el vivaque. Tú te mantienes alerta en todo momento, pensando además en la posibilidad de volver a ver a Tríane.</p>
+
+    <p>Al espiar los movimientos del grupo, observas que los odres de vino se van pasando de mano en mano. Incluso el propio Deilos, el peculiar guía de la banda, echa un trago de vez en cuando y se muestra amigable con Dahzor, que parece el más animado del grupo. Da la sensación que es el que más bebe de todos, seguramente para paliar su nerviosismo y para poder integrarse mejor en el clan de Dedos.</p>
+  
+    <p>El grupo continúa su marcha mientras tú les vigilas desde una distancia prudente. Te ocultas en el borde del sendero y avanzas silenciosamente, aplicando las enseñanzas recibidas en la academia de Uhdanfiún. Oteas en las proximidades y cuidas tu retaguardia, atento por si aparecen rebeldes y algo emocionado al pensar en la posibilidad de volver a coincidir con Tríane.</p>
+  
+    <p>La expedición liderada por Dedos toma por un desfiladero que también desciende suavemente, dejando a un lado un enorme bosque. Receloso ante la posibilidad de una emboscada, extremas aún más las precauciones, pero tras un cuarto de hora aproximado y sin incidentes, ves cómo el grupo accede a una loma poblada por una frondosa alameda. El grupo hace una breve pausa cuando se dispone a abandonar el bosquecillo, divisando desde ese mismo lugar una bajada muy suave que desemboca en una vega sembrada con huertos. Al otro extremo del poblado la ladera asciende hasta un denso bosque que se erige majestuosamente. Desde esta distancia, parece impenetrable.</p>
+  
+    <p>Antes de que el grupo reanude la marcha, Deilos exige la atención de todos, gesticulando teatralmente. Puedes escuchar como advierte al grupo:</p>
+  
+    <p>—A partir de ahora, silencio absoluto. No queremos que nuestra presa nos descubra antes de tiempo.</p>
+  
+    <p>Observas a Bhratar y Tauldos, que sofocan risas cubriéndose la boca con ambas manos. Taifos pide permiso para orinar antes de entrar en acción y se adentra en el bosquecillo de álamos. La actitud de tus compañeros te resulta bastante irrisoria.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '156',
+        text: 'vigilas al grupo',
+      },
+      {
+        id: '37',
+        text: 'te mantienes oculto en el bosquecillo',
       },
     ],
   },
   {
     id: '94',
-    html: 'www',
+    html: `<p>—Apuesto que la aburrida guardia que acabas de hacer te habrá desvelado. Si te apetece hacer algo más emocionante ahora, te invitamos a que te unas a la banda para participar en… la cacería secreta.</p>
+
+    <p>Deilos te habla entre susurros pero ha recalcado con énfasis sus tres últimas palabras. Te guiña el ojo con complicidad, sabiendo que también habrás escuchado rumores sobre la cacería secreta. A su lado está Merkar, otro de sus «admiradores», con el arco en la mano y la aljaba asomando por detrás de su espalda. Lleva las flechas envueltas en trapos, para evitar que hagan ruido al chocar entre sí.</p>
+  
+    <p>—¿Qué, te animas? —pregunta Merkar, impaciente—. Dahzor ya se está equipando y nos ha pedido que te esperemos para que te puedas apuntar con nosotros.</p>
+  
+    <p>Bhratar y Tauldos, el resto de la comitiva de Deilos, están más apartados, pasándose un odre que contiene vino, sofocando risas entre trago y trago.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '117',
+        text: 'aceptas la invitación para participar en la cacería secreta',
+      },
+      {
+        id: '150',
+        text: 'declinas la invitación argumentando cansancio',
+      },
+      {
+        id: '178',
+        text: 'rechazas la invitación a causa de la emboscada y el estado de Zarenyo',
       },
     ],
   },
   {
     id: '95',
-    html: 'www',
+    html: `<p>Desplazándote con el mayor sigilo, accedes hasta la loma donde se encuentra el grupo. Observas a Bhratar y Tauldos pasándose un bota de vino para apurar su contenido. Merkar está increpando a Dahzor para que no hable tan fuerte… da la sensación de que ha bebido un poco más de la cuenta.</p>
+
+    <p>Te sigues acercando con cuidado, infiltrándote en la alameda y manteniéndote oculto. Desde tu posición divisas a Deilos, que reclama la atención de todo el grupo con un gesto teatral. Oyes perfectamente sus palabras:</p>
+  
+    <p>—A partir de ahora, silencio absoluto. No queremos que nuestra presa nos descubra antes de tiempo.</p>
+  
+    <p>Puedes ver y escuchar a Bhratar y Tauldos sofocar la risa cubriéndose la boca con ambas manos. Taifos pide permiso para orinar antes de entrar en acción y se adentra en el bosquecillo. Todo te resulta muy extraño.</p>
+  
+    <p>Te agachas para controlar los movimientos del grupo y atisbas a Taifos aliviarse de pie, algo más lejos, junto a un árbol.</p>
+  
+    <p>Desde tu posición puedes observar cómo la loma desciende luego suavemente hacia una vega sembrada con huertos. Un pequeño sendero rodea los cercados. Al otro extremo, la ladera vuelve a ascender y el horizonte queda recortado por un denso bosque que parece tan impenetrable como los muros de un castillo.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '156',
+        text: 'vigilas al grupo',
+      },
+      {
+        id: '37',
+        text: 'te mantienes oculto en el bosquecillo',
       },
     ],
   },
   {
     id: '96',
-    html: 'www',
+    html: `<p class="asangre"><i>Has solventado el enigma. Al igual que el rostro de la misteriosa mujer, las palabras que escuchas en tu mente son simétricas al colocar un eje horizontal en su centro. <i>EXHIBO</i> también cumple con esas condiciones y por lo tanto ésa es la respuesta correcta</i>.</p>
+
+    <p>Avanzas con cautela hacia la joven, extendiendo las palmas hacia arriba para mostrarte afable e intentar no asustarla. Ella sigue mirándote con placidez y no aparenta inquietud. Al preguntarle cómo se llama, te contesta con voz clara y algo grave, sin delatar ningún temor:</p>
+  
+    <p>—Tríane… —y añade tras una breve pausa—: Tú no eres como los demás.</p>
+  
+    <p>Te parece que su voz está en armonía con el cuerpo que descubres al internarte entre las malezas. La suave túnica de lino que lleva desvela un físico tan hermoso como sus facciones.</p>
+  
+    <p>Te disponías a preguntarle qué está haciendo sola en este lugar apartado, pero su serenidad te ha desarmado por completo. Es ella quien toma la iniciativa y te revela con una voz que casi consigue hipnotizarte:</p>
+  
+    <p>—Eres noble y generoso. He visto cómo aprecias a tu compañero. Haz caso a tu instinto y desconfía de aquellos que intentan imponerte su criterio con autoridad. Tu capacidad y tu buen juicio deberían guiarte en esta difícil prueba. No me defraudes o seré implacable contigo.</p>
+  
+    <p>Al escuchar el aleteo del mochuelo que alza el vuelo a tu espalda, te giras inquieto. Cuando te das la vuelta para seguir hablando con Tríane, descubres que ya no está. Ha desaparecido sin hacer ruido.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '24',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '97',
-    html: 'www',
+    html: `<p>El olor a sangre y sudor te revuelve las tripas. Tienes que hacer un esfuerzo para no vomitar ahí mismo. En el exterior, se empiezan a solapar gritos de alerta sobre el sonido del cuerno. Deilos y Dahzor salen de la cabaña en tromba, dejándote frente al enorme Taifos, que te maldice y se abalanza sobre ti con toda su furia, espalda en alto.</p>
+
+    <p>Teniendo en cuenta que te dobla en tamaño y que es un Ibtahán de quinto grado como tú, vas a necesitar mucha suerte para salir airoso de este enfrentamiento.</p>`,
+    random: true,
     actions: [
       {
-        id: 'xx',
+        id: '107',
+        text: 'Continuar',
+      },
+      {
+        id: '116',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '98',
-    html: 'www',
+    html: `<p>Se mueve otra vez… y sale de su escondite. Apenas te atreves a respirar mientras lo observas.</p>
+
+    <p>Un contorno encapuchado y bajito se desliza con movimiento felino para salir de las sombras. A la espalda lleva un arco corto y una aljaba con flechas, por encima de la capa. Por debajo, puedes ver que va muy desaliñado; una mezcla de pieles y harapos junto con unos calzones amplios y unas botas pequeñas y desgastadas. Para sujetar los pantalones lleva un cinto basto de soga, en el que cuelga una especie de cuerno de caza. Empiezas a sospechar que no se trata de una de esas criaturas que te imaginabas. Parece más bien un crío…</p>
+  
+    <p>Se acaba de girar para mirar en tu dirección. En un primer momento piensas que ha debido escuchar el sonido de tu corazón desbocado.</p>
+  
+    <p>Tiene el pelo largo y oscuro… o muy sucio. Su rostro es aniñado y dulce… como el de una chica.</p>
+  
+    <p>Está en tensión. Ha escuchado algo… o intuye tu presencia. Se inclina hacia delante para atisbar lo que se oculta entre penumbras. Sus ojos son de color azul intenso como el acero… ¡Y es una chiquilla!</p>
+  
+    <p>No le das tiempo a reaccionar y te abalanzas sobre ella sin que tenga tiempo a oponer resistencia.</p>
+  
+    <p>Con un bufido ahogado, cae de espaldas debido a tu impulso y el peso de tu cuerpo.</p>
+  
+    <p>Le aprisionas el brazo y el cuerpo con tus piernas, sentándote sobré su estomago. Te inclinas hacia delante y la examinas detenidamente. Debe tener unos trece o catorce años como mucho. Al mirarla con más detenimiento, te da la sensación que su aspecto mugriento oculta a una linda muchacha.</p>
+  
+    <p>Aunque en estos momentos su rostro refleja rabia y crispación.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '202',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '99',
-    html: 'www',
+    html: `<p>El lobo de cresta blanca se acerca rápidamente junto al lobo negro y resopla. Tres de los lobos, inquietos, quieren reanudar la marcha, pero el lobo más grande ladra con gañidos entrecortados y la manada obedece, deteniéndose. El lobo negro se pone en guardia y puedes ver cómo se le eriza el pelo mientras gruñe en la misma dirección que antes. Puedes escuchar un ruido sordo a lo lejos, que parece acercarse. El gran lobo gruñe impaciente y los otros lobos empiezan a retroceder.</p>
+
+    <p>En ese momento puedes percibir un olor muy raro, entre fétido y metálico.</p>
+  
+    <p>Intuyes un peligro inminente.</p>
+  
+    <p>La manada de lobos resopla y gruñe una vez más, plantándose delante de ti, dispuestos a afrontar lo que se acerca. Sea lo que sea, despide un olor cada vez más nauseabundo.</p>
+  
+    <p>El lobo más grande, situado en el centro, se gira de repente hacia ti y te ladra con fiereza, mostrando sus fauces afiladas.</p>
+  
+    <p>Te está ahuyentando para que huyas de este lugar. Algo se aproxima a toda velocidad y con pésimas intenciones. Y por la reacción de esos fieros animales deduces que solo se puede tratar de una bestia muy particular: un corueco.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '52',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '100',
-    html: 'www',
+    html: `<p>Parece una aberración, pero todo lo que ha ocurrido hasta ahora y la sinceridad de sus palabras… Tienes la intuición que dice la verdad. No sabes qué contestar. Te sientes indignado; a duras penas logras contener tu ira. Todos tus recelos hacia Deilos se intensifican creando el retrato de un individuo execrable cuya maldad ya había aflorado en otras ocasiones. Tus presentimientos sobre él estaban fundados.</p>
+
+    <p>—Te ayudaré a detenerlos.</p>
+  
+    <p>—Me alegra oír eso.</p>
+  
+    <p>El pequeño bulto enfunda su arco y sale del escondite. Lleva puesta la capucha y empieza a reptar para seguir avanzando sin perder de vista al grupo. Cuando consigues verle por fin la cara te das cuenta de que… ¡Es una chiquilla!</p>
+  
+    <p>Su voz ronca no se corresponde a su edad. Es bajita. Debe tener unos catorce años, como mucho. Por debajo de la capa viste muy desaliñada. Con pieles, harapos y unas calzas que le vienen anchas, sujetas con un cinto de soga basto del que cuelga una especia de cuerno de caza. Su pelo es largo y oscuro… o muy sucio. El arco corto y la aljaba con flechas le sobresalen por ambos lados de la espalda.</p>
+  
+    <p>Su mirada es fría e intensa; sus ojos azules como el acero te desafían.</p>
+  
+    <p>—Creo que se dirigen a aquella cabaña —te susurra, señalándote una choza algo más alejada que está situada sobre una pequeña loma con huertos y una tapia por la parte que da al bosque.</p>
+  
+    <p>Al mirarla con más detenimiento, te da la sensación que su aspecto mugriento oculta a una linda muchacha.</p>
+  
+    <p>—Es la más aislada. Tiene sentido.</p>
+  
+    <p>Os ponéis en marcha para recuperar la distancia que os separa del grupo.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '47',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '101',
-    html: 'www',
+    html: `<p>Encaráis el estrecho prado rodeado de enormes árboles erguidos como un solemne baluarte. Al avanzar por la pradera podéis notar esa fragancia acaramelada que flota en el aire. Ya habéis franqueado el claro y os enfrentáis de nuevo al bosque cuando de pronto escucháis unos gruñidos roncos que se aproximan. En la oscuridad del bosque en el que os disponíais a entrar, veis moverse unas sombras de animales salvajes. Los destellos de unos ojos rojizos les delatan cuando os están observando. Habéis contado tres, quizá cuatro criaturas.</p>
+
+    <p>Dos de ellos se adelantan y se dibujan en el prado, gruñendo en tono bajo e intenso. Son lobos enormes, de aspecto terrible y feroz. El más grande tiene un pelaje de color plomizo, con una cresta blanca sobre el lomo. Se desplaza con lentitud. Sin dejar de gruñir, describe un círculo a vuestro alrededor a la vez que os observa.</p>
+  
+    <p>La muchacha tensa su arco cargado y cruza la mirada con el jefe de la manada. El lobo de cresta blanca reacciona muy rápidamente, encogiendo el morro y mostrando su feroz dentadura un instante, acobardando a la muchacha en el acto.</p>
+  
+    <p>Un tercer lobo surge de la oscuridad y se mueve con sigilo hacia el otro lado descubierto. Os están rodeando. El enorme lobo gris se acerca a vosotros gruñendo levemente.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '53',
         text: 'Continuar',
       },
     ],
