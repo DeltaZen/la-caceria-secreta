@@ -4,7 +4,14 @@ import Actions from './components/Actions'
 import { pages } from './Data/pages'
 
 export default function App() {
-  const [page, setPage] = useState(pages.intro)
+  const initialIndex = window.localStorage.getItem('page') ?? 'intro'
+
+  const [page, setPage] = useState(pages[initialIndex])
+
+  useEffect(() => {
+    window.localStorage.setItem('page', page.id)
+  }, [page.id])
+
   return (
     <main className="font-sans px-4 py-10 text-center text-gray-700 dark:text-gray-200">
       <DarkMode />
