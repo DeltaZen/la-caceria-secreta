@@ -2514,46 +2514,132 @@ const pageArray: IPage[] = [
   },
   {
     id: '121',
-    html: 'www',
+    html: `<p>Sueltas la cuerda de tu arco apuntando a Deilos, que ha percibido tu sombra al levantarte y se mueve imperceptiblemente para descubrir de qué se trata. Se escucha un leve silbido y en ese momento tu flecha se clava en su muslo, derribándolo en el acto. Deilos se retuerce en el suelo, ahogando un grito de dolor, que se convierte en un gañido sordo.</p>
+
+    <p>La muchacha, desconcertada puesto que esperaba una señal, ha disparado justo después y su flecha pasa por encima de Deilos, rozando la oreja de Dahzor, que avanzaba por detrás. Asustado por el ataque, da media vuelta y huye gritando:</p>
+  
+    <p>—¡Es otra emboscada! ¡Nos estaban esperando, huyamos!</p>
+  
+    <p>La chiquilla está sorprendida por lo ocurrido y te mira de reojo levantando un ceja con reprobación. Tú ya has alzado el cuerno en alto y soplas con todas tus fuerzas, acercándote a la muchacha.</p>
+  
+    <p>Taifos corre hacia Deilos que está en el suelo, espada en mano, viendo las dos sombras al otro lado de la tapia.</p>
+  
+    <p>La más pequeña está armando nuevamente su arco y apunta para disparar.</p>
+  
+    <p>En ese momento se escuchan gritos en la cabaña y en las chozas de los alrededores.</p>
+  
+    <p>—¡Retirada! —Vocifera el corpulento Taifos, cargándose a Deilos a los hombros.</p>
+  
+    <p>Tú agarras el brazo de la chiquilla, forzándola a bajar su arco.</p>
+  
+    <p>Un poco más abajo, Merkar se arrodilla, deja pasar a su compañero y tensa el arco esperando el ataque. A cada salto que da Taifos, Deilos gruñe a causa de la herida en su muslo.</p>
+  
+    <p>—Vamos —le susurras suavemente a tu misteriosa compañera—. ¿No querrás que nos sorprendan aquí, verdad?</p>
+  
+    <p>Te lanza una fría mirada de reproche. Tiras de ella y corréis agazapados subiendo por la loma hasta los lindes del bosque de Corocín.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '33',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '122',
-    html: 'www',
+    html: `<p>Inmóvil y acurrucada contra un viejo olmo aislado, pasa totalmente desapercibida. Te aproximas con cuidado hasta ella, esperando que no esté herida… o algo peor.</p>
+
+    <p>Te sientas a su lado y te alivia comprobar que respira lentamente. Le pones con suavidad la mano en el hombro susurrándole previamente:</p>
+  
+    <p>—¿Estás bien?</p>
+  
+    <p>Ella se sobresalta e instintivamente se aleja por un momento, pero al reconocerte sonríe y te abraza con todas su fuerzas.</p>
+  
+    <p>—¡Estás vivo! Pensé que el corueco… —Te observa con atención, asombrada que no tengas ninguna herida grave—. Co… ¿cómo lo has conseguido?</p>
+  
+    <p>Algo agitado por su espontáneo abrazo, le contestas con otra sonrisa:</p>
+  
+    <p>—Con mucha suerte. ¿Sabías que un mago tuerto habita ese bosque?</p>
+  
+    <p>Ella hace una mueca divertida, simulando reflexionar.</p>
+  
+    <p>—Escuché hace tiempo que muchos años atrás un viejo loco se escondía en el bosque de Corocín, y creo recordar que decían que tenía un parche en un ojo. Pero seguro que ha muerto desde entonces. No puede ser el mismo.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '79',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '123',
-    html: 'www',
+    html: `<p>La transformación te horroriza y repugna al mismo tiempo, al recordar que segundos antes estabas abrazado a ellas. Sus voces han dejado de ser seductoras para convertirse en un siseo viperino que proviene de las bífidas lenguas que asoman tras unas bocas espantosas. Medio desnudo pero totalmente recuperado, intentas sacarte de encima lo que supones deben ser mortíferas Niryiin, alzando tu espada y apuntando hacia ellas tu acero. Cuando acercas la kisha a una de ellas ves cómo retrocede y se enrosca, encogiéndose y silbando amenazas, mientras otra procura sorprenderte por detrás. Te ves obligado a girar constantemente, blandiendo tu arma de manera desafiante, para mantenerlas a distancia. Con un movimiento intimidatorio, consigues finalmente arrinconarlas contra una roca. Las hermosas doncellas se han convertido en esperpénticas visiones de cabello greñudo y aspecto de ofidio. Te preparas para lanzarles un golpe mortal cuando se revuelcan en el suelo súbitamente y huyen vertiginosamente hacia las aguas de la charca que burbujean a su contacto. En el momento de sumergirse, jurarías que sus esbeltas piernas se habían convertido en sinuosas colas de serpiente.</p>
+
+    <p>Tu entorno ha perdido todo el encanto de hace unos instantes. La poza vuelve a ser lúgubre y apestosa. Los alrededores tienen un aspecto tétrico y sobre todo, extremadamente peligroso.</p>
+  
+    <p>Te vistes apresuradamente y regresas hasta el lugar donde dejaste a la chiquilla durmiendo para constatar que, afortunadamente, no ha sufrido ningún daño y sigue adormilada entre los helechos. La despiertas con cuidado y compruebas que está confusa. Le informas que la charca es un callejón sin salida putrefacto y que tenéis que regresar por donde habéis venido. Decides que es mejor no contarle tu aventura con las Niryiin, no vaya a ser que te pida que le cuentes los detalles.</p>
+  
+    <p>Reemprendéis el camino que os lleva de nuevo hasta el claro.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '101',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '124',
-    html: 'www',
+    html: `<p>Te estremeces al ver que el siseo sus voces va acompañado de una mueca y que por sus bocas asoman lenguas de reptil. La espantosa visión te libera brutalmente de su hipnótico hechizo. Supones que deben ser Niryiin y empuñas con firmeza tu espada para amenazarlas con el acero. Cada vez que el arma apunta en dirección de una de ellas, ésta se retuerce y se agacha retrocediendo mientras que otra intenta acercarse por detrás. Las mantienes a raya girando sobre ti mismo e intentas arrinconarlas. Han perdido todo el atractivo: sus largas y sedosas melenas se han convertido en sucio cabello encrespado, sus bífidas lenguas se agitan silbando en el aire, sus dulces miradas tienen ahora connotaciones viperinas. Logras encararlas a las tres, y cuando te dispones a lanzar un ataque, huyen velozmente saltando a las aguas de la poza, que borbotean a su contacto. Te ha dado la impresión que en el momento de sumergirse ya no tenían esbeltas piernas, sino largas colas de serpiente.</p>
+
+    <p>El aspecto de la poza vuelva a ser el que viste antes de sentirte tan cansado. Lúgubre, tenebroso, y sobre todo, muy peligroso.</p>
+  
+    <p>Vuelves sobre tus pasos. Al pasar junto a la tumba de la muchacha, no puedes evitar pensar que ella te hubiese podido ayudar a superar ese espantoso encuentro.</p>
+  
+    <p>Retomas el camino hasta llegar al prado.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '158',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '125',
+    html: `<p>Desde el umbral te invade un intenso olor a sangre y sudor. A tu derecha yace una mujer, en postura obscena, que acaba de ser mutilada. La sangre todavía sale a borbotones de un muñón sanguinolento; la pantorrilla seccionada está junto a la puerta, como si fuese un pedazo de muñeca roto. Un espantoso olor a sangre mezclado con sudor te produce arcadas y estás a punto de vomitar ahí mismo.</p>
+
+    <p>Te has quedado tan paralizado por el horrible espectáculo, que no lo has visto venir. La afilada hoja de una espada te secciona el cuello y en tus últimos segundos de vida, tu campo de visión se tambalea y solo consigues contemplar el atónito rostro de Taifos que te acaba de descargar el mortífero tajo.</p>
+  
+    <p>—Pero ¿qué c…?</p>
+  
+    <p>Todo se ha vuelto negro. Ya no escuchas nada más. Has muerto.</p>
+  
+    <p class="cursiva">FIN</p>`,
+    actions: [
+      {
+        id: 'inicio',
+        text: 'ir al principio',
+      },
+    ],
+  },
+  {
+    id: '126',
+    html: `<p>Cruzas la mirada con la chiquilla; te está implorando que vayas con ella. Pero la indignación y el odio te dominan. Levantas la mano y te despides con un gesto, seguramente por última vez, antes de salir corriendo detrás del grupo.</p>
+
+    <p>Corres con la esperanza de darles alcance, aunque no tienes muy claro lo que harás cuando te enfrentes a ellos.</p>
+  
+    <p>Puedes ver cómo se repliegan rápidamente, volviendo por donde han llegado. Bhratar y Tauldos encabezan el grupo, seguidos de Deilos y Dahzor… Taifos cierra la marcha ayudando a Merkar, que gruñe de dolor por la flecha que tiene clavada en la espalda.</p>
+  
+    <p>De las diferentes chozas ves salir a los campesinos furiosos, dando la alarma. Alguien ha visto la matanza y grita: «¡Asesinos! ¡Asesinos!».</p>
+  
+    <p>Aceleras para dar alcance al grupo, pero acusas el cansancio del reciente combate…</p>`,
+    actions: [
+      {
+        id: '64',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '127',
     html: 'www',
     actions: [
       {
@@ -2563,7 +2649,927 @@ const pageArray: IPage[] = [
     ],
   },
   {
-    id: '126',
+    id: '128',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '129',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '130',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '131',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '132',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '133',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '134',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '135',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '136',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '137',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '138',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '139',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '140',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '141',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '142',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '143',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '144',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '145',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '146',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '147',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '148',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '149',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '150',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '151',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '152',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '153',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '154',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '155',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '156',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '157',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '158',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '159',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '160',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '161',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '162',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '163',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '164',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '165',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '166',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '167',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '168',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '169',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '170',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '171',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '172',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '173',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '174',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '175',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '176',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '177',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '178',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '179',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '180',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '181',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '182',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '183',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '184',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '185',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '186',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '187',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '188',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '189',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '190',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '191',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '192',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '193',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '194',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '195',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '196',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '197',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '198',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '199',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '200',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '201',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '202',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '203',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '204',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '205',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '206',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '207',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '208',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '209',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '210',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '211',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '212',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '213',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '214',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '215',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '216',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: '217',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: 'DramatisPersonae',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: 'Glosario',
+    html: 'www',
+    actions: [
+      {
+        id: 'xx',
+        text: 'Continuar',
+      },
+    ],
+  },
+  {
+    id: 'Ilustraciones',
     html: 'www',
     actions: [
       {
