@@ -8,7 +8,7 @@ const Actions: React.FC<Links> = (props: Links) => {
           return (
             <button key={action.id}
               onClick={() => props.setPage(pages[action.id])}
-              className="text-left w-[80%] border-l rounded-lg my-2 p-2"
+              className="text-left w-[80%] border-l rounded-lg my-2 p-2 first-letter:uppercase"
             >
               {action.text}
             </button>
