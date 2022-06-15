@@ -28,7 +28,7 @@ export default function App() {
               <h1>Error al seleccionar la página</h1>
               <button
                 onClick={() => setPage(pages.intro)}
-                className="text-left w-[80%] border-l rounded-lg my-2 p-2"
+                className="text-left w-[80%] border-l rounded-lg my-2 p-2 btn"
               >
                 Ir al principio
               </button>
