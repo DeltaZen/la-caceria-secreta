@@ -3104,151 +3104,291 @@ const pageArray: IPage[] = [
   },
   {
     id: '151',
-    html: 'www',
+    html: `<p>Dejándote llevar más por los recuerdos que por un cálculo exacto, crees recordar que en esa clase no erais más de 25, por lo que 10 alumnos y 8 Ibtahanes te parece el número correcto. Además, el grupo seguramente se habrá internado en el bosque para cazar alguna bestia fantástica.</p>
+
+    <p>Sigues avanzando durante diez minutos más en dirección al tupido bosque. Empiezas a escuchar el murmullo de las ramas mecidas por el viento, alterado por los sonidos de las aves nocturnas. Cuando penetras en la frondosa arboleda, puedes oler, sentir y vislumbrar la maleza que te rodea, impregnada de una humedad empalagosa que moja tu cabello y tu piel bajo la luz de las tres lunas de Tramórea, que proporcionan una mayor visibilidad gracias a la mágica refulgencia de esta noche tan especial. Te detienes junto a un olmo e intentas escuchar algún sonido que revele la posición de la comitiva que intentas alcanzar. Apoyas la mano en la rugosa corteza e intentas concentrarte… sin éxito. Una sensación irreal se apodera de ti y comprendes súbitamente que emana de ese mismo lugar: te has adentrado en el misterioso bosque de Corocín. El hogar de los coruecos, esas bestias enormes y sanguinarias cuyo esqueleto metálico las convierte prácticamente en invencibles.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '170',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '152',
-    html: 'www',
+    html: `<p>Enumeras velozmente la secuencia de números y letras, sintiendo al instante una exagerada rigidez en tus riñones. La temperatura de tu cuerpo aumenta súbitamente. Salvo Deilos, que ves aproximarse rápidamente, todo parece haberse vuelto más lento.</p>
+
+    <p>Impulsado por un resorte invisible, brincas desde tu lado de la tapia y agarras a la chiquilla por la cintura, levantándola como si fuera un pequeño fardo. Justo donde te encontrabas medio segundo antes, una flecha se clava en el esponjoso suelo del prado. Encaras la ladera y empiezas a ascender corriendo hacia el bosque; a tu espalda escuchas voces de alarma que provienen de las diferentes chozas.</p>
+  
+    <p>Te apresuras con todas tus fuerzas pero puedes percatarte con el rabillo del ojo que Deilos te está ganando terreno… Los demás han quedado muy descolgados atrás.</p>
+  
+    <p>Apenas trescientos metros y llegaréis al bosque. La muchacha intenta debatirse pero se mueve torpemente. Apuras un poco más tu aceleración.</p>
+  
+    <p>Ciento cincuenta metros. Tienes a Deilos cada vez más cerca.</p>
+  
+    <p>Cincuenta metros, diez… puedes escuchar como resopla a tu espalda.</p>
+  
+    <p>De repente sueltas a la chiquilla y te giras ejecutando un Yagartéi intimidatorio que golpea con fuerza la espada que lleva en alto Deilos, haciendo que vuele por los aires.</p>
+  
+    <p>A pesar de estar desarmado, te mira primero con sorpresa y luego con odio, rechinando entre dientes:</p>
+  
+    <p>—Te arrepentirás de esto…</p>
+  
+    <p>Le propinas una patada frontal en todo el pecho que le proyecta violentamente hacia atrás, haciéndole rodar cuesta abajo.</p>
+  
+    <p>La muchacha se ha incorporado y puedes ver el asombro reflejado en sus ojos. La coges de la mano y reanudáis la carrera hacia el bosque, apurando tus fuerzas antes de que terminen los efectos de tu primera aceleración.</p>
+  
+    <p>—No creo que sea buena idea —te dice ella resoplando.</p>
+  
+    <p>—No se me ocurre otra.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '46',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '153',
-    html: 'www',
+    html: `<p>Sopesas tus posibilidades antes del inminente enfrentamiento. Para combatir al corueco no tienes demasiadas opciones.</p>
+
+    <p>Puedes intentar la Yagartéi (desenvainar la espada y a la vez dar un tajo de izquierda a derecha) colocándote debajo del corueco cuando salte, rezando para poder rajarle las tripas.</p>
+  
+    <p>O puedes entrar en Protahitéi (la aceleración que incrementa tu velocidad y rendimiento físico en un cincuenta por ciento), con la esperanza de que esa bestia no sea tan rápida como aparenta.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '35',
+        text: 'decides lanzar una Yagartéi cuando salte el corueco',
+      },
+      {
+        id: '43',
+        text: 'entras en Protahitéi',
       },
     ],
   },
   {
     id: '154',
-    html: 'www',
+    html: `<p>Rastreas toda la zona en busca de la muchacha hasta que por fin te parece avistar un pequeño bulto apoyado contra un viejo olmo apartado. A medida que te vas acercando te preocupa constatar que la pequeña figura está encogida e inerte, por lo que barruntas algún fatal desenlace. Deseas que solamente esté dormida, por lo que te acercas a ella con sumo cuidado, acariciándole el pelo con delicadeza y suspirando aliviado cuando escuchas su respiración pausada. Al notar el roce de tu mano por sus mejillas, abre los ojos súbitamente y se asusta.</p>
+
+    <p>—Soy yo —le dices con ternura.</p>
+  
+    <p>La chiquilla abre los ojos como platos y te inspecciona de arriba hasta abajo.</p>
+  
+    <p>—Pero… ¿cómo has podido sobrevivir al corueco? ¡Ni siquiera pareces herido!</p>
+  
+    <p>Emocionada y con los ojos llorosos, te abraza con ternura.</p>
+  
+    <p>—Me alegro de que estés vivo… ¿Cómo lo has hecho?</p>
+  
+    <p>Te sonrojas al contacto de su espontáneo abrazo y le contestas sonriendo:</p>
+  
+    <p>—Kartine me ha sido favorable… y un viejo mago tuerto me ha salvado justo a tiempo.</p>
+  
+    <p>La chica pone los ojos en blanco y resopla con incredulidad.</p>
+  
+    <p>—No me lo creo. La leyenda del viejo tuerto loco que se esconde en el bosque de Corocín es tan antigua que es imposible que esté vivo a día de hoy.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '171',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '155',
-    html: 'www',
+    html: `<p>Examinas con atención el prado que se extiende ante vosotros: una pequeña aldea de campesinos, con chozas aisladas y huertos que se delimitan unos a otros con pequeños cercados o alguna tapia. Al otro extremo, la ladera asciende bastante rápidamente para dar paso a un bosque de aspecto fantasmagórico que domina toda la aldea, con robles y fresnos gigantescos que parecen estar vigilando el diminuto poblado que se extiende ante ellos. Algo amenazador y sobrenatural parece emanar de aquella arboleda.</p>
+
+    <p>—Es el bosque de Corocín —te dice Dedos, que se ha percatado de tu interés por el paisaje—. Por nada del mundo me metería ahí dentro.</p>
+  
+    <p>A diferencia de antes, su tono es ahora respetuoso, incluso te parece que alberga un temor contenido.</p>
+  
+    <p>—Tiene un aspecto siniestro —concedes.</p>
+  
+    <p>—Dicen que en su interior hay bestias muy peligrosas, y por supuesto, coruecos.</p>
+  
+    <p>Los coruecos; unas bestias temibles prácticamente invencibles, te parece recordar. Se rumorea que su piel es un armazón metálico y que sus presas favoritas son los humanos…</p>
+  
+    <p>Sientes una repentina agitación al imaginarte que quizá ése sea el objetivo de la cacería secreta… hasta que Taifos sale del bosque con gesto satisfecho, interrumpiendo tu reflexión.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '03',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '156',
-    html: 'www',
+    html: `<p>Sin dejar de controlar los movimientos del grupo, examinas con atención el prado que se extiende ante vosotros. Una pequeña aldea de campesinos, con chozas aisladas y huertos que se delimitan unos a otros con pequeños cercados o alguna tapia. Varios senderos rodean los cercados de las huertas y cabañas de los campesinos. La aldea está en silencio; es muy tarde y todos duermen.</p>
+
+    <p>Al otro extremo, la ladera asciende bastante rápidamente para dar paso al bosque de aspecto fantasmagórico que domina toda la aldea, con robles y fresnos gigantescos que forman una especia de muralla natural, como si fueran las defensas de un sombrío castillo. Tiene un aspecto siniestro.</p>
+  
+    <p>Bhratar y Tauldos apuran el último odre; parecen bastante eufóricos. Deilos y Merkar señalan hacia la aldea e intercambian impresiones. Te parece que Dahzor está un poco bebido, mientras intenta seguir socializando con los componentes de la expedición.</p>
+  
+    <p>Al rato aparece Taifos, más relajado, incorporándose al grupo. Reemprenden la marcha, esta vez con más sigilo y adentrándose con cuidado por el sendero que va hacia la aldea.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '147',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '157',
-    html: 'www',
+    html: `<p>Avanzáis con cuidado por el resbaladizo suelo que bordea el riachuelo, con la esperanza de que os guíe fuera de este fantasmagórico bosque. Camináis en silencio, con todos los sentidos en alerta, aunque no puedes dejar de sonreír al ver que ella aprovecha para coger moras en los zarzales y comérselas con auténtica devoción. Continuáis vuestro avance con cautela y al rato te sonríes al verla dar un traspiés… pero en vez de incorporarse, se acurruca junto a unos helechos.</p>
+
+    <p>—Pero ¿qué haces? —le preguntas extrañado—. ¡Tenemos que seguir!</p>
+  
+    <p>—Solo un momentito… Necesito dormir un rato…</p>
+  
+    <p>Sospechas que esas moras podrían tener efectos somníferos secundarios. El lugar parece apacible y eso te inquieta todavía más. Avanzas unos cuantos pasos, sin perder de vista a la chiquilla que duerme plácidamente.</p>
+  
+    <p>El regato inicia un recoveco; lo recorres hasta verlo desaguar en algo que parece una oscura poza maloliente. Las fétidas aguas tienen un aspecto fangoso y sobre ellas puedes ver restos de un cañaveral putrefacto recubierto de talofitas hediondas. No solamente por el olor tienes la impresión de haber llegado a un punto muerto.</p>
+  
+    <p>«Tendremos que volver sobre nuestros pasos», piensas mientras bostezas aparatosamente.</p>
+  
+    <p>Intentas desperezarte, pero un persistente amodorramiento se apodera de ti. Intentas recuperarte haciendo muecas y estirando los músculos, pero sigues notando esa incómoda modorra. ¿Acaso el agua estaba envenenada? Mientras luchas contra la somnolencia, te adormeces sentado junto a una roca.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '166',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '158',
-    html: 'www',
+    html: `<p>Encaras el estrecho prado. A los lados, unos inmensos árboles se alzan y forman una oscura y siniestra cúpula. Cuando progresas por la pradera aspiras el perfume dulzón que empapa el ambiente. Te aproximas al otro extremo del claro, dispuesto a adentrarte nuevamente en la espesura, cuando de pronto escuchas unos gruñidos roncos que se aproximan. En la oscuridad del bosque logras distinguir los destellos rojizos de unos ojos envueltos en sombras; te da la sensación de que son lobos salvajes. Y parece que te están observando. Intentando conservar la calma, contabilizas tres o cuatro criaturas. Dos de ellos se adelantan y se dibujan en el prado, gruñendo en tono bajo e intenso. Son lobos enormes, de aspecto terrible y feroz. El más grande tiene un pelaje de color plomizo, con una cresta blanca sobre el lomo. Se desplaza con lentitud. Sin dejar de gruñir, describe un amplio círculo, como si quisiera rodearte.</p>
+
+    <p>Tensas tu arco sin dejar de mirarle; el animal reacciona de inmediato encogiendo el morro y mostrando su feroz dentadura un breve instante.</p>
+  
+    <p>Un tercer lobo surge de la oscuridad y se mueve con sigilo hacia el otro lado, moviéndose en dirección contraria. Los cuatro lobos te han rodeado lentamente, sin acercarse. El lobo de mayor tamaño es francamente enorme. Sin duda es el jefe de la manada. Poco a poco, se aproxima sin dejar de mirarte, como si te estuviera estudiando. Finalmente, se detiene a pocos metros de ti y emite un sonido grave y tenue.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '137',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '159',
-    html: 'www',
+    html: `<p>Adviertes claramente que está apuntando al pecho de Deilos. Tu lealtad a la academia y tu desconfianza hacia ese individuo te provocan sentimientos contrapuestos; las normas de Uhdanfiún son muy estrictas: no desenvainar las espadas contra unos compañeros.</p>
+
+    <p>La cuerda del arco de la muchacha emite un leve crujido al tensarse.</p>
+  
+    <p>Estás hecho un lío, pero tienes que tomar una decisión de inmediato.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '50',
+        text: 'entras en Protahitéi',
+      },
+      {
+        id: '18',
+        text: 'apuntas tú también a Deilos',
       },
     ],
   },
   {
     id: '160',
-    html: 'www',
+    html: `<p>Aprovechas el recodo que hace el camino para avanzar velozmente y acercarte al otro extremo de la cabaña. Ves que parte del grupo sigue avanzando en silencio, para franquear la cerca. Brathar y Tauldos están en la parte inferior del sendero, vigilando el camino por el que han venido. Merkar está junto a la cerca que da acceso a la cabaña, con el arco cargado y tensado a la altura de la cintura. Deilos, Taifos y Dahzor avanzan por el huerto. Extrañado, te estás preguntando si la cacería secreta consiste en robar gallinas a los campesinos, cuando escuchas el sonido ahogado de unas pisadas a unos metros de tu posición.</p>
+
+    <p>Un perfil pequeño y encapuchado se acaba de atrincherar detrás de la tapia en la que te acabas de ocultar, a unos metros de ti. Te hace una señal para que acudas a su lado.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '141',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '161',
-    html: 'www',
+    html: `<p>Tu corazón se ha acelerado desde que estás acechando al misterioso personaje. Consideras que este incidente es tu «cacería secreta» personal y de momento está resultando mucho más apasionante que seguir a Deilos y los suyos. Para garantizar una correcta aproximación, no has dudado en rodear holgadamente a tu objetivo, asegurándote de que no pueda descubrirte. Ahora avanzas por la misma ladera que él, reptando desde una situación algo más elevada sobre la pendiente, de manera que casi puedes tener en el mismo punto de mira a tu presa y al grupo que percibes a lo lejos y en segundo plano. Desde esta ventajosa posición has podido apreciar mucho mejor el aspecto del pequeño individuo misterioso que está espiando a la banda de Deilos.</p>
+
+    <p>Aunque solo lo has podido ver un instante de espalda, incorporándose para estudiar los movimientos del grupo, has conseguido descubrir que además de ser pequeño va armado, aunque de momento solo has visto el arco corto y la aljaba que lleva a la espalda. El resto del cuerpo está disimulado debajo de una capa con capucha que recubre su cabeza, pero no te ha parecido que tenga una complexión fuerte, sino más bien todo lo contrario.</p>
+  
+    <p>Está realmente atraído por el grupo de Deilos, que sigue avanzando y bordeando los cercados de los huertos. Crees que será una presa fácil, pero no quieres arriesgarte a que os descubran los que están más abajo. Tendrás que actuar con decisión, velocidad y acierto para no ser descubierto. Un ejercicio que habéis practicado a menudo en la academia, pero que todavía no has puesto en practica sobre el terreno.</p>
+  
+    <p>Intentas avanzar al mismo tiempo que él, cubriendo más distancia para acercarte progresivamente sin hacer ruido. Has reducido la distancia en menos de cien metros. Ahora recortas de nuevo la distancia en la mitad. Estás cada vez más cerca. Te has agazapado como un gato que se dispone a cazar al ratón despistado, y vas a saltar ya.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '66',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '162',
-    html: 'www',
+    html: `<p>Has dado un amplio rodeo para situarte a su espalda. Se ha recortado en el cielo su figura por un instante. Has podido ver que lleva una especie de capa con capucha y un arco corto colgado a su espalda. Al otro lado y mucho más lejos, distingues a Deilos y los otros, que avanzan agazapados bordeando los cercados de los huertos. No parece que se hayan percatado todavía de tu ausencia.</p>
+
+    <p>Avanzas lo más rápido que puedes sin delatar tu presencia y extremando todas las precauciones para no hacer nada de ruido.</p>
+  
+    <p>Cien metros… Setenta y cinco… Cincuenta… Sonríes al pensar que podrás presumir de haber sido el más astuto de esta cacería secreta. Veinte… Diez… Cinco… Tres… Dos…</p>
+  
+    <p>Te dispones a saltar sobre él.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '65',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '163',
-    html: 'www',
+    html: `<p>Para intentar recuperar la pista perdida, decides calcular la distancia que os puede separar, basándote en la progresión que ambos habéis tenido desde que iniciaste el seguimiento.</p>
+
+    <p>El extraño personaje te llevaba veintisiete pasos de ventaja cuando lo descubriste. Por cada cinco pasos que avanzabas, él daba ocho. Pero debido a su reducido tamaño, cada dos pasos tuyos equivalen a cinco de los suyos. Con esa información, eres capaz de calcular cuántos pasos necesitabas para atrapar a la criatura fantástica y por lo tanto intuir dónde se oculta…</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '136',
+        text: 'piensas que en cuarenta pasos lo atrapabas',
+      },
+      {
+        id: '148',
+        text: 'crees que en treinta pasos lo alcanzabas',
       },
     ],
   },
   {
     id: '164',
-    html: 'www',
+    html: `<p>Cuando parecía que todo iba a terminar y te disponías para un desenlace fatídico, el corueco se detiene, borbotea y retrocede fijando su gualda mirada algo más arriba, a tu espalda. Una insólita refulgencia celeste se refleja sobre su busto haciendo que el corueco rezongue exacerbado. Se zarandea con exasperación, pero continúa replegándose hasta que penetra de nuevo en el follaje, dejando tras de si un hedor nauseabundo y un diminuto rastro de sangre.</p>
+
+    <p>Te preguntas con cierto resquemor que debe ser lo que hay a tu espalda para que haya conseguido ahuyentar a un corueco. Muy lentamente, te das la vuelta para presenciar una extraordinaria visión: un hombre espigado parece flotar sobre el suelo y desciende lentamente, rodeado por un halo azulado que resplandece. Su rostro es aristado, su ojo derecho está tapado por un parche oscuro y lleva una larga cabellera blanca con una trenza que reposa en su hombro. Lleva un manto que le llega hasta sus pies descalzos y sostiene un báculo de madera tallada en la que se puede ver el relieve de una serpiente enroscada alrededor. A medida que toma contacto con el suelo, la reverberación luminosa decrece hasta desaparecer.</p>
+  
+    <p>—¿Qué extraños motivos te han traído de noche hasta este bosque para enfrentarte a un corueco?</p>
+  
+    <p>Te excusas torpemente y le agradeces la ayuda, explicando que te has perdido en el bosque por error. Te presentas y le confiesas tu sorpresa al verle, preguntándole su nombre, mientras recoges tu espada.</p>
+  
+    <p>—Estoy donde me corresponde y éste es mi retiro espiritual. Me llamo Linar, pero no creo que eso importe puesto que ya no mantengo contacto con la civilización. Me has dicho que te has perdido, muchacho. ¿Se puede saber adónde te dirigías?</p>
+  
+    <p>Te resulta imposible dar un respuesta precisa y decides explicarle que estabas siguiendo a un grupo de guerreros de Uhdanfiún para descubrir en qué consiste el misterio de la cacería secreta.</p>
+  
+    <p>—Interesante. Puedo intentar localizarlos, pero para ello necesitaría pasar por casa. Si te apetece tomar algo, estás invitado.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '42',
+        text: 'le pides a Linar que te lleve hasta los lindes del bosque',
+      },
+      {
+        id: '76',
+        text: 'aceptas su invitación',
       },
     ],
   },
   {
     id: '165',
-    html: 'www',
+    html: `<p>Intuyendo que el asalto puede provenir de un terraplén que se alza sobre vuestra zona de vivaque, decides contraatacar y zigzagueas velozmente saliendo de la zona atacada para intentar flanquear y sorprender a vuestros atacantes.</p>
+
+    <p>Sorteas varios obstáculos y te resguardas en árboles y rocas para seguir avanzando. Un roble tras el que te parapetas acaba de recibir el impacto de un gran piedra, por lo que deduces que han intuido tu maniobra.</p>
+  
+    <p>Escuchas a lo lejos un grito. Han alcanzado a alguien en el campamento.</p>
+  
+    <p>La distancia que os separa es cada vez menor y apenas dispondrás de cobertura para acercarte sin correr el riesgo de que te golpee alguno de esos proyectiles.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '13',
+        text: 'continuas acercándote',
+      },
+      {
+        id: '139',
+        text: 'te mantienes a resguardo para pensar en otra alternativa',
       },
     ],
   },
