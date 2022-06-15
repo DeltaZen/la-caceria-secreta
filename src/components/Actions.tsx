@@ -8,7 +8,7 @@ const Actions: React.FC<Links> = (props: Links) => {
           return (
             <button key={action.id}
               onClick={() => props.setPage(pages[action.id])}
-              className="text-left w-[80%] border-l rounded-lg my-2 p-2 first-letter:uppercase"
+              className="text-left w-[80%] rounded-lg my-2 p-2 first-letter:uppercase btn"
             >
               {action.text}
             </button>
@@ -16,7 +16,7 @@ const Actions: React.FC<Links> = (props: Links) => {
         })
         : <button
           onClick={() => props.setPage(pages[props.actions[Math.floor(Math.random() * props.actions.length)].id])}
-          className="text-left w-[80%] border-l rounded-lg my-2 p-2"
+          className="text-left w-[80%] rounded-lg my-2 p-2 btn"
         >
           Continuar
         </button>
