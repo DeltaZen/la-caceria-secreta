@@ -471,90 +471,162 @@ const pageArray: IPage[] = [
   },
   {
     id: '22',
-    html: 'www',
+    html: `<p>Con un poderoso rugido, el corueco se abalanza sobre vosotros. A pesar de tu aceleración, su rapidez te desconcierta y la enorme bestia te cubre por completo lanzando un poderoso rugido.</p>
+
+    <p>En ese momento comprendes la suerte que estás teniendo. El corueco te pasa por encima con la intención de alcanzar a la muchacha que sale huyendo.</p>
+  
+    <p>Ejecutas la técnica del Yagartéi desenvainando tu espada a la vez que das un tajo ascendente de izquierda a derecha, buscando el abdomen de la bestia. La kisha de tu espada atraviesa unos centímetros de carne y provoca que el corueco herido se encoja en el aire, a la vez que lanza un berrido estruendoso. La hoja que se deslizaba se traba súbitamente con algo metálico y chocas con algo muy duro que te propina una sacudida repentina que te recorre los dos brazos de punta a punta, obligándote a soltar el arma.</p>
+  
+    <p>El corueco se revuelve en el aire y cae pesadamente sobre el suelo. Pero asombrosamente, se recupera de inmediato y se gira para afrontarte de nuevo. No ves a la muchacha por ninguna parte. No puedes alcanzar la espada, por lo que retrocedes, acercándote al arroyo. Todo parece haber terminado y solo piensas en distraer al corueco el tiempo suficiente con el fin de darle tiempo a ella para escapar.</p>
+  
+    <p>Te dispones a afrontar la criatura que se acerca lentamente, sin dejar de mirarte. Parece que sus ojos gualdos quieran hipnotizarte antes de volver a atacar.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '143',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '23',
-    html: 'www',
+    html: `<p>El corueco salta sobre ti lanzando un poderoso rugido. A pesar de tu aceleración, su velocidad te sorprende y la enorme bestia se te viene encima desde lo alto.</p>
+
+    <p>Instintivamente, das un salto hacia delante para poderte colocar debajo de él. Realizas la técnica del Yagartéi desenvainando tu espada y ejecutas un tajo ascendente de izquierda a derecha, buscando el abdomen de la bestia. Notas como la kisha penetra unos centímetros en la carne y provoca un espasmo de dolor en el corueco, que le hace retorcerse en el aire profiriendo un bramido estridente. La hoja deja de deslizarse y golpea algo metálico en el lugar donde debería haber una costilla, lo que te provoca una fuerte vibración en ambos brazos, desde los hombros hasta la punta de los dedos, como si hubieras golpeado con todas tus fuerzas una columna de piedra maciza. El dolor te hace soltar la espada.</p>
+  
+    <p>El corueco se ha revolcado en el suelo un instante pero se recobra y te encara nuevamente. Estás desarmado y has retrocedido instintivamente en sentido opuesto, acercándote a la confluencia del prado con el arroyo. No albergas ninguna esperanza, por lo que decides morir junto a la sepultura de tu compañera de aventuras.</p>
+  
+    <p>El corueco avanza lentamente hacia ti cruzando su mirada fosforescente con la tuya como si quisiera hipnotizar a su presa.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '134',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '24',
-    html: 'www',
+    html: `<p>Nervioso a la par que fascinado por tu sorprendente encuentro con Tríane, recorres inquieto el perímetro exterior una y otra vez para intentar volver a verla. Pierdes la noción del tiempo hasta tal punto que te sorprende ver acudir el relevo de tu guardia.</p>
+
+    <p>Cuando te diriges a tu refugio, distingues a cinco siluetas camufladas que están hablando con tu compañero Dahzor. Reconoces de inmediato al corpulento Taifos, la mano derecha de Deilos, un Ibtahán de quinto grado como tú. Deilos es el primero que se gira hacia ti y te sonríe posando su mano sobre tu hombro con falsa actitud condescendiente. Sus dientes brillan en la oscuridad. Todos visten ropajes oscuros y se han manchado las caras con carboncillo, como una avanzadilla de reconocimiento que se camufla antes de una misión de combate. Al acercarte, observas que Dahzor está muy emocionado y que también se está tiznando la cara con madera carbonizada.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '94',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '25',
-    html: 'www',
+    html: `<p>Te has quedado tan fascinado por la simetría de su rostro y la armonía de sus facciones que dudas un instante, sin saber qué decisión tomar.</p>
+
+    <p>Escuchas unas palabras en tu mente, que te plantean un acertijo para que puedas tomar la decisión correcta:</p>
+  
+    <p>«ODIO O CEDO».</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '96',
+        text: 'Piensas que «EXHIBO» puede ser la solución, te acercas a ella con actitud amigable',
+      },
+      {
+        id: '169',
+        text: 'Crees que «FRENO» es la respuesta correcta, desenvainas tu espada',
       },
     ],
   },
   {
     id: '26',
-    html: 'www',
+    html: `<p>De pronto notas una terrible punzada en el abdomen. Observas tu estómago y ves que una flecha está clavada en tus tripas. Alzas la vista a lo lejos y descubres a Merkar que te mira con asombro después de haber disparado su arco.</p>
+
+    <p>Todo sigue transcurriendo lentamente a tu alrededor; la muchacha grita… demasiado tiempo. Hincas la rodilla en el suelo e intentas seguir sujetando la empuñadura de tu espada.</p>
+  
+    <p>Entretanto Deilos ha agarrado a la chiquilla por el cuello, que se debate aterrorizada, intentando escapar. Todo se está desvaneciendo a tu alrededor y la oscuridad se cierne rápidamente sobre ti. Lo último que escuchas es la voz de Deilos:</p>
+  
+    <p>—Voy a divertirme con tu nueva amiga, cretino. Taifos, carga con este imbécil y ocultémonos rápido cerca de ese bosque. Puede que su cuerpo nos sirva todavía…</p>
+  
+    <p>Se hace el silencio. Has muerto.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'Ir al principio',
       },
     ],
   },
   {
     id: '27',
-    html: 'www',
+    html: `<p>—Es una identificación que indica mi graduación…</p>
+
+    <p>—¿Tú también eres un guerrero de Uhdanfiún como ellos, verdad?</p>
+  
+    <p>No crees que valga la pena contestar.</p>
+  
+    <p>—No es la primera vez que veo un brazalete como éste… El que lo llevaba me salvó… cuando me iba a violar un grupo como ése.</p>
+  
+    <p>Señala a Deilos y los suyos que veis marchar a lo lejos, corriendo hacia el desfiladero.</p>
+  
+    <p>—Y al igual que tú, también iba con ellos.</p>
+  
+    <p>Turbado por su historia, la contemplas en silencio.</p>
+  
+    <p>Se acerca lentamente, muy cerca. Su aliento calienta tus mejillas. A pesar de su mirada dura y fría, ves cómo unas lágrimas brotan de sus ojos.</p>
+  
+    <p>—Dale recuerdos de mi parte cuando lo veas. —Te besa en los labios suavemente—. Se llama Derguín.</p>
+  
+    <p>Se separa de ti lentamente, dejando resbalar sus manos por tus mejillas. En las suyas, ves cómo resbalan las lágrimas. Se oculta el rostro con la capucha, da media vuelta y se aleja de ti.</p>
+  
+    <p>Cuando la diminuta figura se pierde entre los cerros, te pones en marcha para llegar cuanto antes al campamento, pensando en lo que te ha dicho.</p>
+  
+    <p>Te acuerdas muy bien de ese tal Derguín. Él y su amigo Mikhon Tiq fueron severamente castigados y luego expulsados de la academia, hace un año aproximadamente, por enfrentarse a sus propios compañeros. Sonríes al pensar que acabas de hacer algo parecido, mientras apuras el paso.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '34',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '28',
-    html: 'www',
+    html: `<p>El grupo sigue avanzando y no puedes alertarles sin hacer ruido. Pero hay sonidos que pueden pasar desapercibidos en la noche… como el ulular de un búho, por ejemplo. Juntas las manos e imitas a la perfección su sonido, como podrías imitar cientos, en base a tus enseñanzas de la academia.</p>
+
+    <p>Bhratar, que va el último, no parece haber reaccionado. Tu imitación debe ser muy buena. Lo repites de inmediato. Ahora sí. Se ha detenido, extrañado por la súbita insistencia del rapaz nocturno y se da la vuelta para ver de dónde viene ese ulular tan persistente…</p>
+  
+    <p>Se acaba de percatar de tu posición alejada. Le haces una señal con un código que habéis practicado miles de veces. Le muestras una dirección. Bhratar te entiende y avisa al compañero de delante. El grupo se ha detenido. Ves como Deilos abandona la cabeza y acude para saber qué pasa.</p>
+  
+    <p>Bhratar le explica lo que le has transmitido; observas que Deilos se pone muy nervioso y te mira de refilón. Vuelves a señalarle la posición y le indicas que se trata de un solo individuo.</p>
+  
+    <p>Deilos reúne al grupo y simulan una pequeña reunión, aprovechando la cobertura para indicarte que lo rodees por detrás.</p>
+  
+    <p>Retoman la marcha mientras tú retrocedes para capturarlo por detrás. Van prestando atención para detectarlo, pero el misterioso individuo aún ha extremado más las precauciones, hasta el punto que incluso a ti te cuesta distinguirlo en la oscuridad.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '131',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '29',
-    html: 'www',
+    html: `<p>No entiendes lo que te está proponiendo. Le cuentas que al llegar al campamento piensas denunciar la infamia de Deilos y su grupo, para que se les aplique el castigo correspondiente.</p>
+
+    <p>—No lo has entendido, muchacho —te contesta con voz clara y serena—. Ellos también lo saben. Acompáñame.</p>
+  
+    <p>Tríane te precede. Te impresiona comprobar como se desplaza sin hacer el más mínimo ruido. Os infiltráis en el campamento con total discreción y os acercáis a la tienda del maestro Turpa. Del interior surge claramente una conversación con otra persona a la que reconoces de inmediato: es Deilos, que le está informando de lo sucedido.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '128',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '30',
-    html: 'www',
+    html: `<p>Empiezas a recitar la secuencia, sin dejar de correr entre chinas y guijarros que vuelan a tu alrededor, cuando de pronto recibes un fuerte golpe por detrás, en plena nuca, y caes de bruces al suelo.</p>
+
+    <p>Eso ha sido un pedrusco de los gordos, piensas, mucho más atontado y dolorido.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '129',
         text: 'Continuar',
       },
     ],
