@@ -19,4 +19,5 @@ interface IContent {
 interface Links {
   actions: Action[]
   setPage: React.Dispatch<React.SetStateAction<IPage>>
+  random?: boolean
 }
