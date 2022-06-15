@@ -4124,201 +4124,789 @@ const pageArray: IPage[] = [
   },
   {
     id: '201',
-    html: 'www',
+    html: `<p>Al finalizar la memorización de la secuencia de aceleración, notas cómo los músculos lumbares se endurecen y un calor se expande velozmente por todo tu cuerpo.</p>
+
+    <p>Saltas ágilmente la tapia y corres detrás de la chiquilla que parece ralentizada. Atrás tienes a Taifos, que todavía no ha alcanzado el murete pero se aproxima a la misma velocidad que tú.</p>
+  
+    <p>Las distancias se acortan muy rápidamente y puedes calcular que cien metros antes de llegar al bosque la habrás atrapado. Durante el escaso tiempo que tardas en darle alcance a la muchacha, te preocupas por su suerte. Deilos parece estar rabioso y te preguntas qué crueles intenciones puede tener. Además, no estás muy seguro de lo que hubiese ocurrido en esa cabaña de no haber intervenido la muchacha, pero la actitud de Taifos en el momento de entrar en la choza no presagiaba nada bueno…</p>
+  
+    <p>Ya estás a escasos de metros de ella y te asalta la duda; quizá lo mejor sería ayudarla a escapar.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '216',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '202',
-    html: 'www',
+    html: `<p>—¿Qué estás haciendo? —Le susurras con tono paternalista.</p>
+
+    <p>—¿Y tú? —contesta sin alzar la voz y mirando de manera ostensible como la tienes aprisionada.</p>
+  
+    <p>Te ha sorprendido su voz. Te ha parecido más ronca de lo que te hubieses imaginado con ese aspecto de niña. De pronto caes en la cuenta y entiendes su observación. Te ruborizas avergonzado y te retiras lentamente sin levantarte, para no ser descubierto, a la vez que le indicas con la mano que permanezca tumbada y compruebas que el grupo sigue avanzando sin haberse percatado de vuestra presencia.</p>
+  
+    <p>Ella adivina lo que estás mirando. Mantiene su mirada desconfiada mientras cuchichea:</p>
+  
+    <p>—¿Tú también te has fijado en ese grupo de guerreros que se está colando entre los huertos de esa aldea?</p>
+  
+    <p>Asientes con una inclinación de cabeza sin dejar de mirarla.</p>
+  
+    <p>—Tenemos que detenerlos antes de que hagan una matanza.</p>
+  
+    <p>No puedes creer lo que acaba de decir.</p>
+  
+    <p>—¿Qué quieres decir?</p>
+  
+    <p>—Quiero decir que esa gentuza son guerreros de Uhdanfiún; van a mutilar y asesinar a sangre fría una familia de campesinos sin motivo… y probablemente hagan cosas más horribles todavía.</p>
+  
+    <p>Al acabar la frase se le ha quebrado la voz; sus ojos brillan súbitamente como si estuviera a punto de llorar. Te has quedado perplejo y sin habla.</p>
+  
+    <p>—Ahora ya lo sabes. ¿Me ayudas a impedirlo o te desentiendes y te conviertes en su cómplice?</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '83',
+        text: 'piensas que está mintiendo y no vas a hacerle caso',
+      },
+      {
+        id: '108',
+        text: 'la crees y piensas ayudarla',
       },
     ],
   },
   {
     id: '203',
-    html: 'www',
+    html: `<p>La flecha araña la nalga de Deilos, arrancándole trozos de tela y carne que le hacen aullar de dolor, para clavarse luego delante de Dahzor, que grita asustado:</p>
+
+    <p>—¡Una embos…</p>
+  
+    <p>Te desplazas a lo largo de la tapia para lanzar una segunda flecha que pasa silbando junto a Taifos y llega a los pies de Merkar, sin que consiga identificar de dónde proviene el tiro.</p>
+  
+    <p>—… cadaaaa!</p>
+  
+    <p>Dahzor ya se está girando y huyendo a toda prisa por donde han venido, molestando el ángulo de visión del único arquero del grupo.</p>
+  
+    <p>Cargas una tercera flecha mientras vuelves sobre tus pasos, disparando en parábola, para que otra flecha caiga ante el grupo en plena retirada.</p>
+  
+    <p>Deilos está gritando instrucciones al grupo, que se retira desordenadamente.</p>
+  
+    <p>En la cabaña y otras chozas de los alrededores se empiezan a oír gritos de alarma.</p>
+  
+    <p>Apuras tu trance guardando de nuevo el arco a la espalda y aferrando a la chiquilla por la cintura, cargando con ella mientras asciendes corriendo por la ladera, hasta la oscuridad que brindan los lindes del bosque de Corocín.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '189',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '204',
-    html: 'www',
+    html: `<p>Turpa convoca al resto de alumnos e informa que el ataque ha sido perpetrado por unos campesinos de los alrededores a los que han visto huir, pero no han podido identificar. Seguramente se trata de unos sediciosos que recelan de los guerreros de Uhdanfiún y de la gloria del imperio Ainar.</p>
+
+    <p>El tono firme y autoritario del Maestro Turpa no deja lugar a dudas. Escuchas en silencio, como el resto de alumnos. Sin embargo te cuesta creer que semejante emboscada haya sido perpetrada por unos simples campesinos que han conseguido escapar.</p>
+  
+    <p>Turpa interrumpe tu reflexión cuando anuncia que se harán guardias en el perímetro interior y exterior para reforzar la seguridad del campamento, asignándote la primera de ellas en la zona exterior.</p>
+  
+    <p>Cenas algo rápidamente y te equipas como es debido para asumir tus obligaciones.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '132',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '205',
-    html: 'www',
+    html: `<p>A pesar de su aspecto tan desaliñado, te parece adivinar que bajo toda esa mugre se esconde una linda muchacha. Te fulmina con una fría mirada; sus ojos azules acerados son desafiantes.</p>
+
+    <p>—¿Qué pretendes? —le susurras con tono conminatorio.</p>
+  
+    <p>—¿Y tú, quién eres?</p>
+  
+    <p>De pronto, te sientes ridículo y avergonzado al tenerla aprisionada entre tus piernas. Te apartas lentamente sin incorporarte para no ser descubierto y le haces un gesto para reclamarle la máxima discreción…</p>
+  
+    <p>Te sorprende comprobar que se también se mueve con mucho sigilo, oteando de inmediato hacia el grupo que se mueve a lo lejos, como si le obsesionara mucho más su presencia que tu inesperado ataque. Sin dejar de mirarte con desconfianza, cuchichea:</p>
+  
+    <p>—Entonces…, ¿tú también has visto a ese grupo que se está infiltrando en la aldea al otro lado del valle?</p>
+  
+    <p>Su voz es algo ronca y no corresponde con su aspecto de chica. Asientes con la cabeza sin dejar de mirarla.</p>
+  
+    <p>—Tenemos que detenerlos antes de que hagan una masacre.</p>
+  
+    <p>Te quedas perplejo. Formulas tu siguiente pregunta marcando cada una de tus palabras.</p>
+  
+    <p>—¿Cómo has dicho?</p>
+  
+    <p>—Esa banda de indeseables son guerreros de Uhdanfiún. Se disponen a asaltar una casa aislada para asesinar a una pobre familia… y probablemente hacer cosas peores.</p>
+  
+    <p>Te ha parecido que el tono al final de su frase era angustiado. No puedes articular una palabra.</p>
+  
+    <p>—Ahora que lo sabes… ¿Me vas a ayudar a detenerlos o te vas a desentender y convertirte en su cómplice?</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '197',
+        text: 'piensas que está mintiendo y no vas a hacerle caso',
+      },
+      {
+        id: '114',
+        text: 'la crees y piensas ayudarla',
       },
     ],
   },
   {
     id: '206',
-    html: 'www',
+    html: `<p>Cuando Taifos se disponía a entrar en la casa, escuchas un leve silbido y notas que algo te pasa rozando por el lado, pero lo que te sobresalta es el grito de Taifos justo después, trastabillando hacia atrás con una flecha clavada en su hombro.</p>
+
+    <p>Deilos, se ha quedado perplejo y mira con rabia en tu dirección, agachas rápidamente la cabeza y te giras intuyendo lo peor. Efectivamente, a unos ocho metros detrás de ti ves a la niña tensando nuevamente su arco con una fiera determinación en sus ojos.</p>
+  
+    <p>Escuchas la advertencia de Deilos, que grita:</p>
+  
+    <p>—¡Allí! ¡A por él!</p>
+  
+    <p>Te asomas de nuevo sin que te vean para hacerte una composición de la situación.</p>
+  
+    <p>Mucho peor de lo que imaginabas. Mientras Taifos se retira sujetándose el hombro herido, Merkar avanza lentamente y Dahzor corre detrás de Deilos, que a su vez se mueve con una rapidez inusual, por lo que deduces que ha entrado en Protahitéi.</p>
+  
+    <p>La segunda flecha de la chiquilla pasa sobre tu cabeza pero contemplas como Deilos la esquiva fácilmente y se abalanza hacia delante para perseguirla. En tres segundos saltará la tapia, y cinco segundos más tarde la capturará.</p>
+  
+    <p>«Maldición», murmuras.</p>
+  
+    <p>Empiezas a recitar la secuencia del Protahitéi para entrar también en aceleración.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '211',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '207',
-    html: 'www',
+    html: `<p>Compruebas desde vuestro escondite que Taifos, Merkar y Bhratar están de guardia. Seguro que te están esperando con instrucciones muy precisas. Tríane te coge de la mano mientras te habla, y te dejas llevar a las afueras del campamento, donde la viste por primera vez.</p>
+
+    <p>—No te queda otra alternativa que convertirte en fugitivo. Pero no temas, se avecinan tiempos revueltos y tienes por delante muchas aventuras y hazañas que te pueden brindar gloria y poder. Y si quieres seguir conociendo los secretos del Tahedo, ten paciencia y busca a un guerrero llamado Kratos May.</p>
+  
+    <p>Notas cómo sus dedos se sueltan de tu mano; te rozan y se deslizan, resbalando por tus falanges. Quieres mirarla a los ojos una vez más… pero ya no está.</p>
+  
+    <p>Miras a tu alrededor, pero te has quedado solo. Decides que vas a ocultarte un tiempo en Ritión. Zarenyo te contó que había lugares fantásticos allí y quizá os encontréis de nuevo y pueda brindarte hospedaje. Tú a cambio le podrás relatar una aventura de lo más interesante.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '208',
-    html: 'www',
+    html: `<p>Los ojos de Deilos empequeñecen en un segundo, reflejando un intenso odio. Detrás de él, escuchas murmurar a Merkar refunfuñar: «Ya estamos otra vez».</p>
+
+    <p>Inspiras lentamente sin dejar de mirar a todos los componentes del grupo. Únicamente Dahzor parece algo confuso. Mentalmente, recitas la serie de letras y números que te permitirán entrar en Protahitéi, la primera aceleración.</p>
+  
+    <p>Deilos también hace el ademán de empuñar la espada; en ese momento resuena a tu espalda el potente sonido de un cuerno que retumba en toda la aldea debido al eco.</p>
+  
+    <p>Tu cuerpo reacciona rápidamente: tu temperatura aumenta de inmediato mientras los riñones se te ponen rígidos… y todo parece haberse ralentizado a tu alrededor.</p>
+  
+    <p>La chiquilla corre ladera arriba intentando huir hacia el bosque.</p>
+  
+    <p>Contemplas el movimiento de la hoja de la espada de Deilos cuando sale de la vaina, como si sucediera al ralentí. Ejecutas un Yagartéi intimidatorio que lo obliga a dar un paso atrás que lo desequilibra lo justo para que puedas atizarle una patada frontal en todo el pecho que lo levanta del suelo y lo envía sobre Taifos, al que también derriba el impacto de su compañero.</p>
+  
+    <p>Afrontas al resto de grupo, que parecen torpes y adormilados, a causa de tu aceleración. Propinas un codazo en toda la cara a Bhratar que gruñe y cae al suelo mientras se sujeta la nariz que le acabas de romper. Desarmas a Dhazor y lo empujas contra Tauldos. Merkar se había quedado atrás y se dispone a tensar su arco cargado desde la cintura. Está apuntando a la muchacha.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '11',
+        text: 'decides cubrir a la chica',
       },
-    ],
-  },
-  {
-    id: '209',
-    html: 'www',
-    actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '80',
+        text: 'intentas detener a Merkar',
       },
     ],
   },
   {
     id: '210',
-    html: 'www',
+    html: `<p>Sigues tan sorprendido que permaneces encima de ella, sin moverte.</p>
+
+    <p>—Me estás aplastando.</p>
+  
+    <p>La voz de la zagala es algo ronca para el aspecto que tiene, lo cual te desconcierta todavía más. Su mirada también es desafiante, pero sus ojos azules como el acero te resultan atractivos. De hecho, te asombra reconocer que bajo esa apariencia mugrienta parece que se oculta una preciosa muchacha.</p>
+  
+    <p>Te propina un rodillazo en los riñones que te sacan de tu embeleso; te avergüenzas de estar encima de ella y te apartas a un lado con cuidado intentando no descubrid tu posición a Deilos y los suyos. Ella se percata de tu conducta y tampoco se mueve. Parece que está mucho más pendiente y recelosa del grupo que por tu reciente ataque.</p>
+  
+    <p>—Te has fijado en ellos también, ¿verdad? ¿Sabes quiénes son y lo que se proponen?</p>
+  
+    <p>No contestas. Sientes todavía mucha curiosidad por esta chiquilla tan peculiar.</p>
+  
+    <p>—Son guerreros de Uhdanfiún. Unos miserables que se van a divertir asaltando una cabaña y matando de manera salvaje a la pobre familia que se encontrarán dentro… o haciendo algo peor.</p>
+  
+    <p>Al terminar la frase, su tono ha sido vacilante y parece que unas lágrimas estaban a punto de brotar de sus ojos, pero se recompone y se gira para observar al grupo, recolocándose el arco corto y la aljaba a la espalda.</p>
+  
+    <p>—¿Qué pretendes hacer? —le preguntas con un susurro.</p>
+  
+    <p>—Impedirlo. ¿Me vas a ayudar a detenerlos o te vas a desentender y convertirte en su cómplice?</p>
+  
+    <p>Levantas la vista; el grupo de Deilos ya os ha localizado. Está avanzando con sigilo hacia vuestra posición.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '200',
+        text: 'crees que miente y no piensas ayudarla',
+      },
+      {
+        id: '138',
+        text: 'piensas que dice la verdad',
       },
     ],
   },
   {
     id: '211',
-    html: 'www',
+    html: `<p class="asangre">Mientras terminas de subvocalizar la secuencia, escuchas el sonido de un cuerno de caza.</p>
+
+    <p>Tienes que admitirlo: la chiquilla tiene redaños.</p>
+  
+    <p>Ya notas ese fuego que se propaga en tu interior. Tus lumbares se contraen con fuerza. Ahora todo transcurre más lentamente… salvo Deilos.</p>
+  
+    <p>De un rápido vistazo compruebas cómo la muchacha se ha dado la vuelta y huye ladera arriba, asombrada por la aceleración de Deilos. Tú sabes que no lo logrará sin tu ayuda y te preparas para intervenir. Asomas la cabeza con cuidado por la tapia viendo como Deilos se acerca. Tres… dos… uno… ¡Ahora!</p>
+  
+    <p>Justo en el mismo momento que Deilos salta por encima de la valla, tu cuerpo se ha lanzado hacia él como un resorte impulsado por tus piernas flexionadas. Le haces un violentísimo placaje en el aire y ambos rodáis por los suelos.</p>
+  
+    <p>Deilos todavía está en el suelo cuando tú te incorporas para salir corriendo detrás de ella para cubrir su huida.</p>
+  
+    <p>Deilos ha quedado totalmente conmocionado al verte.</p>
+  
+    <p>—¡Tú!… ¿?</p>
+  
+    <p>La chiquilla ha obtenido algo más de ventaja y ya está acercándose a los lindes del bosque, pero sabes de lo que es capaz Deilos, por lo que corres detrás de ella, aprovechando tu aceleración.</p>
+  
+    <p>Ya se oyen gritos de alarma que provienen de las chozas de los alrededores y esperas que eso le haga desistir, aunque no estás muy convencido.</p>
+  
+    <p>Ya casi le has dado alcance a la chica; estáis a escasos metros del bosque… pero escuchas unos extraños gruñidos y un intenso trotar que proviene de la espesura.</p>
+  
+    <p>De repente, cuatro enormes lobos aparecen saltando a través de la arboleda y el más grande de ellos, que tiene una cresta blanca que se dibuja sobre su pelaje color gris plomizo, cae pesadamente sobre ti, aplastándote con sus enormes pezuñas contra el suelo. Profiere un gruñido lento y sordo mientras te mira fijamente.</p>
+  
+    <p>La muchacha… levantas instintivamente la cabeza para verla. Está sana y salvo, junto a los árboles, impresionada por la súbita aparición de los cánidos… que no le hacen ni caso.</p>
+  
+    <p>Y en ese momento, también la ves a ella: Tríane, oculta detrás de un ancho fresno, acechándote con una expresión fría y cruel. Ahora lo comprendes: esos lobos son sus emisarios y tú no has superado la prueba que te ha planteado.</p>
+  
+    <p>Las fauces del lobo gris se abaten sobre tu cuello sin piedad, desgarrándote la yugular de cuajo.</p>
+  
+    <p>Mueres instantáneamente sin poder arrepentirte de tus errores.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '212',
-    html: 'www',
+    html: `<p>Estás furioso. En primer lugar por haberte dejado atrapar por semejante mequetrefe y en segundo lugar por escuchar tales difamaciones. Intentas controlar tu ira, pero te cuesta contenerte y ya le habrías saltado encima si no te estuviera apuntando.</p>
+
+    <p>—Te equivocas totalmente. Es cierto que son guerreros de Uhdanfiún pero no puedo creer tus palabras. Conozco a esos seis individuos que están moviendo ahí abajo y…</p>
+  
+    <p>La voz que se oculta en las tinieblas te interrumpe de repente.</p>
+  
+    <p>—Es cierto, eres uno de ellos. Ese brazalete que llevas con las marcas azules…</p>
+  
+    <p>—Escúchame, contestas. No saaaaab…</p>
+  
+    <p>Ya no puedes hablar. Solo emites un desagradable gorjeo y notas como un líquido caliente y viscoso se derrama por tu cuello. No has tenido tiempo de reaccionar; ha soltado la cuerda de su arco y la flecha te ha atravesado el cuello por ambas partes. Sigues emitiendo ese ruido desagradable unos segundos más, el tiempo que dura tu agonía.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '213',
-    html: 'www',
+    html: `<p>Leve oscilación de cabeza. Ninguna resistencia.</p>
+
+    <p>—Te voy dar la vuelta lentamente y te voy a dejar respirar, pero si haces cualquier otro sonido date por muerto. ¿De acuerdo?</p>
+  
+    <p>Otra bravuconería. Nueva oscilación de cabeza.</p>
+  
+    <p>Retiras tu abrazo para darle la vuelta sin dejar de aprisionarlo entre tus piernas. Lo giras lentamente para verle la cara… ¡Es una chiquilla!</p>
+  
+    <p>Estás alucinando y no articulas una palabra. Afortunadamente, ella tampoco. Te fijas en su aspecto. Bajo la capucha y la capa, te da la sensación de que hay una chiquilla de apenas catorce años vestida con ropa sucia que no es de su talla. Harapos y pieles para protegerse del frío y unas calzas que le vienen grandes y que se sujetan a la cintura gracias a una cuerda de esparto, a modo de cinturón. No lleva más armas que el arco corto y la aljaba con flechas que asoman por la espalda, con un cuerno de caza que cuelga, sujeto a la cuerda. Te mantienes agachado para que no te pueda ver nadie y contemplas su rostro. Casi la podrías tocar con la nariz pero su aspecto mugriento te da un poco de grima. Tiene el cabello largo, pero está tan sucio que no sabrías decir de qué color es. Bajo la suciedad de su cara quizá podría ocultarse un bonito un rostro; tiene unos grandes ojos azules oscuros, como el acero… que te miran con desafío.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '202',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '214',
-    html: 'www',
+    html: `<p>Retomas tu vigilancia del grupo. Constatando que se acaban de detener en un sendero que asciende hacia una cabaña situada sobre una loma, algo más aislada del resto. Te acercas al otro extremo de la casa, deteniéndote en la tapia que delimita los terrenos de la choza con la ladera que lleva al bosque.</p>
+
+    <p>Desde esa privilegiada posición, adviertes cómo Deilos ha reunido al grupo y empieza a dar instrucciones.</p>
+  
+    <p>El fornido Taifos toma la cabeza, seguido de cerca por Deilos. Algo más atrás les sigue Dahzor.</p>
+  
+    <p>Tauldos y Brathar se quedan más abajo vigilando el cruce de senderos por el que han venido.</p>
+  
+    <p>Merkar se ha colocado a medio camino entre los dos equipos, con el arco cargado y tensado a la altura de la cintura.</p>
+  
+    <p>En ese momento percibes cómo Taifos desenvaina lentamente su espada dirigiéndose al interior de la cabaña.</p>
+  
+    <p>Turbado y azorado, entiendes demasiado tarde que no se disponen a robar unas gallinas…</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '206',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '215',
-    html: 'www',
+    html: `<p>Cuando te vuelves para vigilar al grupo, te das cuenta que se ha detenido frente a un sendero que serpentea hasta tu posición, dejando a un lado una choza situada sobre un altozano y algo más aislada que las demás. La casucha tiene tierras y una tapia en la parte de atrás, que delimita su propiedad con la ladera que asciende hacia el bosque. Por delante tiene un huerto y un cercado con una pequeña entrada cercana a la ubicación del grupo. Te deslizas hasta la tapia y te colocas detrás, para controlar los movimientos del grupo.</p>
+
+    <p>Deilos levanta el brazo para congregar al equipo; puedes distinguir la tremenda envergadura de Taifos cuando se sitúa a su lado. Al rato compruebas que se produce un pequeño sobresalto en el seno de la banda; te están buscando. Bhratar, que iba el último, desanda el camino recorrido en tu busca. Te divierte la confusión que estás provocando. Deilos, intranquilo, empieza a escudriñar los alrededores, al igual que sus compañeros. Cuando su impaciente exploración examina la tapia tras la cual te estás ocultando, decides emerger y hacerles una señal para que te puedan avistar.</p>
+  
+    <p>Deilos es el primero que te descubre y te parece adivinar una expresión asombrada en su rostro. Tras un momento de estupor, parece reaccionar y empieza a dar instrucciones al grupo.</p>
+  
+    <p>Tauldos y Brathar se quedan en el cruce del sendero, posicionándose como centinelas. Taifos avanza hacia la cabaña, seguido de cerca por Deilos. Justo detrás está Dahzor, que avanza con desconfianza. Merkar cierra la marcha varios pasos atrás, con el arco cargado y tensado a la altura de la cintura. A medida que se acerca a la choza, Deilos te hace señas para que saltes la tapia y te reúnas con ellos.</p>
+  
+    <p>Nervioso e intranquilo, franqueas la pequeña valla y te acercas al grupo.</p>
+  
+    <p>Taifos está muy cerca de la entrada de la choza; te mira poniendo un dedo sobre sus labios y desenvaina lentamente su espada…</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '38',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '216',
-    html: 'www',
+    html: `<p>En ese mismo instante escuchas unos gruñidos que parecen provenir del bosque, acercándose velozmente. De improviso, cuatro enormes criaturas surgen de la arboleda y dan un tremendo salto por encima de la chiquilla. Te has quedado paralizado por la sorpresa viendo la figura de cuatro lobos enormes que se recortan en el cielo.</p>
+
+    <p>El más grande de todos cae sobre ti, aplastándote con sus enormes pezuñas contra el suelo. Es de color gris plomizo, con una cresta blanca que le recorre todo el lomo. Te muestra sus terribles fauces mientras te tiene inmovilizado en el suelo. Por detrás escuchas cómo Taifos reniega y retrocede.</p>
+  
+    <p>Levantas la cabeza para saber si la muchacha está a salvo. Puedes verla, acurrucada detrás de los lobos tapándose los oídos y con una expresión de pánico en su rostro, pero ningún lobo parece amenazarla. Y en ese momento, también la descubres a ella: es Tríane, que te observa desde el linde del bosque, oculta bajo un ancho fresno. Su mirada es dura y despiadada, para que comprendas que el castigo que te espera es obra suya.</p>
+  
+    <p>Aún la sigues mirando cuando el gran lobo gris te desgarra el cuello de un mordisco, arrancándote un trozo de yugular de cuajo. Agonizas rápidamente sin poder entender lo que está pasando.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '217',
-    html: 'www',
+    html: `<p>Agotada por el esfuerzo, tropieza y cae entre las malezas.</p>
+
+    <p>Estás confuso y te plantas ante ella sin saber muy bien qué hacer.</p>
+  
+    <p>En ese mismo instante, surgen de la oscura arboleda cuatro figuras enormes que saltan hacia delante. Son lobos salvajes. El que se te viene encima tiene un tamaño descomunal. Es de color gris plomizo y tiene una cresta blanca sobre el lomo. Intentas esquivarlo pero su enorme pezuña te tumba contra el suelo. Los otros tres lobos encaran al resto del grupo, que retrocede temeroso.</p>
+  
+    <p>Escuchas cómo Deilos grita:</p>
+  
+    <p>—¡Huyamos de aquí! ¡Son bestias de Corocín!</p>
+  
+    <p>Intentas incorporarte para ver si la chica está sana y salva. Puedes verla, acurrucada a un lado, sin que las bestias le hagan caso. Ha cogido su cuerno y se dispone a soplar en él con todas sus fuerzas… Detrás de ella puedes ver los árboles y una extraña figura que reconoces de inmediato: Es Tríane, que te está observando. Su mirada de reproche y odio no deja lugar a dudas. La has decepcionado.</p>
+  
+    <p>El gran lobo abre sus enormes fauces y se acerca a tu rostro. Su ataque es tan veloz, que ni siquiera puedes reaccionar. Notas cómo sus colmillos desgarran tu cuello y un líquido viscoso y caliente se escapa de tus venas. Un momento de intenso calor te invade cuando tu sangre fluye, liberada por la carótida seccionada. Justo después, un frío intenso.</p>
+  
+    <p>Y ahora, nada.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: 'DramatisPersonae',
-    html: 'www',
+    html: `<h1>Dramatis Personae</h1>
+
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>Bhratar</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Alumno de Uhdanfiún seguidor de Deilos. Ainari.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Dahzor</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Alumno de Uhdanfiún oriundo de la república de la Horda Roja. Compañero de campamento del héroe de este libro aventura.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Deilos</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Alumno de Uhdanfiún. Ainari de buena familia y antiguo compañero de Derguín y Mikhon Tiq en Uhdanfiún, antes de que éstos fueran expulsados.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Derguín</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Antiguo estudiante de Uhdanfiún, que parece conocer la chiquilla, vinculado a otra cacería secreta.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Larletos</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Médico del campamento. Ainari.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Linar</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Kalagorinor que vive apartado del mundo en el bosque de Corocín.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Merkar</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Alumno de Uhdanfiún seguidor de Deilos. Ainari.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Taifos</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Alumno de Uhdanfiún seguidor de Deilos. Ainari.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Tauldos</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Alumno de Uhdanfiún seguidor de Deilos. Ainari.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Tríane</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Un misterio.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Turpa</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Maestro e instructor de Uhdanfiún, miembro del Tribunal de la Espada. Fue instructor de Derguín antes de que lo expulsaran.
+          </td>
+        </tr>
+  
+        <tr>
+          <td>
+            <b>Zarenyo</b>
+          </td>
+  
+          <td></td>
+  
+          <td>
+            Alumno de Uhdanfiún y compañero de campamento del héroe de este libro aventura.
+          </td>
+        </tr>
+      </tbody>
+    </table>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: 'Glosario',
-    html: 'www',
+    html: `<h1>Glosario</h1>
+
+    <p class="term">Aceleración (Tahitéi)</p>
+
+    <p>
+      Práctica ancestral de los maestros del Tahedo, que aumenta durante un
+      lapso de tiempo la velocidad y agilidad de sus movimientos, y en cierta
+      medida también su fuerza. Consiste en una fórmula secreta, compuesta por
+      una serie de letras y números, que al ser subvocalizada provoca una
+      reacción corporal instantánea. La contrapartida es que las aceleraciones
+      consumen rápidamente las energías del cuerpo, de modo que tras ellas hay
+      que reponer fuerzas ingiriendo comida y bebida en gran cantidad y con un
+      descanso adecuado.
+    </p>
+
+    <p>
+      Existen dos aceleraciones conocidas. La primera es Protahitéi, que se
+      enseña a partir del quinto grado, y mejora el rendimiento físico en un
+      cincuenta por ciento. Mirtahitéi, la segunda aceleración, duplica la
+      velocidad de un organismo normal. Un maestro en Mirtahitéi puede cruzar un
+      río de diez metros de un salto. Requiere una recuperación más larga, y por
+      ello no suele recurrirse a ella salvo en caso de necesidad, y raras veces
+      durante más de cinco minutos.
+    </p>
+
+    <p>
+      Se dice que existe una tercera aceleración, y que ésta solo la conocen el
+      Maestre de Uhdanfiún y algún otro Tahedorán privilegiado, como el gran
+      Kratos May.
+    </p>
+
+    <p class="term">Áinar</p>
+
+    <p>
+      País situado al noroeste de Tramórea. En tiempos pasados fue un imperio
+      que dominó casi todas las regiones civilizadas del continente. En la época
+      en que transcurre la novela, su monarca sigue denominándose emperador, y
+      los soberanos de otros reinos le deben pleitesía, aunque esta autoridad es
+      puramente nominal. La capital de Áinar es Koras.
+    </p>
+
+    <p class="term">Ainari</p>
+
+    <p>Natural de Áinar.</p>
+
+    <p class="term">Banta</p>
+
+    <p>Aldea situada en la linde sur del bosque de Corocín.</p>
+
+    <p class="term">Corocín</p>
+
+    <p>
+      Uno de los mayores bosques de Tramórea, situado entre Áinar, Ritión y las
+      tierras de Málart. Recibe su nombre por los coruecos que aún merodean
+      entre su espesura. Es allí donde vive Linar.
+    </p>
+
+    <p class="term">Corueco</p>
+
+    <p>
+      Bestia antropomorfa, de largos brazos, piel recubierta de escamas y huesos
+      metálicos que en ocasiones se utilizan como armas. El corueco es omnívoro,
+      aunque prefiere la carne, en especial la humana. Un corueco adulto suele
+      superar los dos metros de altura y los trescientos cincuenta kilos de
+      peso.
+    </p>
+
+    <p class="term">Feryí</p>
+
+    <p>
+      Distrito de Koras en el que se agrupa toda la población extranjera de la
+      ciudad.
+    </p>
+
+    <p class="term">Guiños</p>
+
+    <p>
+      Desierto en el sureste de Áinar que linda con la Sierra Seca y la frontera
+      de Ritión, y al norte con el bosque de Corocín. Está en la Ruta de la Seda
+      que va de Áttim a Koras.
+    </p>
+
+    <p class="term">Hasha</p>
+
+    <p>Parte final del filo de la espada.</p>
+
+    <p class="term">Horda Roja</p>
+
+    <p>
+      Ejército de mercenarios que constituye un Estado independiente, fundado
+      por Hairón. Tiene su sede en la fortaleza de Mígranz.
+    </p>
+
+    <p class="term">Ibtahán</p>
+
+    <p>
+      Maestro menor del Tahedo, entre el cuarto y el sexto grado, autorizado
+      para adiestrar a discípulos de grados inferiores. El tratamiento abreviado
+      para un Ibtahán es ib. A partir del quinto grado, a los Ibtahanes se les
+      revela el secreto de Protahitéi, la primera aceleración. Las marcas que
+      aparecen en el brazalete de los Ibtahanes son de color azul.
+    </p>
+
+    <p class="term">Kartine</p>
+
+    <p>Diosa del destino. No pertenece a la familia de los Yúgaroi.</p>
+
+    <p class="term">Kisha</p>
+
+    <p>Punta de la espada.</p>
+
+    <p class="term">Koras</p>
+
+    <p>Capital de Ainar.</p>
+
+    <p class="term">Luznago</p>
+
+    <p>
+      Insecto volador de gran tamaño que emite una potente luz. Los hay de
+      varios colores, aunque los verdes son los más numerosos.
+    </p>
+
+    <p class="term">Niryiin</p>
+
+    <p>Ondinas, ninfas de las aguas.</p>
+
+    <p class="term">Protahitéi</p>
+
+    <p><i>Primera aceleración</i> (véase Aceleración).</p>
+
+    <p class="term">Ritión</p>
+
+    <p>
+      Confederación de ciudades e islas alrededor del Mar de Ritión. Se
+      gobiernan mediante el Consejo de la Anfictionía. También se utiliza el
+      término para los habitantes de Ritión.
+    </p>
+
+    <p class="term">Tahedo</p>
+
+    <p>El Arte de la Espada.</p>
+
+    <p class="term">Tahedorán</p>
+
+    <p>
+      Maestro mayor del Tahedo, autorizado para dar clase a todo tipo de
+      discípulos, siempre que sean de grado inferior. Para convertirse en
+      Tahedorán hay que conseguir siete marcas de maestría. Existen otros dos
+      grados más, el octavo y el noveno, y un décimo que es honorífico y que tan
+      solo posee el Maestre de Uhdanfiún. El tratamiento honorífico abreviado
+      para un Tahedorán es tah. Se calcula que uno de cada cinco mil alumnos que
+      empiezan a estudiar el Arte de la Espada llegan a convertirse en
+      Tahedoranes. Todo Tahedorán debe dominar los secretos de las setenta y
+      siete técnicas y las diez primeras series, hasta Taniarimya. Cuando
+      alguien se convierte en Tahedorán, se le enseña el secreto de Mirtahitéi,
+      la segunda aceleración. Se reconoce a un Tahedorán por las marcas rojas de
+      su brazalete y por el diente de sable que lleva en el cinto.
+    </p>
+
+    <p class="term">Taniar</p>
+
+    <p>
+      La luna roja. Su ciclo es de veintiocho días. También es el nombre de una
+      diosa guerrera, hija de Manígulat y de Himíe.
+    </p>
+
+    <p class="term">Tramórea</p>
+
+    <p>
+      Continente en el que se desarrolla la acción de <i>La Espada de Fuego</i>.
+    </p>
+
+    <p class="term">Uhdanfiún</p>
+
+    <p>
+      La academia de artes marciales más prestigiosa y antigua de Tramórea. Fue
+      fundada por Áscalos hace más de quinientos años.
+    </p>
+
+    <p>
+      En ella estudian sobre todo Ainari, aunque se admite a alumnos de otros
+      lugares siempre que juren obediencia al emperador de Ainar y sirvan
+      durante cinco años en su ejército.
+    </p>
+
+    <p class="term">Yagartéi</p>
+
+    <p>
+      Técnica de Tahedo que consiste en desenvainar la espada y a la vez dar un
+      tajo de izquierda a derecha, normalmente para decapitar al adversario. La
+      posición de partida puede ser sentado en el suelo, en una silla o de pie.
+      La Yagartéi es un arte marcial en sí misma.
+    </p>
+
+    <p class="term">Zenordanil</p>
+
+    <p>Primer mes del año. Coincidiría más o menos con diciembre.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: 'Ilustraciones',
-    html: 'www',
+    html: `<p class="cubierta" id="img21"><img alt="imagen" src="../Images/21.jpg"/></p>
+
+    <p class="cubierta" id="img54"><img alt="imagen" src="../Images/54.jpg"/></p>
+  
+    <p class="cubierta" id="img96"><img alt="imagen" src="../Images/96.jpg"/></p>
+  
+    <p class="cubierta" id="img134"><img alt="imagen" src="../Images/134.jpg"/></p>
+  
+    <p class="cubierta" id="img185"><img alt="imagen" src="../Images/185.jpg"/></p>
+  
+    <p class="cubierta" id="img211"><img alt="imagen" src="../Images/211.jpg"/></p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
