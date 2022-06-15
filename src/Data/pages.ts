@@ -3795,150 +3795,329 @@ const pageArray: IPage[] = [
   },
   {
     id: '186',
-    html: 'www',
+    html: `<p>Efectúas una contorsión arriesgada para tratar de evitar la kisha de Deilos. Aunque estés en plena aceleración, tan solo has conseguido apartarte levemente de su estocada y sientes la fría hoja de acero que se hunde por encima de tus riñones, provocando un dolor lacerante que recorre toda tu columna. Escuchas cómo la espada que volaba se clava en la pared. Taifos acaba de derribar al niño que acabas de salvar, silenciando sus sollozos con una brutal patada. El suelo está pegajoso y húmedo. Un fuerte olor a sudor y sangre invade la estancia.</p>
+
+    <p>Dahzor se ha quedado pasmado y solo consigue tartamudear tu nombre.</p>
+  
+    <p>Taifos te lanza un poderoso tajo con todas sus fuerzas; te parece que también ha entrado en Protaaah… pero nunca lo sabrás.</p>
+  
+    <p>Todo se ha vuelto oscuro y silencioso de repente. Estás muerto.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '187',
-    html: 'www',
+    html: `<p>Te giras velozmente para huir. A tu espalda resuena la voz de Turpa gritando: «¡Acabad con él!».</p>
+
+    <p>Apenas haz dado dos zancadas cuando sientes que algo te golpea secamente, proyectándote hacia delante; es el impacto de la flecha lanzada por Merkar. Y se acaba de clavar por debajo de tu omoplato.</p>
+  
+    <p>Quieres seguir corriendo pero las piernas te flaquean y un dolor intenso lacera tus vísceras. Trastabillas y caes de rodillas. Alzas la mirada con dificultad y distingues a lo lejos una diminuta figura que sostiene un arco; te percatas que está sollozando. Levantas tu brazo hacia ella y le imploras:</p>
+  
+    <p>—¡Huye insensata!</p>
+  
+    <p>La cruel voz de Deilos resuena en tus oídos cuando le escuchas acercarse. Por el rabillo del ojo, puedes escuchar su voz y adivinar la sombra de su espada que se abate sobre tu cuello, sin contemplación.</p>
+  
+    <p>—Todo ha terminado para ti, fantoche.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '188',
-    html: 'www',
+    html: `<p>Cuando te diriges con cautela hasta tu refugio para acostarte antes de que regresen los demás, escuchas unos pasos por el campamento. No quieres que la guardia te descubra, por lo que te ocultas entre la maleza. Las pisadas se acercan y escuchas a dos personas que pasan cerca de tu escondite conversando. Reconoces de inmediato la voz del maestro Turpa.</p>
+
+    <p>—Avisa a los responsables de la guardia que hemos enviado un pequeño destacamento liderado por Deilos para inspeccionar los alrededores y descubrir más pistas sobre la emboscada que nos han tendido. No quiero sorpresas o percances desagradables cuando regresen de la cacería secreta. Espero que hayan dado una severa lección a esos campesinos. Esta chusma tiene que darse cuenta de que no se puede defraudar al imperio de Áinar… Y menos cuando se trata del pago de los impuestos. Con eso no se juega.</p>
+  
+    <p>—Pero nosotros con sus mujeres sí —responde riendo su acompañante.</p>
+  
+    <p>Turpa y el oficial se alejan entre carcajadas; tú estás atónito después de lo que acabas de escuchar. El maestro Turpa no solo lo sabe, sino que es el propio instigador de la cacería secreta. Apesadumbrado a la par que colérico por la revelación, sales de tu escondite y te ocultas en tu refugio, intentando conciliar el sueño. Sabes que te va a resultar imposible. Las emociones de esta noche te han desvelado definitivamente; además estás indignado y sientes vergüenza de pertenecer a Uhdanfiún. Al cabo de unos minutos, escuchas pasos que se aproximan y reconoces la voz de Deilos. Cierras los ojos y simulas estar profundamente dormido.</p>
+  
+    <p>Mientras adviertes como Dahzor ronda a tu alrededor, piensas en la extraordinaria aventura que has vivido esta noche. Seguramente tendrá consecuencias en un futuro próximo.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '189',
-    html: 'www',
+    html: `<p>Te desplomas en el suelo, abrazando a la muchacha, consumido por el esfuerzo de la aceleración. Cuando la sueltas, notas que apenas tienes fuerzas para incorporarte.</p>
+
+    <p>La chiquilla se ha quedado sentada en el suelo y te observa estupefacta, sin entender muy bien todavía lo que ha ocurrido.</p>
+  
+    <p>—¿Cómo… cómo has hecho eso?</p>
+  
+    <p>Te apoyas en el tronco de un roble. Respiras profundamente para recuperarte.</p>
+  
+    <p>Ella no deja de observarte para entender lo sucedido. Se fija en tu cuerpo curtido por el ejercicio, tu vestimenta de combate, la espada del cinto… y se detiene súbitamente en el brazalete de cinco estrías azules que llevas en tu antebrazo.</p>
+  
+    <p>—¿Qué significado tiene ese brazalete con marcas que llevas en el brazo?</p>
+  
+    <p>Carraspeas antes de contestar.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '27',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '190',
-    html: 'www',
+    html: `<p>Estas mujeres te recuerdan a «Lorean», una preciosa mujer que vivía en tu aldea, y a la que siempre admiraste en secreto…</p>
+
+    <p>Estás fascinado por las hermosas mujeres que te rodean. Avanzas hacia las aguas, acompañado por las tres bellezas, emocionado. Deshaces el cinto de tu espada, que cae envainada al suelo. Sus hábiles manos te ayudan a desprenderte de tus ropajes y notes cómo se te eriza el vello de tu piel.</p>
+  
+    <p>Te descalzan y tus pies notan el contacto con el agua; el entorno desprende unos perfumes que supones deben pertenecer a tus bellas acompañantes. Te sumerges en el templado líquido con ellas, anticipando un mágico desenlace…</p>
+  
+    <p>Al rato adviertes que necesitas retomar aire en la superficie. Intentas bracear para volver a subir… pero ellas te están atrayendo hacia el fondo. El pánico te invade y tragas una bocanada de agua que te sabe a fango. Las piernas de las bellas mujeres parecen haberse convertido en largas colas de serpiente. El terror ya se ha apoderado de tus sentidos y tragas otra bocanada de agua que te sabe a fatalidad. Entiendes demasiado tarde que las hermosas mujeres son en realidad unas Niryiin que ahora te arrastran hacia una horrible muerte.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '191',
-    html: 'www',
+    html: `<p>El silbido de tu flecha precede el de la chica y alcanza el muslo de Deilos que cae al suelo, profiriendo un grito agudo. La otra flecha, lanzada por la chiquilla, no encuentra su objetivo y sigue su recorrido, rozando la oreja de Dahzor, que avanzaba por detrás. Asustado por el ataque, da media vuelta y huye gritando:</p>
+
+    <p>—¡Es otra emboscada! ¡Nos estaban esperando, huyamos! Merkar se mueve intentando cubrir a sus compañeros ante un posible ataque, pero Dahzor le estorba en su precipitada huida. La chiquilla está sorprendida por lo ocurrido y te mira de reojo levantando un ceja con reprobación. Le coges rápidamente el cuerno del cinto aprovechando su confusión.</p>
+  
+    <p>—¡Rápido! ¡Hay que alertar a los campesinos!</p>
+  
+    <p>Y te pones a soplar el cuerno con todas tus fuerzas.</p>
+  
+    <p>Se empiezan a oír gritos en la cabaña y en las chozas de los alrededores, mientras observas cómo el grupo huye corriendo a toda velocidad. El corpulento Taifos se ha cargado a Deilos a los hombros, y éste gruñe de dolor cada vez que su compañero da un salto.</p>
+  
+    <p>—Vamos —le susurras suavemente a tu misteriosa compañera—. ¿No querrás que nos sorprendan aquí, verdad?</p>
+  
+    <p>Corréis agazapados subiendo por la loma hasta los lindes del bosque de Corocín.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '85',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '192',
-    html: 'www',
+    html: `<p>En ese mismo momento Merkar aúlla de dolor, suelta el arco y se agarra la pierna izquierda. Una flecha está clavada en su muslo. El resto del grupo está saliendo de la cabaña cuando el sonido de un cuerno se propaga por el valle. A la cabeza va Deilos, que sostiene su espada ensangrentada en alto mientras grita:</p>
+
+    <p>—¡Nos han descubierto, larguémonos de aquí!</p>
+  
+    <p>Se queda atónito al verte.</p>
+  
+    <p>—¿Nos has traicionado tú?</p>
+  
+    <p>Taifos aparece a su espalda, y carga contra ti con toda su rabia y fuerza.</p>
+  
+    <p>—¡Muereeeee!</p>
+  
+    <p>Estás en una posición muy difícil y tu adversario, además de doblarte en tamaño, también es un Ibtahán de quinto grado como tú. Vas a necesitar algo más que pericia para enfrentarlo…</p>`,
+    random: true,
     actions: [
       {
-        id: 'xx',
+        id: '61',
+        text: 'Continuar',
+      },
+      {
+        id: '127',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '193',
-    html: 'www',
+    html: `<p>Estás furioso y tienes sed de justicia. Aprietas los puños reclamando venganza, alejándote de Tríane que se queda contemplándote desde el borde del camino, con el semblante serio. Su mirada se entristece al verte correr hacia el campamento dominado por la ira y las ansias de revancha.</p>
+
+    <p>Cuando estás llegando al perímetro exterior, te sorprende una voz autoritaria que te interpela:</p>
+  
+    <p>—¡Alto! ¿Quién va?</p>
+  
+    <p>Avanzas lentamente para que te reconozca el responsable de la guardia, pero su voz te resulta desagradablemente familiar.</p>
+  
+    <p>De las sombras surgen dos figuras armadas que te cierran el paso. Son Deilos y Taifos, que empuña una arco cargado.</p>
+  
+    <p>Tu mano se aferra con determinación a la empuñadura de la espada.</p>
+  
+    <p>—Detente, imprudente.</p>
+  
+    <p>Es la voz del Maestro Turpa, que también se ocultaba en las sombras. Avanza lentamente con sus manos a la espalda y te parece vislumbrar otra figura en la penumbra, detrás suyo. Turpa te fulmina con una mirada severa y autoritaria.</p>
+  
+    <p>—¿Cómo te has atrevido a enfrentarte a tus compañeros de armas? Un guerrero como tú no debería defender a unos campesinos malolientes. Son solo escoria y están para servirnos. Deberías estar orgulloso de ser un guerrero Ainari. Podría esperármelo de un patético Ritión como Zarenyo, pero tú… No me dejas ninguna opción.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '19',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '194',
-    html: 'www',
+    html: `<p>Te diriges a la tienda del médico donde se encuentra tu compañero Zarenyo para interesarte por su salud. Te mueves con sigilo para no molestar a los que ya están descansando. Cuando te estás acercando a la carpa, ves salir a dos figuras de su interior. Una de ellas es Larletos, el médico de la expedición, que está hablando con Turpa, el instructor responsable del campamento. Esperas a que hayan terminado para solicitar permiso. No se han dado cuenta de tu presencia y puedes escuchar la conversación que ambos mantienen.</p>
+
+    <p>—… sigue durmiendo; su recuperación será compleja y larga. Esa fractura tiene mal aspecto.</p>
+  
+    <p>—Sinceramente, me alegro. Espero que de este modo renuncie y abandone la academia. Ese Ritión no es digno de Uhdanfiún y tengo malas experiencias con ese tipo de gentuza.</p>
+  
+    <p>—Por cierto, hace un momento me ha parecido ver pasar a Deilos con sus amigos…</p>
+  
+    <p>—No se preocupe, Maese Larletos. Deilos cuenta con mi absoluta confianza.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '12',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '195',
-    html: 'www',
+    html: `<p>Mientras reptas por detrás de la tapia para tomar posición, murmuras la secuencia de letras y números con la que entras en Protahitéi, la primera aceleración. En ese instante sientes una tensión que carga tus riñones y un repentino acaloramiento invade todo tu cuerpo. Tienes la percepción de que todo se ha ralentizado a tu alrededor.</p>
+
+    <p>Al incorporarte, te da la sensación de que tu pequeña compañera se mueve pausadamente. Le haces la señal y cargas tu arco. Ella todavía te está mirando. Te incorporas por encima de la tapia y apuntas al que está más cerca de la cabaña. Reconoces al corpulento Taifos, que avanza espada en mano. Sueltas la cuerda. La flecha vuela hacia él. Recargas tu arco y apuntas a Merkar que también empuña el arco tensándolo desde la cintura mientras mira hacia los lados. Sueltas la flecha. Por el rabillo del ojo ves que ella ya tensa su arco y se dispone a disparar. Tu primera flecha se clava en la pantorilla de Taifos que grita al sentir el impacto. Te llevas el cuerno a la boca y soplas con todas tus fuerzas. La segunda flecha roza la nalga de Merkar, arrancándole un gemido de dolor. Se le dispara el arco y su flecha se pierde en el huerto vecino. Cargas una tercera flecha.</p>
+  
+    <p>Apuntas de nuevo pero constatas que no todo se mueve con lentitud. Alguien corre hacia vosotros a toda velocidad. Es Deilos.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '71',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '196',
-    html: 'www',
+    html: `<p>Te agachas lentamente vigilando lo que hace el grupo en todo momento.</p>
+
+    <p>Escuchas el leve roce de una flecha frotando la cuerda del arco. Agachas la mirada y ves a la muchacha preparándose para disparar. La sujetas por el brazo, para frenar sus intenciones.</p>
+  
+    <p>—¿Cuál es tu plan? —le preguntas.</p>
+  
+    <p>—No pienso esperar a que entren en esa cabaña y asesinen a una familia entera. Voy a cargarme al cabecilla de esos asesinos y luego daré la alarma con el cuerno. ¿Tienes alguna idea mejor?</p>
+  
+    <p>—Vale —le concedes—. Esmérate en afinar la puntería y pásame el cuerno, yo daré la alarma con más fuerza. Espera que me sitúe un poco más lejos para que podamos pillarles con un fuego cruzado. Te hago una señal.</p>
+  
+    <p>—Está bien pero date prisa…</p>
+  
+    <p>La chiquilla te entrega el cuerno refunfuñando y se prepara para disparar. Empiezas a reptar para colocarte a unos metros de ella pensando cuál sería la mejor estrategia para que esta situación no se complique demasiado…</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '10',
+        text: 'piensas tomar la iniciativa y disparar tú primero',
+      },
+      {
+        id: '31',
+        text: 'quieres entrar en Protahitéi (Primera aceleración)',
       },
     ],
   },
   {
     id: '197',
-    html: 'www',
+    html: `<p>Irritado, le contestas con el mismo bisbiseo.</p>
+
+    <p>—No digas estupideces, niña. Eso es imposible. Regresa por donde has venido. Eres demasiado pequeña para rondar por la noche con estas pintas.</p>
+  
+    <p>—Y tú eres un bravucón ingenuo. Te arrepentirás de esto.</p>
+  
+    <p>—He dicho que te largues, antes de que te descubran, o serás tú la que te arrepientas.</p>
+  
+    <p>Su rostro se ha desencajado y ahora expresa auténtico pavor. Se aparta de ti, asustada. Aprovechas la circunstancia para retomar la marcha dejándola atrás, convencido de que saldrá huyendo de inmediato. Le das la espalda y vigilas los movimientos del grupo.</p>
+  
+    <p>Las palabras de la niña te han inquietado, pero no te puedes creer las bobadas que ha insinuado. Seguro que se trata de supersticiones de campesinos asustadizos.</p>
+  
+    <p>«Pfff… —piensas para tus adentros—. Tonterías. Al final van a robar unas gallinas o un cerdo a unos aldeanos. Menuda sandez lo de la cacería secreta».</p>
+  
+    <p>Sigues acercándote al objetivo del grupo, desde la ladera opuesta.</p>
+  
+    <p>Te giras un instante para ver si la niña se ha marchado ya… y ya no la ves por ningún lado. Mucho mejor.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '215',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '198',
-    html: 'www',
+    html: `<p>Estás enumerando la secuencia en tu interior cuando notas de pronto que se ha hecho el silencio. Te asomas. Te acercas con cuidado hasta el lugar desde el cual os han atacado. Todavía hay piedras de tamaño considerable en el suelo, a modo de munición. Examinas las pisadas. Eran pocos; tres o cuatro como mucho. Todo esto te resulta muy extraño.</p>
+
+    <p>Al regresar al campamento escuchas gritos, son los instructores que dan instrucciones con las armas en alto, berreando para averiguar si algún alumno ha sido herido. Escuchas que Zarenyo es la única víctima de esta insólita emboscada. La mala suerte se ha cebado con él y le han alcanzado dos veces, partiendo el húmero del brazo izquierdo y golpeándole fuertemente en la cabeza. Te comentan que está inconsciente y que Turpa ha mandado que se lo lleven a la tienda del médico, maese Larletos, para que examine la gravedad de sus heridas. Mañana a primera hora lo trasladarán a Koras.</p>
+  
+    <p>Turpa reúne al resto de los alumnos para informarles que los asaltantes han sido unos campesinos rebeldes de los alrededores. Han conseguido huir sin ser identificados. Turpa está convencido que son unos insurgentes que desconfían y envidian a los guerreros de Uhdanfiún y la gloria del imperio Ainar.</p>
+  
+    <p>A pesar del tono convencido del maestro Turpa, tú albergas serias dudas al respecto ya que lo que has visto hace un momento no parece cuadrar demasiado con esa versión de los hechos. Te cuesta creer que cuatro campesinos disparen con tanta precisión y puedan escapar después de semejante emboscada.</p>
+  
+    <p>En el momento que te disponías a visitar a Zarenyo para interesarte por su salud, Turpa anuncia que se tomarán medidas de seguridad para evitar más ataques. Se establecerán guardias para vigilar el interior del campamento y las zonas de los alrededores. Se establece el orden y nombre de los distintos centinelas… y te escogen para la primera guardia en el perímetro exterior.</p>
+  
+    <p>Apenas tienes tiempo para comer algo, equiparte y visitar a Zarenyo antes de que empieces tu ronda.</p>
+  
+    <p>Desgraciadamente, te comentan que tu amigo sigue inconsciente por el momento.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '132',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '199',
-    html: 'www',
+    html: `<p>Mientras esquivas la lluvia de proyectiles que os están arrojando, intentas vislumbrar de dónde proviene la emboscada y quiénes son vuestros enemigos. Sospechas que podría tratarse de una cuadrilla de ladrones imprudentes, aunque lo más probable es que sean alguna banda de bárbaros rebeldes. Ves a tu izquierda como Deilos y dos de sus compañeros saltan por un desnivel para ocultarse tras una zanja natural que ofrece el terreno; a tu derecha Zarenyo intenta moverse para parapetarse detrás de un gran fresno… ¡Y en ese mismo momento ves como le impacta en el brazo una piedra del tamaño de un melón lanzada a gran velocidad, derribándole en el acto! Tu compañero aúlla de dolor mientras se sujeta el brazo maltrecho; te abalanzas a su espalda para estirarle por los hombros y ponerlo a buen recaudo mientras él sigue retorciéndose y gritando. Justo a tiempo, ya que otro pedrusco golpea con violencia en el mismo lugar donde se encontraba Zarenyo un segundo antes.</p>
+
+    <p>Te incorporas y desenvainas tu espada, preparado para el inminente ataque, con la espalda apoyada sobre el ancho tronco de un viejo fresno, con las piernas flexionadas para poder asestar un tajo rápido y certero, al tiempo que cubres a tu compañero herido. Armas el brazo dispuesto a entrar en combate.</p>
+  
+    <p>Pasan unos segundos… y misteriosamente, ha cesado el ataque.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '60',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '200',
-    html: 'www',
+    html: `<p>—Estás diciendo bobadas, criatura. Conozco a estos guerreros y no son los bárbaros que insinúas.</p>
+
+    <p>A pesar de querer ser categórico, te ha dado la sensación que tu tono de voz era algo vacilante. Te levantas sujetando a la chiquilla por el brazo, mientras ella te mira con auténtico terror y te patea para intentar liberarse de tu agarre. El grupo, que avanzaba agazapado, se incorpora también.</p>
+  
+    <p>Te dispones a relatarles las difamaciones que te ha contado, pero Deilos se anticipa y mira con mucho interés a la chiquilla.</p>
+  
+    <p>—Vaya, vaya. Si resulta que has cazado la mejor pieza…</p>
+  
+    <p>Las palabras de Deilos te han sonado de lo más obsceno; estás turbado y ya no sabes lo que ibas a decir…</p>
+  
+    <p>De pronto notas un dolor muy agudo en tu antebrazo, la muchacha te acaba de morder con todas sus fuerzas y has notado cómo sus dientes atravesaban tu carne, haciéndote soltar su brazo de inmediato. Ella aprovecha la ocasión para salir corriendo, ladera arriba, hacia el bosque.</p>
+  
+    <p>Taifos se ríe comentando «¡Vaya fierecilla!» y Deilos se avanza para ir a por ella, pero tú le detienes de inmediato.</p>
+  
+    <p>—Déjala que se vaya, es una niña asustada.</p>
+  
+    <p>—Pero ¿qué tonterías dices? ¡Vamos a divertirnos un rato con ella!</p>
+  
+    <p>Ella sigue corriendo ladera arriba, pero sabes que la podéis atrapar en cuatro zancadas. Deilos y los demás han reanudado la persecución y estás tan confuso que te sumas a la carrera sin saber muy bien lo que va a pasar a continuación. Confuso y nervioso, corres hacia ella tan rápido que consigues una ventaja de varios cuerpos sobre el resto del grupo.</p>
+  
+    <p>La chiquilla está todavía a cincuenta metros de los lindes del bosque y ya casi la has alcanzado.</p>
+  
+    <p>Los demás te jalean por detrás mientras corren.</p>
+  
+    <p>—¡Vamos! ¡Atrapa a esa zorra! —farfulla Deilos con la voz entrecortada por el jadeo.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '217',
         text: 'Continuar',
       },
     ],
