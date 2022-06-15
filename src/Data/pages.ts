@@ -3394,201 +3394,402 @@ const pageArray: IPage[] = [
   },
   {
     id: '166',
-    html: 'www',
+    html: `<p>Cuando por fin despiertas, no tienes ninguna noción del tiempo transcurrido. Sin embargo, tienes la certeza de que el lugar ya no es el mismo que antes. Ahora notas sutiles y embriagadores aromas que perfuman el aire, y escuchas un armonioso zumbido que resulta melódico y fascinante, con unas cristalinas risas de fondo…</p>
+
+    <p>Todavía permaneces inmóvil cuando te ha sorprendido esa última percepción y decides contemplar de donde proviene tal regocijo… la poza es ahora una charca de aguas cristalinas, bañada por una exótica luz verdosa que le da un aspecto feérico. Y entonces las ves jugar.</p>
+  
+    <p>Son tres preciosas y bellas doncellas que se divierten en la orilla, chapoteando en el agua con sus pies desnudos. Llevan unas especies de clámides que resaltan sus cuerpos perfectos. Ahora te sonríen con picardía y se alzan para saltar por la orilla, persiguiéndose en una especie de juego. Retozan sobre el mullido musgo y se aúpan sobre las rocas, sacudiendo sus sugestivas cabelleras al viento. Una espectacular rubia de ojos azules exhibe una dorada melena que le cae por la cintura; la otra tiene el pelo negro como el ébano y un color de piel acaramelado; la tercera agita su rizada cabellera pelirroja como si estuviera prendida en llamas y sus ojos de esmeralda son espectaculares.</p>
+  
+    <p>Como si estuvieran flotando, se han ido acercando a ti.</p>
+  
+    <p>La morena se pone a gatear y sus ojos oscuros brillan en la oscuridad.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '87',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '167',
-    html: 'www',
+    html: `<p class="asangre cursiva">Has solventado el enigma. Teniendo en cuenta que nadie se hace una reverencia a si mismo y que el Tahedorán no devuelve las reverencias que se le hacen, puedes deducir que la raíz cuadrada de 900 (saludos) te permite descubrir el número total de asistentes a la clase: treinta. Si un tercio son maestros menores, hay diez Ibtahanes y veinte alumnos.</p>
+
+    <p>Con la mente mucho más clara, avanzas con cautela, buscando pistas que te confirmen el paso del grupo. La maleza aplastada y las huellas de pasos te lo ratifican. Incluso puedes distinguir que han hecho paradas. No da la sensación que sean muy cautelosos en su avance.</p>
+  
+    <p>Cuando estás llegando al final de la quebrada, puedes ver una loma guarnecida con una frondosa alameda. Avanzas con mucho cuidado.</p>
+  
+    <p>Te llega el sonido de tenues voces e incluso te ha parecido ver alguna sombra en movimiento.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '95',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '168',
-    html: 'www',
+    html: `<p>Abres los ojos, incapaz de saber cuánto tiempo has dormido. Estás sentado, apoyado junto a una gran roca, con la mente en blanco. El lugar parece haber cambiado y una extraña luz verdosa tiñe los alrededores dándole un aspecto feérico. Al mirar hacia la charca, ves a tres jóvenes y hermosas mujeres que ríen y juguetean en la orilla, vestidas con sutiles túnicas que cubren sus esbeltos cuerpos. Van descalzas y corretean por la ribera, subiéndose a las rocas y agitando sus preciosas melenas al viento: una morena como el azabache, otra rubia como el oro y la tercera pelirroja como el fuego.</p>
+
+    <p>Entre saltos y juegos se acercan hasta ti; la morena se sienta a tu lado y apoya su cabeza en tu hombro. Su pelo te cosquillea los dedos; ella te mira con languidez y te sonríe misteriosamente.</p>
+  
+    <p>—Estás en el lugar idóneo y con la mejor compañía; quédate con nosotras.</p>
+  
+    <p>Esas palabras susurradas a tu oído te hacen perder la cabeza. Al otro lado, la rubia te acaricia el pelo y roza tus orejas con sus finos dedos. Sientes una agradable sensación en la nuca.</p>
+  
+    <p>—Ven a bañarte con nosotras.</p>
+  
+    <p>La sugerente voz de la pelirroja te hipnotiza y sus verdes ojos te parecen los más hermosos que jamás hayas visto. Su larga melena rizada se agita al viento caprichosamente y da la sensación de que unas llamas rodean su hermoso cuerpo.</p>
+  
+    <p>Las tres ninfas te incorporan y te rodean. Te cogen de la mano, acercándote al agua, que ahora ves brillante y luminosa, como si hubiesen piedras preciosas en el fondo. Intentas resistir a la sensación que te invade pero sientes el poder de atracción del agua y de la compañía de esas mujeres, por lo que empiezas a desvestirte.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '82',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '169',
-    html: 'www',
+    html: `<p>Intimidado por la misteriosa presencia en plena noche y teniendo en cuenta la reciente emboscada que habéis sufrido, crees que «FRENO» es la mejor alternativa ante semejante aparición.</p>
+
+    <p>Te muestras por lo tanto precavido al avanzar; y mientras le preguntas su nombre, echas mano a la empuñadura de tu espada y la desenvainas lentamente, apuntando con la kisha a la extraña joven que te has encontrado en medio de la noche. Con voz clara y grave, la muchacha contesta.</p>
+  
+    <p>—Tríane.</p>
+  
+    <p>Apenas has desviado la mirada una milésima de segundo para mirar dónde pisas… Y ya no está. No has escuchado ningún sonido que te permita saber adónde ha ido, si ha huido o simplemente ha desaparecido tan misteriosamente como te la encontraste hace un instante.</p>
+  
+    <p>Reanudas tu ronda rodeado por un opresivo silencio, poniendo todavía más atención y con la molesta sensación de que te están observando fijamente.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '24',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '170',
-    html: 'www',
+    html: '<p>De pronto, escuchas el imperceptible ruido de la hojarasca pisoteada. Un sensación de pánico te invade pero apelas a tu entrenamiento militar e hincas una rodilla al suelo para esperar lo que está avanzando hacia ti. Las palabras de tu instructor en supervivencia resuenan en tus oídos: «Mantén la calma o serás tú quien te conviertas en la presa». Se acerca. Ya puedes olerlo. Ajustas tu posición para encararlo, mientras el aire se impregna de un hedor metálico muy característico. Las ramas se mueven. Un ronco sonido anticipa el rugido y la presencia de la gran bestia: un corueco.</p>',
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '39',
+        text: 'te dispones para el combate',
+      },
+      {
+        id: '179',
+        text: 'prefieres salir huyendo',
       },
     ],
   },
   {
     id: '171',
-    html: 'www',
+    html: `<p>—Pues ese viejo tenía una forma envidiable y unas zancadas que a duras penas podía seguir. Y tú, ¿cómo conseguiste salir de Corocín?</p>
+
+    <p>—La verdad es que no estoy segura. Simplemente corrí sin descanso y sorprendentemente, cuando iba a darme por vencida, encontré un estrecho sendero y logré escapar de este maldito laberinto.</p>
+  
+    <p>Cuando la estás ayudando a incorporarse, ambos escucháis una suave melodía que parece proceder de las entrañas del mismísimo bosque. Ella sonríe con nostalgia:</p>
+  
+    <p>—Conozco esa música. Hace tiempo que no la escuchaba. Dicen que es la música del bosque de Corocín. Es reconfortante.</p>
+  
+    <p>Tienes el extraño presentimiento de que el viejo mago que has conocido hace un momento tiene algo que ver con esa melodía que estáis escuchando.</p>
+  
+    <p>—¿Qué quieres hacer ahora?</p>
+  
+    <p>—Tengo que denunciar lo sucedido a nuestros maestros, exigir justicia para los campesinos y castigo para los culpables. Si quieres, me puedes acompañar para corroborar los hechos que les voy a relatar.</p>
+  
+    <p>—No cuentes conmigo. No me fío de los guerreros de Uhdanfiún… o al menos de la gran mayoría de ellos.</p>
+  
+    <p>—No puedo tolerar que esa vileza quede impune.</p>
+  
+    <p>—Te comprendo. Te acompañaré durante una parte del trayecto. Luego nos despediremos.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '104',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '172',
-    html: 'www',
+    html: `<p>Corres hacia la entrada de la choza, temiendo lo peor.</p>
+
+    <p>—¿Qué estáis haciendo, imbéciles?</p>
+  
+    <p>Tu grito resuena en la noche.</p>
+  
+    <p>Merkar se gira instintivamente y te dispara. Necesitarás mucha suerte para salir airoso de esta situación.</p>`,
+    random: true,
     actions: [
       {
-        id: 'xx',
+        id: '55',
+        text: 'Continuar',
+      },
+      {
+        id: '05',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '173',
-    html: 'www',
+    html: `<p>El salto del corueco te sorprende, a pesar de tu aceleración. Jamás hubieras pensado que pudiese cubrir esa distancia a tanta velocidad. Tu Yagartéi se estrella contra su brazo y te da la sensación de haber golpeado una columna de piedra. Un latigazo te recorre ambos brazos desde el hombro hasta la punta de los dedos y sueltas la espada con un alarido.</p>
+
+    <p>El corueco está encima de ti y sus malévolos ojillos dorados te observan cruelmente; intentas zafarte usando tu aceleración pero la bestia intuye tu intención y te propina un zarpazo que te impacta sin que puedas esquivarlo. Tu cuerpo sale proyectado hacia atrás y sientes como toda tu espalda cruje en mil pedazos cuando chocas contra un ancho roble. Escupes un líquido espeso y dulzón al caer al suelo.</p>
+  
+    <p>El corueco se acerca lentamente. Intentas moverte en vano. Tu cuerpo no te obedece; tu boca está pastosa y sabe a sangre.</p>
+  
+    <p>—Ven, pequeño, ven… —balbuceas irónico, intentando llamar su atención. Sabes que vas a morir. Pero ya no sientes nada.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '174',
-    html: 'www',
+    html: `<p>Examinas la herida de la muchacha. La flecha se le ha clavado de abajo hacia arriba y le ha atravesado de parte a parte el abdomen con un movimiento ascendente, llegando hasta el pulmón que ahora se le está inundando de sangre.</p>
+
+    <p>La chica tose de nuevo y escupe un líquido oscuro y viscoso. Te mira por última vez: el cuerpo curtido por el ejercicio, la espada… el brazalete con cinco estrías azules.</p>
+  
+    <p>—Eres… uno de ellos.</p>
+  
+    <p>No puedes contestarle, solo la miras en silencio intentando contener las lágrimas.</p>
+  
+    <p>—No exactamente. Ellos mataron a mi familia. Tú me recuerdas al otro.</p>
+  
+    <p>Te hace un gesto para que te aproximes. Su aliento calienta tus mejillas. Te acaricia el rostro. Apenas consigue susurrar sus últimas palabras.</p>
+  
+    <p>—Se llamaba Derguín. Y ese tal Deilos… lo he reconocido. Es el que intentó violarme.</p>
+  
+    <p>Derguín: recuerdas ese nombre. Fue uno de los alumnos expulsados el año pasado, después de recibir un castigo ejemplar.</p>
+  
+    <p>Su ojos se cierran lentamente. Ha dejado de respirar.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '48',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '175',
-    html: 'www',
+    html: `<p>Tus fuerzas te abandonan. Te sientas, apoyándote en el tronco del árbol y ladeando el cuerpo para no clavarte aún más la flecha que te disparó Merkar. La chiquilla se arrodilla junto a ti y te mira con lágrimas en los ojos. Tu camisa está empapada de sangre y sientes el calor de ese líquido pastoso mientras sigue derramándose y bajando por tu cintura.</p>
+
+    <p>Empiezas a tiritar. La muchacha se quita la capa y te cubre con ella, a la vez que se fija en tu brazalete con cinco estrías azules.</p>
+  
+    <p>—Eres como ellos, ¿verdad? Un guerrero de Uhdanfiún. Pero en realidad me recuerdas a otro… se llamaba Derguín. También se enfrentó a Deilos cuando quiso violarme.</p>
+  
+    <p>Recuerdas ese nombre. Los expulsaron a él y a otro alumno llamado Mikhon Tiq el año pasado, después de un severo castigo. Pero no puedes contestarle, solo la miras en silencio intentando mantener la conciencia.</p>
+  
+    <p>Te acaricia la mejilla. Puedes ver cómo se enjuga las lágrimas con la otra mano. Su rostro desaparece en un túnel cuya oscuridad te invade. Escuchas una voz en tu interior que te recuerda la de la misteriosa Tríane. Te da la sensación de que te está susurrando al oído mientras mueres: no superaste la prueba.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '176',
-    html: 'www',
+    html: `<p>Todo y estando en plena aceleración, la velocidad del corueco te ha cogido desprevenido. Nunca hubieses creído que semejante criatura se desplazara tan velozmente con esa envergadura. El Yagartéi que intentabas realizar ha golpeado su brazo acorazado y el acero rebota vibrando como si le hubieses atizado un tajo a un poste de metal. Un doloroso calambre te atenaza ambos brazos y tu espada se pierde mientras sueltas un gruñido a causa del dolor.</p>
+
+    <p>El corueco te recubre por completo y te estudia con sus perversos ojillos amarillentos. Te revuelcas con rabia para aprovechar al máximo tu Protahitéi e intentas escapar de su control, pero una vez más, el corueco anticipa tu movimiento con una velocidad pasmosa y frustra tus intenciones propinándote un poderoso golpe con su brazo que se estampa en tu pecho y te lanza hacia atrás varios metros en el aire, hasta que te detienes repentinamente cuando tu cuerpo colisiona contra un ancho roble. Sabes que te acabas de romper la espalda por innumerables sitios; te da la sensación de ser una marioneta a la que le han cortado los hilos y resbalas hasta el suelo por el rugoso tronco, totalmente roto. Tu boca se ha empastado y escupes una mezcla de saliva y sangre que te ha subido desde los pulmones.</p>
+  
+    <p>Tuerces el cuello patéticamente pero eres incapaz de enderezarlo. De hecho, compruebas que tu cuerpo ya no te obedece, mientras el corueco sigue acercándose, con malignas intenciones.</p>
+  
+    <p>—Ven, pequeño, ven… —farfullas sarcásticamente, para llamar su atención. Toses y escupes nuevamente sangre, pero no sientes ningún dolor. Te dispones a morir, implorando que al menos ella se haya podido salvar.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '177',
-    html: 'www',
+    html: `<p>Al aproximarte a los alrededores del campamento, decides dar un rodeo y entrar con cautela por la zona donde acampan los maestros, con la intención de informarles de la infamia que han cometido Deilos y los suyos. Te desplazas sigilosamente, acercándote a la tienda del maestro Turpa, cuando escuchas su voz con nitidez, que proviene del interior.</p>
+
+    <p>—… reconozco que nunca lo hubiese imaginado. Me parecía un Ainari ejemplar y con un gran futuro por delante. Y por lo que me has contado, resulta que le faltan redaños para castigar a unos campesinos amotinados. Debimos haberle despachado junto con el inútil Zarenyo de Ritión cuando simulamos la emboscada al campamento. Si tiene la osadía de regresar aquí, lamentará no haber muerto. ¿Algún testigo?</p>
+  
+    <p>En ese momento escuchas la voz de Deilos, después de un leve carraspeo:</p>
+  
+    <p>—Ninguno, Maese Turpa. Pero por su culpa no pudimos dar el escarmiento en la aldea como estaba previsto. Se tendrá que realizar otra cacería secreta para que los campesinos comprendan que no pueden retrasarse a la hora de pagar los impuestos.</p>
+  
+    <p>Te alejas de la tienda con una mezcla de consternación e ira en tus entrañas. Atisbas desde tu escondite la presencia de tres figuras vigilando el recinto: son Taifos, Merkar y Bhratar, responsables de montar la guardia ahora. Seguro que te están esperando con instrucciones muy precisas y poco amigables.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '49',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '178',
-    html: 'www',
+    html: `<p>—Os lo agradezco, pero no creo que sea buena idea desproteger el campamento después de la emboscada que hemos sufrido. Además, me preocupa la salud de Zarenyo. En otra ocasión quizá.</p>
+
+    <p>Deilos te mira fijamente, intentando averiguar si tu excusa es sincera o si estás poniendo su autoridad en entredicho. Parece que este nuevo desplante le ha irritado definitivamente.</p>
+  
+    <p>—Zarenyo ha demostrado que no es merecedor de pertenecer a Uhdanfiún; no tiene lo necesario para ser guerrero. Allá tú si quieres perder el tiempo con ese Ritión. Vámonos —sentencia dirigiéndose al resto del grupo.</p>
+  
+    <p>El grupo abandona sigilosamente el campamento.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '84',
         text: 'Continuar',
       },
     ],
   },
   {
     id: '179',
-    html: 'www',
+    html: `<p>Te das la vuelta y empiezas a correr todo lo rápido que puedes. A tu espalda puedes oír cómo las ramas se resquebrajan, el suelo tiembla y sus pisadas retumban al acercarse… hasta el punto de hacerte perder el equilibrio. También sientes el hediondo olor metálico a tu espalda que se aproxima rápidamente, puedes oler un apestoso aliento en tu nuca y sentir una pegajosa sensación…</p>
+
+    <p>No te has podido girar. Ni siquiera sabes qué aspecto tiene esa fantasmagórica bestia.</p>
+  
+    <p>Un crujido. Todo ha terminado de golpe. Estás muerto.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '180',
-    html: 'www',
+    html: `<p>Mientras bebes puedes percibir que ella te está estudiando con detenimiento. Lo que has hecho anteriormente la ha asombrado, pero ahora parece recapacitar al fijarse en ciertos detalles, como el brazalete con las cinco estrías que te identifica como un Ibtahán de quinto grado.</p>
+
+    <p>—¿Los conocías, verdad? Tú también eres un guerrero de Uhdanfiún…</p>
+  
+    <p>La miras en silencio, sin contestar. Te gustaría reconfortarla y decirle que no eres como ellos y que puede confiar en ti, pero las palabras se te atragantan. Ella te sigue mirando con curiosidad.</p>
+  
+    <p>—Me recuerdas a alguien. Quizá lo conozcas. Me salvó la vida cuando esos energúmenos estaban a punto de violarme. Se llamaba Derguín…</p>
+  
+    <p>El nombre te resulta muy familiar. Haces memoria y te acuerdas de inmediato: un excelente alumno de la academia. El año pasado, por estas mismas fechas aproximadamente, él y su amigo Mikhon Tiq eran castigados con severidad y expulsados de la academia. No recuerdas claramente los motivos…</p>
+  
+    <p>—Sucedió hace un año.</p>
+  
+    <p>Ves que al evocar esos recuerdos su rostro se vuelve triste y sombrío. Prefieres no decirle toda la verdad.</p>
+  
+    <p>—No lo llegué a conocer personalmente. Ya no está en la academia.</p>
+  
+    <p>—Sin duda hizo lo más sensato.</p>
+  
+    <p>Sus palabras te intrigan pero prefieres no preguntar nada. Optas por cambiar de conversación.</p>
+  
+    <p>—Tendríamos que continuar.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '157',
+        text: 'quieres avanzar bordeando el arroyo',
+      },
+      {
+        id: '101',
+        text: 'prefieres atravesar el pequeño prado',
       },
     ],
   },
   {
     id: '181',
-    html: 'www',
+    html: `<p>La velocidad del corueco es tan pasmosa que no has tenido tiempo de saltar para colocarte debajo de él. Desenfundas y la hoja de tu espada impacta en uno de sus brazos, partiéndose en el acto. Los músculos de tus hombros se desgarran al recibir la vibración tras golpear con la hoja sus huesos metálicos. Estás totalmente desarmado e indefenso. El corueco fija sus amarillas y minúsculas retinas en tu aterrorizado rostro y te propina un súbito revés con su poderoso brazo. Todo ocurre tan velozmente que en ese mismo instante notas un tremendo golpe en tu pecho y tu cuerpo sale proyectado hacia atrás con violencia, para detenerse dolorosa e inesperadamente, cuando golpeas algo duro que te destroza la columna vertebral. No puedes moverte y solo sientes que tu cuerpo resbala hacia el suelo sin control, como un títere al que le han cortado los hilos. Tu entorno se desvanece con lentitud. Lo último que notas es la sombra del corueco avanzando hacia ti, para contemplar tu último suspiro.</p>
+
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '182',
-    html: 'www',
+    html: `<p>El potente sonido del cuerno inunda toda la aldea.</p>
+
+    <p>Taifos se sobresalta y mira en vuestra dirección justo a tiempo para ver cómo la chiquilla le apunta y suelta la cuerda de su arco, liberando una flecha que se dirige hacia él. Se lanza hacia un lado y rueda sobre el suelo ágilmente, esquivando el proyectil que se clava en la cerca donde estaba apoyado segundos antes.</p>
+  
+    <p>—¡Allí! —grita Taifos olvidando por completo toda discreción y señalando a la muchacha.</p>
+  
+    <p>La niña carga otra flecha renegando entre dientes.</p>
+  
+    <p>—Será idiota…</p>
+  
+    <p>En la aldea empiezan a oírse gritos de alarma. Deilos y Merkar corren hacia vosotros; mientras que Taifos se incorpora. De pronto observas que Deilos corre mucho. Se ha embalado súbitamente y pasado por delante de Taifos a toda velocidad; lo tendréis encima en un santiamén.</p>
+  
+    <p>Solo tienes una opción: entrar tú también en segunda aceleración Protahitéi.</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: '78',
+        text: 'vas a enfrentarte a Deilos',
+      },
+      {
+        id: '152',
+        text: 'intentas salvar a la chiquilla y salir huyendo',
       },
     ],
   },
   {
     id: '183',
-    html: 'www',
+    html: `<p>Todo a tu alrededor parece haberse quedado inmóvil, como si estuvieras en un cuadro. Todo, salvo el corueco, que ha saltado sobre ti con una velocidad sorprendente, teniendo en cuenta que estás en Protahitéi. Apenas has tenido tiempo para desenvainar tu espada que su enorme cuerpo te cubría casi por completo. A duras penas has conseguido hacerte a un lado. Te dispones a contraatacar pero ya se ha dado la vuelta otra vez y te encara con su diabólica y dorada mirada.</p>
+
+    <p>Intentas situarte a su costado pero lo tienes nuevamente encima. Te lanza un zarpazo que intentas detener con tu espada, pero te la arranca de cuajo y el arma sale volando a lo lejos.</p>
+  
+    <p>Te lanzas hacia delante con una acrobática voltereta para intentar recuperarla, pero algo te impacta en pleno pecho. Es su demoledor brazo, que tiene la consistencia de un bloque de granito. Sales volando por los aires sin respiración hasta que chocas contra el tronco de un ancho árbol y te derrumbas sobre la hierba. Te quedas sin aliento en el suelo, intentando no perder la conciencia… sospechas que como mínimo te ha roto varias costillas. Tienes sangre en la boca. No puedes levantarte. No sientes las piernas. Y no puedes evitar el mazazo que se te viene encima y te aplasta definitivamente. Todo sucede tan rápido que ni siquiera te da tiempo a agonizar.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '184',
-    html: 'www',
+    html: `<p>Sentado en cuclillas y apoyado contra un fresno que te oculta en la sombra, contemplas el ajetreo que se está produciendo en el pago, algo más abajo. Junto a ti, la chiquilla te mira desconsoladamente, sin atreverse a tocar la flecha que está hundida en tu pecho. Tu camisa está empapada de sangre y sientes el calor de ese líquido viscoso mientras sigue derramándose y bajando por tu cintura.</p>
+
+    <p>Ella te está examinando con esmero, descubriendo quién eres realmente: tu cuerpo curtido por el ejercicio, tu espada al cinto… tu brazalete con cinco estrías azules.</p>
+  
+    <p>—Eres… como ellos.</p>
+  
+    <p>No puedes contestarle, solo la miras en silencio; quieres permanecer consciente. Te das cuenta de que su rostro está empapado en lágrimas pero no tienes fuerzas para consolarla.</p>
+  
+    <p>—No exactamente. Ellos mataron a mi familia. Tú me recuerdas al otro.</p>
+  
+    <p>Se acerca lentamente, muy cerca. Su aliento calienta tus mejillas. Sus lágrimas tocan tu rostro. Te besa en los labios suavemente.</p>
+  
+    <p>—Se llamaba Derguín.</p>
+  
+    <p>El nombre te suena, pero eres incapaz de recordar, apenas te puedes mantener despierto. Ella parece darse cuenta de que te estás muriendo. Te acaricia la mejilla con una mano, con la otra se enjuga las lágrimas. Se oculta el rostro con la capucha, da media vuelta y se aleja de ti.</p>
+  
+    <p>Su pequeña figura desaparece en un túnel cuya oscuridad te invade. En tu interior escuchas una voz que te recuerda la de Tríane, susurrándote al oído mientras mueres: «No lograste superar la prueba».</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
   {
     id: '185',
-    html: 'www',
+    html: `<p>Avanzas hacia las aguas sujetando por la cintura a tus hermosas acompañantes; la fascinante morena, la rubia espectacular y la maravillosa pelirroja, que te acaricia la nuca desde atrás. En la orilla de la poza, las tres bellezas te ayudan a desprenderte de tu equipo. Te quitan las botas y desabrochan el cinto del que cuelga tu espada, que cae envainada sobre el esponjoso suelo junto al arroyo. La rubia te sujeta la mano con dulzura y se acerca a la orilla.</p>
+
+    <p>Seguís avanzando y ya puedes notar el agua bajo tus pies. La morena se acerca a tu espalda y posa sus manos sobre tus hombros, para que podáis bascular los cuatro en las aguas de la charca. Os sumergís juntos en líquido templado, en el preludio de un prometedor desenlace…</p>
+  
+    <p>Al poco rato te percatas de que te estás quedando sin aire, por lo que intentas volver a nadar hacia la superficie para respirar nuevamente… pero ellas continúan descendiendo hacia las profundidades. Forcejeas en vano, sus cuerpos son como losas que te arrastran al fondo. Te entra el pánico y abres la boca, tragando agua con sabor a lodo. Quieres liberarte y te agitas frenéticamente, pero sus esbeltas piernas que te rodeaban se han convertido en largas colas de serpiente. Tienes otro ataque de pavor y vuelves a tragar agua que ahora te sabe a fatídico infortunio. Descubres algo tarde que esas irresistibles mujeres son en realidad una Niryiin que ahora te arrastra hacia una espeluznante muerte.</p>
+  
+    <p class="cursiva">FIN</p>`,
     actions: [
       {
-        id: 'xx',
-        text: 'Continuar',
+        id: 'inicio',
+        text: 'ir al principio',
       },
     ],
   },
