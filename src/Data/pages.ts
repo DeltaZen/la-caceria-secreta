@@ -715,7 +715,7 @@ const pageArray: IPage[] = [
         text: 'Continuar',
       },
       {
-        id: '9',
+        id: '09',
         text: 'Continuar',
       },
     ],
@@ -1026,11 +1026,11 @@ const pageArray: IPage[] = [
     <p>Dos palabras te vienen a la mente, para facilitarte la señal que buscas: «Lamido resol». Las tres mujeres te siguen fascinando y te resulta cada vez más difícil permanecer impasible.</p>`,
     actions: [
       {
-        id: 'xx',
+        id: '07',
         text: '«Mírela» es la palabra que te inspira',
       },
       {
-        id: 'xx',
+        id: '185',
         text: '«Escúchela» es la palabra que te gusta',
       },
     ],
