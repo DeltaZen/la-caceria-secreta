@@ -399,8 +399,7 @@ const pageArray: IPage[] = [
   },
   {
     id: '21',
-    html: `<p class="h1alt">La misteriosa chica vengativa.</p>  
-    <p class="asangre"><i>Has solventado el enigma. «Bribonzuela» y «Curiosear» son palabras pentavocálicas, es decir, que contienen todas las vocales, al igual que «Ecuación»</i>.</p>
+    html: `<p class="asangre"><i>Has solventado el enigma. «Bribonzuela» y «Curiosear» son palabras pentavocálicas, es decir, que contienen todas las vocales, al igual que «Ecuación»</i>.</p>
   
     <p>Algo te dice que ese curioso individuo puede saber algo de lo que está ocurriendo. Te acercas en silencio y descubres asombrado que en realidad se trata de una chiquilla que apenas debe tener catorce años. Bajo su capa con capucha, viste con pieles y harapos. Tiene el cabello largo pero parece tan sucio que no aciertas a adivinar el color. Lleva unas calzas que le vienen anchas y un cuerno le cuelga de un cinto hecho con cuerda de esparto. Mientras te habla, saca una flecha de su aljaba y se dispone a cargar su arco.</p>
   
