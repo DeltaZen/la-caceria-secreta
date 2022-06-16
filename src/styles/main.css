@@ -20,3 +20,8 @@ html.dark {
   box-shadow: 0 0 1.5rem #8f8d8b50 inset;
   background: #080808;
 }
+
+td {
+  text-align: left;
+  vertical-align: top;
+}
