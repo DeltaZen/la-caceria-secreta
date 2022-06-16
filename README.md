@@ -1,6 +1,6 @@
-# Webxdc React Template
+# La cacería secreta
 
-An starter Vite + TypeScript + React template for Webxdc developers.
+Aventura ambientada en el mundo de Tramórea basada en [esta plantilla](https://github.com/webxdc/webxdc-react)
 
 ## Features
 
