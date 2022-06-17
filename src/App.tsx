@@ -9,6 +9,7 @@ export default function App() {
   const [page, setPage] = useState(pages[initialIndex])
 
   useEffect(() => {
+    window.scrollTo(0, 0)
     if (page && page.id)
       window.localStorage.setItem('page', page.id)
   }, [page?.id])
